@@ -3,7 +3,8 @@
 import Image from "next/image";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
-import { Star, CaretLeft, CaretRight } from "@phosphor-icons/react/dist/ssr";
+import { CaretLeft, CaretRight } from "@phosphor-icons/react/dist/ssr";
+import { StarRating } from "@/components/ui/star-rating";
 import { Button } from "@/components/ui/button";
 import { useCallback, useEffect, useState } from "react";
 import type { GoogleReview } from "@/lib/google-places";
@@ -75,17 +76,14 @@ export function TestimonialsCarousel({ reviews }: TestimonialsCarouselProps) {
                 {/* Accent line */}
                 <div className="absolute top-0 left-0 right-0 h-1 bg-linear-to-r from-red-primary via-red-medium to-red-primary rounded-t-2xl opacity-0 group-hover:opacity-100 transition-opacity" />
 
-                {/* Stars */}
-                <div className="flex gap-0.5 mb-4">
-                  {[...Array(5)].map((_, i) => (
-                    <Star
-                      key={i}
-                      className={`size-4 ${
-                        i < review.rating ? "text-yellow-500" : "text-slate-200"
-                      }`}
-                      weight="fill"
-                    />
-                  ))}
+                {/* Stars (llenado proporcional al rating de la reseña) */}
+                <div className="mb-4">
+                  <StarRating
+                    rating={review.rating}
+                    starClassName="size-4"
+                    emptyClassName="text-slate-200"
+                    filledClassName="text-yellow-500"
+                  />
                 </div>
 
                 {/* Review text */}
