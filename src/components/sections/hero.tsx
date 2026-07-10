@@ -16,7 +16,7 @@ export async function Hero() {
 
   return (
     <section
-      id="home"
+      id="inicio"
       aria-labelledby="hero-title"
       className="relative min-h-svh flex items-center overflow-hidden"
     >
@@ -129,7 +129,7 @@ export async function Hero() {
             {/* Enlace secundario al formulario */}
             <div className="animate-hero-cta">
               <a
-                href="#contact"
+                href="#contacto"
                 className="group inline-flex items-center gap-1.5 text-base text-white/85 underline decoration-white/40 underline-offset-4 transition-colors duration-200 hover:text-white hover:decoration-white"
               >
                 {t("ctaContact")}

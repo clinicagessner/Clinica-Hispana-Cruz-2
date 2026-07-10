@@ -40,7 +40,7 @@ export function ChronicCare() {
   };
 
   return (
-    <section id="chronic-care" className="relative py-20 md:py-32 overflow-hidden">
+    <section id="condiciones-cronicas" className="relative py-20 md:py-32 overflow-hidden">
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{ backgroundImage: "url('/images/green-card-bg.webp')" }}
@@ -107,7 +107,7 @@ export function ChronicCare() {
               className="bg-red-primary hover:bg-red-dark text-white gap-2 shadow-lg shadow-red-primary/30 text-sm md:text-base px-6 md:px-8 w-full sm:w-auto"
               asChild
             >
-              <Link href={getLocalizedHref("/#contact")}>
+              <Link href={getLocalizedHref("/#contacto")}>
                 <CalendarCheck className="size-5" weight="bold" aria-hidden="true" />
                 {t("ctaSchedule")}
               </Link>
@@ -124,7 +124,7 @@ export function ChronicCare() {
 
           <div className="flex justify-center mt-6">
             <Link
-              href={getLocalizedHref("/services/condiciones-cronicas")}
+              href={getLocalizedHref("/servicios/condiciones-cronicas")}
               className="text-white/80 hover:text-white underline text-sm transition-colors"
             >
               {t("learnMore")}

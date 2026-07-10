@@ -43,15 +43,15 @@ Estamos ubicados en **13331 Kuykendahl Rd Ste 128, Houston, TX 77090**, con fác
 
 Ofrecemos una amplia gama de servicios médicos para toda la familia:
 
-- [**Medicina Familiar**](/services/condiciones-cronicas) - Atención integral para todas las edades, desde niños hasta adultos mayores. Chequeos preventivos, manejo de enfermedades agudas y seguimiento de salud general.
-- [**Exámenes de Inmigración**](/services/examenes-inmigracion) - Formulario I-693 realizado por Civil Surgeons certificados por USCIS. Proceso completo en español.
-- [**Laboratorio Clínico**](/services/examenes-sangre) - Análisis de sangre, orina y más con resultados rápidos y precisos. Sin necesidad de ir a otro lugar.
-- [**Ginecología**](/services/ginecologia) - Salud integral de la mujer: Papanicolaou, examen pélvico, planificación familiar y más.
-- [**Condiciones Crónicas**](/services/condiciones-cronicas) - Manejo especializado de diabetes, hipertensión, colesterol alto y otras condiciones de largo plazo.
-- [**Ultrasonido y EKG**](/services/ultrasonido) - Diagnóstico por imagen disponible en nuestra clínica, sin referencias externas.
-- [**Enfermedades Respiratorias**](/services/enfermedades-respiratorias) - Tratamiento de asma, bronquitis, neumonía y otras condiciones pulmonares.
-- [**Urología**](/services/salud-hombre) - Atención de problemas urinarios y del sistema reproductor masculino.
-- [**Vacunas y Anticonceptivos**](/services/vacunas) - Esquemas de vacunación completos para todas las edades y métodos anticonceptivos.
+- [**Medicina Familiar**](/servicios/condiciones-cronicas) - Atención integral para todas las edades, desde niños hasta adultos mayores. Chequeos preventivos, manejo de enfermedades agudas y seguimiento de salud general.
+- [**Exámenes de Inmigración**](/servicios/examenes-inmigracion) - Formulario I-693 realizado por Civil Surgeons certificados por USCIS. Proceso completo en español.
+- [**Laboratorio Clínico**](/servicios/examenes-sangre) - Análisis de sangre, orina y más con resultados rápidos y precisos. Sin necesidad de ir a otro lugar.
+- [**Ginecología**](/servicios/ginecologia) - Salud integral de la mujer: Papanicolaou, examen pélvico, planificación familiar y más.
+- [**Condiciones Crónicas**](/servicios/condiciones-cronicas) - Manejo especializado de diabetes, hipertensión, colesterol alto y otras condiciones de largo plazo.
+- [**Ultrasonido y EKG**](/servicios/ultrasonido) - Diagnóstico por imagen disponible en nuestra clínica, sin referencias externas.
+- [**Enfermedades Respiratorias**](/servicios/enfermedades-respiratorias) - Tratamiento de asma, bronquitis, neumonía y otras condiciones pulmonares.
+- [**Urología**](/servicios/salud-hombre) - Atención de problemas urinarios y del sistema reproductor masculino.
+- [**Vacunas y Anticonceptivos**](/servicios/vacunas) - Esquemas de vacunación completos para todas las edades y métodos anticonceptivos.
 
 ## La Comunidad Hispana de Houston y sus Necesidades de Salud
 

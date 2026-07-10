@@ -37,7 +37,7 @@ export default function ServiceError({
           </Button>
 
           <Button asChild variant="outline" className="gap-2">
-            <Link href="/services">
+            <Link href="/servicios">
               <ArrowLeft className="size-4" weight="bold" />
               Ver todos los servicios
             </Link>

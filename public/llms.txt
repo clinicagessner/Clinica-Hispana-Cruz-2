@@ -15,43 +15,43 @@ Clínica Hispana Cruz 2 is a Hispanic medical clinic located in Houston, Texas. 
 We offer comprehensive medical services including:
 
 ### General Medicine
-- Diabetes, Hypertension & Cholesterol Care (/services/condiciones-cronicas)
-- Thyroid Testing & Treatment (/services/tiroides)
-- Allergy Testing & Treatment (/services/alergias)
-- Flu & COVID Testing and Respiratory Illness Care (/services/enfermedades-respiratorias)
-- Men's Health Exams: PSA & Testosterone (/services/salud-hombre)
+- Diabetes, Hypertension & Cholesterol Care (/servicios/condiciones-cronicas)
+- Thyroid Testing & Treatment (/servicios/tiroides)
+- Allergy Testing & Treatment (/servicios/alergias)
+- Flu & COVID Testing and Respiratory Illness Care (/servicios/enfermedades-respiratorias)
+- Men's Health Exams: PSA & Testosterone (/servicios/salud-hombre)
 
 ### Women's Health
-- Gynecology Care: Pap Smear & Cultures (/services/ginecologia)
-- Pregnancy Testing & Confirmation (/services/prueba-embarazo)
-- Contraceptive Methods (/services/anticonceptivos)
-- Subdermal Implant Removal (/services/extraccion-implantes)
+- Gynecology Care: Pap Smear & Cultures (/servicios/ginecologia)
+- Pregnancy Testing & Confirmation (/servicios/prueba-embarazo)
+- Contraceptive Methods (/servicios/anticonceptivos)
+- Subdermal Implant Removal (/servicios/extraccion-implantes)
 
 ### Exams & Certificates
-- School & Sports Physical Exams (/services/examen-fisico-escolar)
-- Alcohol & Drug Testing (/services/examen-alcohol-drogas)
-- DOT Physical Exam - CDL License (/services/examen-dot)
-- Immigration Medical Exam I-693 (/services/examenes-inmigracion)
+- School & Sports Physical Exams (/servicios/examen-fisico-escolar)
+- Alcohol & Drug Testing (/servicios/examen-alcohol-drogas)
+- DOT Physical Exam - CDL License (/servicios/examen-dot)
+- Immigration Medical Exam I-693 (/servicios/examenes-inmigracion)
 
 ### Lab & Testing
-- Blood Tests | Lab (/services/examenes-sangre)
-- Stool Tests (/services/examen-heces)
-- Strep Test (/services/prueba-strep)
-- Tuberculosis (TB) Test (/services/prueba-tuberculosis)
-- Sexually Transmitted Disease (STD) Testing (/services/enfermedades-transmision-sexual)
-- Electrocardiogram (EKG) (/services/electrocardiograma)
-- Ultrasound & Sonography (/services/ultrasonido)
+- Blood Tests | Lab (/servicios/examenes-sangre)
+- Stool Tests (/servicios/examen-heces)
+- Strep Test (/servicios/prueba-strep)
+- Tuberculosis (TB) Test (/servicios/prueba-tuberculosis)
+- Sexually Transmitted Disease (STD) Testing (/servicios/enfermedades-transmision-sexual)
+- Electrocardiogram (EKG) (/servicios/electrocardiograma)
+- Ultrasound & Sonography (/servicios/ultrasonido)
 
 ### Treatments
-- Urinalysis & Urinary Infection Treatment (/services/infecciones-urinarias)
-- Flu and Tetanus (Tdap) Vaccines (/services/vacunas)
-- Vitamin IV Therapy (/services/sueros-vitaminados)
-- Wound Suturing (/services/suturas-heridas)
-- Wound Care (/services/curacion-heridas)
-- Minor Surgery (/services/cirugias-menores)
-- Abscess Drainage (/services/drenaje-abscesos)
-- Ingrown Toenail Removal (/services/unas-encarnadas)
-- Pharmacy (/services/farmacia)
+- Urinalysis & Urinary Infection Treatment (/servicios/infecciones-urinarias)
+- Flu and Tetanus (Tdap) Vaccines (/servicios/vacunas)
+- Vitamin IV Therapy (/servicios/sueros-vitaminados)
+- Wound Suturing (/servicios/suturas-heridas)
+- Wound Care (/servicios/curacion-heridas)
+- Minor Surgery (/servicios/cirugias-menores)
+- Abscess Drainage (/servicios/drenaje-abscesos)
+- Ingrown Toenail Removal (/servicios/unas-encarnadas)
+- Pharmacy (/servicios/farmacia)
 
 ## Languages
 - Spanish (Primary)

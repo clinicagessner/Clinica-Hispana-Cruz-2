@@ -29,10 +29,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Static pages
   const staticPages = [
     { path: "", priority: 1.0, changeFrequency: "daily" as const },
-    { path: "/services", priority: 0.9, changeFrequency: "weekly" as const },
+    { path: "/servicios", priority: 0.9, changeFrequency: "weekly" as const },
     { path: "/promociones", priority: 0.8, changeFrequency: "monthly" as const },
     { path: "/blog", priority: 0.8, changeFrequency: "daily" as const },
-    { path: "/privacy", priority: 0.3, changeFrequency: "monthly" as const },
+    { path: "/privacidad", priority: 0.3, changeFrequency: "monthly" as const },
   ];
 
   const staticRoutes: SitemapEntry[] = staticPages.flatMap((page) =>
@@ -48,11 +48,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Service pages
   const serviceRoutes: SitemapEntry[] = SERVICES.flatMap((service) =>
     locales.map((locale) => ({
-      url: `${baseUrl}${locale === "es" ? "" : `/${locale}`}/services/${service.slug}`,
+      url: `${baseUrl}${locale === "es" ? "" : `/${locale}`}/servicios/${service.slug}`,
       lastModified: now,
       changeFrequency: "monthly" as const,
       priority: 0.7,
-      alternates: createAlternates(`/services/${service.slug}`),
+      alternates: createAlternates(`/servicios/${service.slug}`),
     }))
   );
 

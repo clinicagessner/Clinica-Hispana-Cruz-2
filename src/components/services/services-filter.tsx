@@ -142,7 +142,7 @@ export function ServicesFilter({ services, categories }: ServicesFilterProps) {
             return (
               <Link
                 key={service.id}
-                href={getLocalizedHref(`/services/${service.slug}`)}
+                href={getLocalizedHref(`/servicios/${service.slug}`)}
                 className="group block"
               >
                 <article className="relative h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 hover:border-red-200 flex flex-col">

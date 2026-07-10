@@ -98,16 +98,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: service.description,
     keywords: service.keywords,
     alternates: {
-      canonical: `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`,
+      canonical: `${SITE_CONFIG.baseUrl}${localePath}/servicios/${slug}`,
       languages: {
-        es: `/services/${slug}`,
-        en: `/en/services/${slug}`,
+        es: `/servicios/${slug}`,
+        en: `/en/servicios/${slug}`,
       },
     },
     openGraph: {
       title: `${service.title} | ${SITE_CONFIG.name}`,
       description: service.description,
-      url: `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`,
+      url: `${SITE_CONFIG.baseUrl}${localePath}/servicios/${slug}`,
       images: [
         {
           url: `${SITE_CONFIG.baseUrl}${service.image}`,
@@ -144,8 +144,8 @@ export default async function ServicePage({ params }: Props) {
   const localePath = locale === "en" ? "/en" : "";
   const breadcrumbs = [
     { name: locale === "en" ? "Home" : "Inicio", url: `${SITE_CONFIG.baseUrl}${localePath}` },
-    { name: locale === "en" ? "Services" : "Servicios", url: `${SITE_CONFIG.baseUrl}${localePath}/services` },
-    { name: service.title, url: `${SITE_CONFIG.baseUrl}${localePath}/services/${service.slug}` },
+    { name: locale === "en" ? "Services" : "Servicios", url: `${SITE_CONFIG.baseUrl}${localePath}/servicios` },
+    { name: service.title, url: `${SITE_CONFIG.baseUrl}${localePath}/servicios/${service.slug}` },
   ];
 
   return (
@@ -168,7 +168,7 @@ export default async function ServicePage({ params }: Props) {
           <div className="container relative z-10 mx-auto px-4">
             {/* Back Link */}
             <Link
-              href="/services"
+              href="/servicios"
               className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-6 transition-colors"
             >
               <ArrowLeft className="size-4" weight="bold" />
@@ -331,7 +331,7 @@ export default async function ServicePage({ params }: Props) {
                   return (
                     <Link
                       key={related.id}
-                      href={`/services/${related.slug}`}
+                      href={`/servicios/${related.slug}`}
                       className="group block"
                     >
                       <article className="relative h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 hover:border-red-200">
@@ -377,7 +377,7 @@ export default async function ServicePage({ params }: Props) {
         name={service.title}
         description={service.description}
         image={service.image}
-        url={`${SITE_CONFIG.baseUrl}${localePath}/services/${service.slug}`}
+        url={`${SITE_CONFIG.baseUrl}${localePath}/servicios/${service.slug}`}
       />
       {getServiceFAQs(rawService.slug, locale).length > 0 && (
         <JsonLdFAQ questions={getServiceFAQs(rawService.slug, locale)} />

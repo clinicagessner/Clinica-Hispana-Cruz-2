@@ -54,7 +54,7 @@ export async function Services() {
   const featured = [...SERVICES].sort((a, b) => a.order - b.order).slice(0, 8);
 
   return (
-    <section id="services" aria-labelledby="services-title" className="py-16 md:py-24 bg-slate-light scroll-mt-20">
+    <section id="servicios" aria-labelledby="services-title" className="py-16 md:py-24 bg-slate-light scroll-mt-20">
       <div className="container mx-auto px-4">
         {/* Section Header */}
         <div className="text-center max-w-2xl mx-auto mb-12 md:mb-16">
@@ -74,7 +74,7 @@ export async function Services() {
             return (
               <Link
                 key={service.slug}
-                href={`/services/${service.slug}`}
+                href={`/servicios/${service.slug}`}
                 className={`group relative flex flex-col justify-end overflow-hidden rounded-2xl min-h-72 p-6 shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1 animate-on-scroll fade-up stagger-${(index % 4) + 1}`}
               >
                 {/* Imagen de fondo */}
@@ -117,7 +117,7 @@ export async function Services() {
         {/* View All Button */}
         <div className="text-center mt-12">
           <Button asChild size="lg" className="gap-2">
-            <Link href="/services">
+            <Link href="/servicios">
               {t("viewAll")}
               <ArrowRight className="size-5" aria-hidden="true" />
             </Link>

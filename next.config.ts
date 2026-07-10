@@ -29,7 +29,13 @@ const nextConfig: NextConfig = {
     // Cruz 2 es un sitio nuevo sin historial de WordPress: se eliminaron los ~110
     // redirects de migración del proyecto de referencia. Añadir aquí solo si el
     // dominio tuvo una web anterior con URLs que migrar.
-    return [];
+    return [
+      // Rutas renombradas al español (2026-07): conservar las inglesas como redirect
+      { source: "/services/:path*", destination: "/servicios/:path*", permanent: true },
+      { source: "/en/services/:path*", destination: "/en/servicios/:path*", permanent: true },
+      { source: "/privacy", destination: "/privacidad", permanent: true },
+      { source: "/en/privacy", destination: "/en/privacidad", permanent: true },
+    ];
   },
   async headers() {
     return [

@@ -16,16 +16,16 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
     title: "Política de Privacidad HIPAA",
     description: `Política de privacidad y aviso de prácticas de privacidad HIPAA de ${SITE_CONFIG.name}. Conozca cómo protegemos su información de salud.`,
     alternates: {
-      canonical: `${SITE_CONFIG.baseUrl}${localePath}/privacy`,
+      canonical: `${SITE_CONFIG.baseUrl}${localePath}/privacidad`,
       languages: {
-        es: "/privacy",
-        en: "/en/privacy",
+        es: "/privacidad",
+        en: "/en/privacidad",
       },
     },
     openGraph: {
       title: `Política de Privacidad HIPAA | ${SITE_CONFIG.name}`,
       description: `Política de privacidad y aviso de prácticas de privacidad HIPAA. Conozca cómo protegemos su información de salud en ${SITE_CONFIG.name}.`,
-      url: `${SITE_CONFIG.baseUrl}${localePath}/privacy`,
+      url: `${SITE_CONFIG.baseUrl}${localePath}/privacidad`,
       type: "website",
     },
     robots: {

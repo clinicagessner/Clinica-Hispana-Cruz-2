@@ -30,16 +30,16 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       ? "Medical services in Houston TX: family medicine, I-693 immigration exams, lab tests, gynecology, ultrasound, DOT physicals and more. Walk-ins welcome, Spanish-speaking staff."
       : "Servicios médicos en Houston TX: medicina familiar, exámenes I-693, laboratorio, ginecología, ultrasonido, examen DOT y más. Sin cita previa, atención en español.",
     alternates: {
-      canonical: `${SITE_CONFIG.baseUrl}${localePath}/services`,
+      canonical: `${SITE_CONFIG.baseUrl}${localePath}/servicios`,
       languages: {
-        es: "/services",
-        en: "/en/services",
+        es: "/servicios",
+        en: "/en/servicios",
       },
     },
     openGraph: {
       title: t("title"),
       description: t("subtitle"),
-      url: `${SITE_CONFIG.baseUrl}${localePath}/services`,
+      url: `${SITE_CONFIG.baseUrl}${localePath}/servicios`,
       images: [
         {
           url: `${SITE_CONFIG.baseUrl}/images/clinic-interior.webp`,
@@ -77,7 +77,7 @@ export default async function ServicesPage({ params }: Props) {
       <JsonLdCollectionPage
         name={t("title")}
         description={t("subtitle")}
-        url={`${SITE_CONFIG.baseUrl}${localePath}/services`}
+        url={`${SITE_CONFIG.baseUrl}${localePath}/servicios`}
       />
       <main className="min-h-screen bg-background">
         {/* Hero Header */}

@@ -27,7 +27,7 @@ El Formulario I-693, conocido como "Report of Medical Examination and Vaccinatio
 
 ## ¿Quién Puede Realizar el Examen I-693?
 
-Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este examen. En [Clínica Hispana Cruz 2](/services/examenes-inmigracion), contamos con Civil Surgeons certificados que realizan estos exámenes diariamente en Houston.
+Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este examen. En [Clínica Hispana Cruz 2](/servicios/examenes-inmigracion), contamos con Civil Surgeons certificados que realizan estos exámenes diariamente en Houston.
 
 ## ¿Qué Incluye el Examen Médico de Inmigración?
 
@@ -42,7 +42,7 @@ Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este
 - Prueba de tuberculosis (TB)
 - Otras pruebas según sea necesario
 
-Nuestro [laboratorio clínico](/services/examenes-sangre) realiza todos estos análisis en el mismo lugar, por lo que no necesitará ir a otro sitio para completar los requisitos de laboratorio del I-693.
+Nuestro [laboratorio clínico](/servicios/examenes-sangre) realiza todos estos análisis en el mismo lugar, por lo que no necesitará ir a otro sitio para completar los requisitos de laboratorio del I-693.
 
 ### Vacunas Requeridas
 USCIS requiere que los solicitantes estén al día con el esquema de vacunación recomendado por el Advisory Committee on Immunization Practices (ACIP). A continuación se detallan las vacunas más comunes exigidas:
@@ -150,7 +150,7 @@ Si su formulario fue rechazado, contáctenos. Podemos ayudarle a entender el mot
 
 ## Programe su Examen Hoy
 
-No deje que el examen médico retrase su proceso migratorio. Contáctenos hoy para programar su [examen de inmigración I-693](/services/examenes-inmigracion).
+No deje que el examen médico retrase su proceso migratorio. Contáctenos hoy para programar su [examen de inmigración I-693](/servicios/examenes-inmigracion).
 
 **Clínica Hispana Cruz 2**
 - Teléfono: (281) 789-0484

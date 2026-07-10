@@ -125,7 +125,7 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
                 </Link>
               ))}
               <Link
-                href={getLocalizedHref("/privacy")}
+                href={getLocalizedHref("/privacidad")}
                 className="text-white/70 hover:text-white transition-colors text-sm hover:translate-x-1 transform duration-200"
               >
                 {t("footer.privacy")}

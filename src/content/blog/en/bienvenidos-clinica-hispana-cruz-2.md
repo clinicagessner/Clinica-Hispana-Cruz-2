@@ -43,15 +43,15 @@ We are located at **13331 Kuykendahl Rd Ste 128, Houston, TX 77090**, with easy 
 
 We offer a wide range of medical services for the whole family:
 
-- [**Family Medicine**](/services/condiciones-cronicas) — Comprehensive care for all ages, from children to seniors. Preventive checkups, treatment of acute illnesses, and general health follow-up.
-- [**Immigration Medical Exams**](/services/examenes-inmigracion) — I-693 form completed by USCIS-certified Civil Surgeons. The entire process conducted in Spanish.
-- [**Clinical Laboratory**](/services/examenes-sangre) — Blood tests, urinalysis, and more with fast, accurate results — all in one place.
-- [**Gynecology**](/services/ginecologia) — Complete women's health care: Pap smears, pelvic exams, family planning, and more.
-- [**Chronic Conditions**](/services/condiciones-cronicas) — Specialized management of diabetes, hypertension, high cholesterol, and other long-term conditions.
-- [**Ultrasound & EKG**](/services/ultrasonido) — Diagnostic imaging available at our clinic, no outside referrals needed.
-- [**Respiratory Illnesses**](/services/enfermedades-respiratorias) — Treatment of asthma, bronchitis, pneumonia, and other lung conditions.
-- [**Urology**](/services/salud-hombre) — Care for urinary and male reproductive health concerns.
-- [**Vaccines & Contraceptives**](/services/vacunas) — Complete vaccination schedules for all ages and contraceptive methods.
+- [**Family Medicine**](/servicios/condiciones-cronicas) — Comprehensive care for all ages, from children to seniors. Preventive checkups, treatment of acute illnesses, and general health follow-up.
+- [**Immigration Medical Exams**](/servicios/examenes-inmigracion) — I-693 form completed by USCIS-certified Civil Surgeons. The entire process conducted in Spanish.
+- [**Clinical Laboratory**](/servicios/examenes-sangre) — Blood tests, urinalysis, and more with fast, accurate results — all in one place.
+- [**Gynecology**](/servicios/ginecologia) — Complete women's health care: Pap smears, pelvic exams, family planning, and more.
+- [**Chronic Conditions**](/servicios/condiciones-cronicas) — Specialized management of diabetes, hypertension, high cholesterol, and other long-term conditions.
+- [**Ultrasound & EKG**](/servicios/ultrasonido) — Diagnostic imaging available at our clinic, no outside referrals needed.
+- [**Respiratory Illnesses**](/servicios/enfermedades-respiratorias) — Treatment of asthma, bronchitis, pneumonia, and other lung conditions.
+- [**Urology**](/servicios/salud-hombre) — Care for urinary and male reproductive health concerns.
+- [**Vaccines & Contraceptives**](/servicios/vacunas) — Complete vaccination schedules for all ages and contraceptive methods.
 
 ## Houston's Hispanic Community and Their Health Needs
 

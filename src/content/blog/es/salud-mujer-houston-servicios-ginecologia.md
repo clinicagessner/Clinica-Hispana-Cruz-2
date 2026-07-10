@@ -145,7 +145,7 @@ El autoexamen mensual de seno es una herramienta sencilla que puede salvar vidas
 - Secreción del pezón (especialmente si es sanguinolenta)
 - Dolor persistente en un área específica
 
-Nuestros servicios de [ginecología en Houston](/services/ginecologia) incluyen la enseñanza personalizada del autoexamen durante cada consulta.
+Nuestros servicios de [ginecología en Houston](/servicios/ginecologia) incluyen la enseñanza personalizada del autoexamen durante cada consulta.
 
 ## Menopausia: Síntomas y Opciones de Tratamiento
 
@@ -202,7 +202,7 @@ La salud sexual es una parte integral del bienestar general de la mujer. Las inf
 - Comunicación abierta con su pareja sobre pruebas recientes
 - Chequeos ginecológicos anuales como parte de su rutina de salud
 
-Nuestros servicios de [enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual) son completamente confidenciales y se realizan en un ambiente de respeto y confianza. También ofrecemos [planificación familiar](/services/anticonceptivos) integral que incluye orientación sobre salud sexual y anticoncepción. Si ha tenido síntomas como flujo inusual o irritación, consulte nuestra página sobre [infecciones vaginales](/services/ginecologia) para más información.
+Nuestros servicios de [enfermedades de transmisión sexual](/servicios/enfermedades-transmision-sexual) son completamente confidenciales y se realizan en un ambiente de respeto y confianza. También ofrecemos [planificación familiar](/servicios/anticonceptivos) integral que incluye orientación sobre salud sexual y anticoncepción. Si ha tenido síntomas como flujo inusual o irritación, consulte nuestra página sobre [infecciones vaginales](/servicios/ginecologia) para más información.
 
 ## Por Qué Elegir Clínica Hispana Cruz 2
 
