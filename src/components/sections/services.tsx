@@ -51,7 +51,11 @@ const iconMap: Record<string, React.ElementType> = {
 export async function Services() {
   const [t, locale] = await Promise.all([getTranslations("services"), getLocale()]);
 
-  const featured = [...SERVICES].sort((a, b) => a.order - b.order).slice(0, 3);
+  // Selección fija para la home (en este orden); el resto del catálogo vive en /servicios
+  const FEATURED_SLUGS = ["ginecologia", "salud-hombre", "condiciones-cronicas"] as const;
+  const featured = FEATURED_SLUGS
+    .map((slug) => SERVICES.find((s) => s.slug === slug))
+    .filter((s): s is (typeof SERVICES)[number] => Boolean(s));
 
   return (
     <section id="servicios" aria-labelledby="services-title" className="py-16 md:py-24 bg-slate-light scroll-mt-20">
