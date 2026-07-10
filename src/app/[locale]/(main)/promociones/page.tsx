@@ -68,7 +68,6 @@ export default async function PromotionsPage({ params }: Props) {
   const localePath = locale === "en" ? "/en" : "";
 
   const labels = {
-    limitedTime: t("limitedTime"),
     priceLabel: t("priceLabel"),
     includesLabel: t("includesLabel"),
     ctaCall: t("ctaCall"),

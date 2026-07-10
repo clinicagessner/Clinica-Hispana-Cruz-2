@@ -15,7 +15,6 @@ export async function Promotions() {
   const promotions = getLocalizedPromotions(locale);
 
   const labels = {
-    limitedTime: t("limitedTime"),
     priceLabel: t("priceLabel"),
     includesLabel: t("includesLabel"),
     ctaCall: t("ctaCall"),

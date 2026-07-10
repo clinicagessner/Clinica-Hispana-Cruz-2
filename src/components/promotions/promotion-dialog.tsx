@@ -49,11 +49,6 @@ export function PromotionDialog({
                 <X className="size-5" weight="bold" />
               </Dialog.Close>
 
-              {/* Limited-time badge */}
-              <span className="absolute left-3 top-3 z-10 inline-flex items-center rounded-full bg-red-primary px-3 py-1 text-xs font-semibold text-white shadow-sm">
-                {labels.limitedTime}
-              </span>
-
               {/* Full flyer image — shown complete (no crop) */}
               <div className="relative aspect-4/5 w-full shrink-0 bg-red-bg">
                 <Image

@@ -34,7 +34,6 @@ export function getLocalizedPromotions(locale: string): LocalizedPromotion[] {
 }
 
 export interface PromotionLabels {
-  limitedTime: string;
   priceLabel: string;
   includesLabel: string;
   ctaCall: string;
