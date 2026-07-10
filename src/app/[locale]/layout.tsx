@@ -145,16 +145,14 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="preconnect" href="https://connect.facebook.net" />
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
-        {/* TODO(randy): PENDIENTE — script de CallRail propio de Cruz 2 (el listado de
-            Google muestra (281) 784-3360, señal de que ya usan call tracking). Cuando
-            tengas el swap.js de la cuenta de Cruz 2, reactiva aquí el bloque:
         <link rel="preconnect" href="https://cdn.callrail.com" />
         <link rel="dns-prefetch" href="https://cdn.callrail.com" />
+        {/* CallRail - Call Tracking (number swap) */}
         <script
           type="text/javascript"
-          src="//cdn.callrail.com/companies/XXXXXXXXX/XXXXXXXXXXXXXXXX/12/swap.js"
+          src="//cdn.callrail.com/companies/627710951/9d62e7f39addbae4c199/12/swap.js"
           async
-        /> */}
+        />
         {/* Meta Pixel noscript fallback (píxel 1x1 de tracking; next/image no aplica dentro de noscript) */}
         {metaPixelId && (
           <noscript>
