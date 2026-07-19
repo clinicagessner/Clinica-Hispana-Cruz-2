@@ -543,6 +543,39 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(to right, transparent, var(--red-light), transparent);
 }
 
+/* Tables */
+.blog-content table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: collapse;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.1);
+  font-size: 1rem;
+}
+
+.blog-content th {
+  background: var(--red-primary);
+  color: white;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.875rem 1.25rem;
+}
+
+.blog-content td {
+  padding: 0.875rem 1.25rem;
+  border-bottom: 1px solid var(--red-light);
+  color: var(--slate-dark);
+}
+
+.blog-content tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.blog-content tbody tr:nth-child(even) {
+  background: var(--red-bg);
+}
+
 /* First paragraph */
 .blog-content > p:first-of-type {
   font-size: 1.2rem;

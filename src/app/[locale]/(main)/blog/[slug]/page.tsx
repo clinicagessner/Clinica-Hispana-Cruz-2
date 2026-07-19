@@ -235,7 +235,34 @@ export default async function BlogPostPage({ params }: Props) {
 
 // Simple markdown parser (for basic formatting)
 function parseMarkdown(markdown: string): string {
-  let html = markdown
+  // Tablas: convertir antes de los reemplazos de párrafos/saltos de línea
+  const withTables = markdown.replace(
+    /^\|(.+)\|\r?\n\|[-| :]+\|\r?\n((?:\|.*\|\r?\n?)*)/gim,
+    (_match, header: string, body: string) => {
+      const headerCells = header
+        .split("|")
+        .map((cell) => cell.trim())
+        .filter(Boolean)
+        .map((cell) => `<th>${cell}</th>`)
+        .join("");
+      const bodyRows = body
+        .trim()
+        .split("\n")
+        .filter((row) => row.trim().startsWith("|"))
+        .map((row) => {
+          const cells = row
+            .split("|")
+            .slice(1, -1)
+            .map((cell) => `<td>${cell.trim()}</td>`)
+            .join("");
+          return `<tr>${cells}</tr>`;
+        })
+        .join("");
+      return `<table><thead><tr>${headerCells}</tr></thead><tbody>${bodyRows}</tbody></table>\n\n`;
+    }
+  );
+
+  let html = withTables
     // Headers
     .replace(/^### (.*$)/gim, '<h3>$1</h3>')
     .replace(/^## (.*$)/gim, '<h2>$1</h2>')
@@ -265,6 +292,13 @@ function parseMarkdown(markdown: string): string {
     .replace(/<\/li><br><li>/g, '</li><li>')
     .replace(/<br><ul>/g, '</p><ul>')
     .replace(/<\/ul><br>/g, '</ul><p>');
+
+  // Fix table structure (sacar <table> de los <p> generados por el paso de párrafos)
+  html = html
+    .replace(/<p><table>/g, '<table>')
+    .replace(/<\/table><\/p>/g, '</table>')
+    .replace(/<br><table>/g, '</p><table>')
+    .replace(/<\/table><br>/g, '</table><p>');
 
   return html;
 }
