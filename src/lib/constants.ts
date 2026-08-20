@@ -1618,10 +1618,11 @@ export const CONTENT_LAST_UPDATED = "2026-08-19";
 
 // Servicios destacados en el footer (los de mayor demanda en búsquedas)
 export const FOOTER_SERVICE_LINKS = [
+  { slug: "ginecologia", label: "Ginecología", labelEn: "Gynecology" },
+  { slug: "infecciones-urinarias", label: "Infecciones Urinarias", labelEn: "Urinary Tract Infections" },
   { slug: "examenes-inmigracion", label: "Examen de Inmigración I-693", labelEn: "Immigration Exam I-693" },
   { slug: "examen-dot", label: "Examen DOT para CDL", labelEn: "DOT Physical Exam" },
   { slug: "examenes-sangre", label: "Exámenes de Sangre", labelEn: "Blood Tests" },
-  { slug: "ginecologia", label: "Ginecología", labelEn: "Gynecology" },
   { slug: "vacunas", label: "Vacunas", labelEn: "Vaccines" },
   { slug: "condiciones-cronicas", label: "Control de Diabetes e Hipertensión", labelEn: "Diabetes & Hypertension Care" },
   { slug: "enfermedades-transmision-sexual", label: "Pruebas de ETS", labelEn: "STD Testing" },
