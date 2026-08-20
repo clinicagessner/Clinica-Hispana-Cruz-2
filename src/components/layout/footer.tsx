@@ -3,7 +3,7 @@ import Image from "next/image";
 import { getTranslations, getLocale } from "next-intl/server";
 import { Phone, MapPin, Clock, InstagramLogo, FacebookLogo, XLogo, LinkedinLogo, GoogleLogo } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
-import { SITE_CONFIG, CONTACT_INFO, SOCIAL_LINKS, NAV_ITEMS, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
+import { SITE_CONFIG, CONTACT_INFO, SOCIAL_LINKS, NAV_ITEMS, GOOGLE_REVIEWS_DATA, FOOTER_SERVICE_LINKS } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 
 type FooterProps = {
@@ -31,7 +31,7 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
     <footer className="bg-slate-dark text-white">
       {/* Main Footer */}
       <div className="container mx-auto px-4 py-12 md:py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10 lg:gap-12">
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link href={getLocalizedHref("/")} className="flex items-center gap-3 mb-4">
@@ -107,6 +107,30 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
                 </div>
               </li>
             </ul>
+          </div>
+
+          {/* Services */}
+          <div>
+            <h3 className="font-heading font-bold text-lg mb-5">
+              {t("footer.services")}
+            </h3>
+            <nav className="flex flex-col gap-3">
+              {FOOTER_SERVICE_LINKS.map((service) => (
+                <Link
+                  key={service.slug}
+                  href={getLocalizedHref(`/servicios/${service.slug}`)}
+                  className="text-white/70 hover:text-white transition-colors text-sm hover:translate-x-1 transform duration-200"
+                >
+                  {locale === "es" ? service.label : service.labelEn}
+                </Link>
+              ))}
+              <Link
+                href={getLocalizedHref("/servicios")}
+                className="text-red-light hover:text-white transition-colors text-sm font-medium hover:translate-x-1 transform duration-200"
+              >
+                {t("footer.allServices")}
+              </Link>
+            </nav>
           </div>
 
           {/* Quick Links */}

@@ -20,7 +20,7 @@ keywords:
 
 # DOT Physical Exam for Truck Drivers in Houston: Everything You Need to Know
 
-If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid **DOT physical exam** to obtain or renew your CDL license. At Clínica Hispana Cruz 2, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
+If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid [DOT physical exam](/servicios/examen-dot) to obtain or renew your CDL license. At Clínica Hispana Cruz 2, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
 
 ## What Is a DOT Physical Exam?
 
@@ -78,7 +78,7 @@ During the exam, our physician will evaluate the following areas:
 Some medical conditions may affect the duration of your certificate or require additional documentation:
 
 ### Diabetes
-- If you manage your diabetes **without insulin** (diet, exercise, or oral medication only), you can generally receive a 2-year certificate
+- If you [manage your diabetes](/servicios/condiciones-cronicas) **without insulin** (diet, exercise, or oral medication only), you can generally receive a 2-year certificate
 - If you use **insulin**, you need a special exemption from FMCSA (Federal Motor Carrier Safety Administration)
 
 ### High Blood Pressure
@@ -160,7 +160,7 @@ We understand the specific needs of Houston's Hispanic trucking community. Many 
 ## Frequently Asked Questions About the DOT Physical
 
 ### Does the DOT physical include drug testing?
-**No.** The DOT physical exam and drug testing are two separate things. We perform the physical exam. Drug and alcohol testing is your employer's responsibility or done through a testing consortium.
+**No.** The DOT physical exam and drug testing are two separate things. We perform the physical exam. Drug and alcohol testing is your employer's responsibility or done through a testing consortium. If your employer requires it, we also perform the [drug and alcohol test](/servicios/examen-alcohol-drogas) at our clinic.
 
 ### Can I get a DOT physical if I have diabetes?
 **Yes**, if your diabetes is controlled with diet, exercise, or oral medications (no insulin). If you use insulin, you need a special FMCSA exemption.
@@ -179,7 +179,7 @@ Approximately **30-45 minutes**. You leave with your certificate the same day.
 
 ## Contact Us
 
-Ready for your DOT physical? Visit Clínica Hispana Cruz 2 today:
+Ready for your DOT physical? Learn all the service details on our [DOT exam for CDL](/servicios/examen-dot) page or visit Clínica Hispana Cruz 2 today:
 
 - **Phone:** (281) 789-0484
 - **Address:** 13331 Kuykendahl Rd Ste 128, Houston, TX 77090

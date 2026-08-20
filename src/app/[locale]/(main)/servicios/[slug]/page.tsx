@@ -38,6 +38,8 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
+import { getBlogPost } from "@/lib/blog";
+import { SERVICE_BLOG_MAP } from "@/lib/service-blog-map";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
@@ -142,6 +144,12 @@ export default async function ServicePage({ params }: Props) {
   ).slice(0, 3).map((s) => getLocalizedService(s, locale));
 
   const localePath = locale === "en" ? "/en" : "";
+
+  // Blog posts that cover the same topic as this service
+  const relatedPosts = (SERVICE_BLOG_MAP[rawService.slug] ?? [])
+    .map((postSlug) => getBlogPost(postSlug, locale))
+    .filter((post) => post !== null);
+
   const breadcrumbs = [
     { name: locale === "en" ? "Home" : "Inicio", url: `${SITE_CONFIG.baseUrl}${localePath}` },
     { name: locale === "en" ? "Services" : "Servicios", url: `${SITE_CONFIG.baseUrl}${localePath}/servicios` },
@@ -168,7 +176,7 @@ export default async function ServicePage({ params }: Props) {
           <div className="container relative z-10 mx-auto px-4">
             {/* Back Link */}
             <Link
-              href="/servicios"
+              href={`${localePath}/servicios`}
               className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-6 transition-colors"
             >
               <ArrowLeft className="size-4" weight="bold" />
@@ -317,6 +325,39 @@ export default async function ServicePage({ params }: Props) {
           </section>
         )}
 
+        {/* Related Blog Articles */}
+        {relatedPosts.length > 0 && (
+          <section className="py-12 md:py-16">
+            <div className="container mx-auto px-4">
+              <h2 className="text-2xl md:text-3xl font-heading font-bold text-slate-dark mb-8 text-center">
+                {t("relatedArticles")}
+              </h2>
+              <div className="grid sm:grid-cols-2 gap-6 max-w-3xl mx-auto">
+                {relatedPosts.map((post) => (
+                  <Link
+                    key={post.slug}
+                    href={`${localePath}/blog/${post.slug}`}
+                    className="group block h-full bg-white rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 hover:border-red-200"
+                  >
+                    <article>
+                      <h3 className="font-heading font-bold text-slate-dark mb-2 group-hover:text-red-primary transition-colors">
+                        {post.title}
+                      </h3>
+                      <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
+                        {post.description}
+                      </p>
+                      <span className="inline-flex items-center gap-1 text-red-primary font-medium text-sm group-hover:gap-2 transition-all">
+                        {t("learnMore")}
+                        <ArrowRight className="size-4" weight="bold" />
+                      </span>
+                    </article>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+
         {/* Related Services */}
         {relatedServices.length > 0 && (
           <section className="py-12 md:py-16 bg-slate-50">
@@ -331,7 +372,7 @@ export default async function ServicePage({ params }: Props) {
                   return (
                     <Link
                       key={related.id}
-                      href={`/servicios/${related.slug}`}
+                      href={`${localePath}/servicios/${related.slug}`}
                       className="group block"
                     >
                       <article className="relative h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 hover:border-red-200">

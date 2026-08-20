@@ -39,7 +39,7 @@ Only physicians designated as **Civil Surgeons** by USCIS are authorized to perf
 
 ### Laboratory Tests
 - Blood test for syphilis (RPR/VDRL)
-- Tuberculosis test (TB skin test or IGRA blood test)
+- [Tuberculosis test](/servicios/prueba-tuberculosis) (TB skin test or IGRA blood test)
 - Additional tests as required by USCIS guidelines
 
 Our [clinical laboratory](/servicios/examenes-sangre) performs all of these tests on-site, so you will not need to go anywhere else to complete the lab requirements for the I-693.
@@ -58,7 +58,7 @@ USCIS requires that all applicants be up to date with the vaccination schedule r
 - **COVID-19:** Complete schedule per current USCIS guidelines
 - **HPV (Human Papillomavirus):** For applicants ages 11 to 26
 
-If you have already received some vaccines, bring your vaccination card or medical records. The Civil Surgeon will determine which vaccines are missing and only administer the ones you actually need.
+If you have already received some vaccines, bring your vaccination card or medical records. The Civil Surgeon will determine which vaccines are missing and only administer the ones you actually need. At our clinic we [administer any missing vaccines](/servicios/vacunas) during the same visit.
 
 ## How Much Does the I-693 Exam Cost in Houston?
 

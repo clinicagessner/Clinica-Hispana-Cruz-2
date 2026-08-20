@@ -39,7 +39,7 @@ Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este
 
 ### Pruebas de Laboratorio
 - Análisis de sangre para sífilis
-- Prueba de tuberculosis (TB)
+- [Prueba de tuberculosis (TB)](/servicios/prueba-tuberculosis)
 - Otras pruebas según sea necesario
 
 Nuestro [laboratorio clínico](/servicios/examenes-sangre) realiza todos estos análisis en el mismo lugar, por lo que no necesitará ir a otro sitio para completar los requisitos de laboratorio del I-693.
@@ -58,7 +58,7 @@ USCIS requiere que los solicitantes estén al día con el esquema de vacunación
 - **COVID-19**: Esquema completo según las pautas vigentes de USCIS
 - **HPV (Virus del Papiloma Humano)**: Para solicitantes de 11 a 26 años
 
-Si ya tiene algunas vacunas, traiga su cartilla de vacunación o registros médicos. El Civil Surgeon determinará qué vacunas faltan y solo se aplicarán las que realmente necesite.
+Si ya tiene algunas vacunas, traiga su cartilla de vacunación o registros médicos. El Civil Surgeon determinará qué vacunas faltan y solo se aplicarán las que realmente necesite. En nuestra clínica [aplicamos las vacunas](/servicios/vacunas) que le falten en la misma visita.
 
 ## ¿Cuánto Cuesta el Examen I-693 en Houston?
 

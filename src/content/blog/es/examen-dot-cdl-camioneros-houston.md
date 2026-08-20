@@ -20,7 +20,7 @@ keywords:
 
 # Examen DOT para Camioneros en Houston: Todo lo que Necesita Saber
 
-Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un **examen físico DOT** vigente para obtener o renovar su licencia CDL. En Clínica Hispana Cruz 2 realizamos este examen con atención **100% en español**, sin cita previa y con resultados el mismo día.
+Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un [examen físico DOT](/servicios/examen-dot) vigente para obtener o renovar su licencia CDL. En Clínica Hispana Cruz 2 realizamos este examen con atención **100% en español**, sin cita previa y con resultados el mismo día.
 
 ## ¿Qué es el Examen DOT?
 
@@ -78,7 +78,7 @@ Durante el examen, nuestro médico evaluará las siguientes áreas:
 Algunas condiciones médicas pueden afectar la duración de su certificado o requerir documentación adicional:
 
 ### Diabetes
-- Si controla su diabetes **sin insulina** (solo con dieta, ejercicio o pastillas), generalmente puede obtener un certificado de 2 años
+- Si [controla su diabetes](/servicios/condiciones-cronicas) **sin insulina** (solo con dieta, ejercicio o pastillas), generalmente puede obtener un certificado de 2 años
 - Si usa **insulina**, necesita una exención especial del FMCSA (Federal Motor Carrier Safety Administration)
 
 ### Presión Arterial Alta
@@ -160,7 +160,7 @@ Entendemos las necesidades específicas de la comunidad de camioneros hispanos e
 ## Preguntas Frecuentes sobre el Examen DOT
 
 ### ¿El examen DOT incluye prueba de drogas?
-**No.** El examen DOT físico y la prueba de drogas son dos cosas separadas. Nosotros realizamos el examen físico. Las pruebas de drogas y alcohol son responsabilidad de su empleador o del consorcio de pruebas al que esté inscrito.
+**No.** El examen DOT físico y la prueba de drogas son dos cosas separadas. Nosotros realizamos el examen físico. Las pruebas de drogas y alcohol son responsabilidad de su empleador o del consorcio de pruebas al que esté inscrito. Si su empleador se la pide, también realizamos el [examen de alcohol y drogas](/servicios/examen-alcohol-drogas) en nuestra clínica.
 
 ### ¿Puedo hacer el examen DOT si tengo diabetes?
 **Sí**, si su diabetes está controlada con dieta, ejercicio o medicamentos orales (sin insulina). Si usa insulina, necesita una exención especial del FMCSA.
@@ -179,7 +179,7 @@ Aproximadamente **30-45 minutos**. Sale con su certificado el mismo día.
 
 ## Contacto
 
-¿Listo para su examen DOT? Visite Clínica Hispana Cruz 2 hoy:
+¿Listo para su examen DOT? Conozca todos los detalles del servicio en nuestra página del [examen DOT para CDL](/servicios/examen-dot) o visite Clínica Hispana Cruz 2 hoy:
 
 - **Teléfono:** (281) 789-0484
 - **Dirección:** 13331 Kuykendahl Rd Ste 128, Houston, TX 77090
