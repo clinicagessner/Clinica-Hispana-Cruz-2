@@ -107,10 +107,10 @@ export function ChronicCare() {
               className="bg-red-primary hover:bg-red-dark text-white gap-2 shadow-lg shadow-red-primary/30 text-sm md:text-base px-6 md:px-8 w-full sm:w-auto"
               asChild
             >
-              <Link href={getLocalizedHref("/#contacto")}>
+              <a href="#contacto">
                 <CalendarCheck className="size-5" weight="bold" aria-hidden="true" />
                 {t("ctaSchedule")}
-              </Link>
+              </a>
             </Button>
             <a
               href={`tel:${CONTACT_INFO.phone}`}
