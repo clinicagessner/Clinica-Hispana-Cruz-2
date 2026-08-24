@@ -61,10 +61,14 @@ We inform you of the cost before any service. No surprises.
 ### Services Included
 All our services are available for uninsured patients:
 - Medical consultations
+- [Gynecology and Pap smear](/servicios/ginecologia)
+- [Urine test and UTI treatment](/servicios/infecciones-urinarias)
 - Laboratory
 - Ultrasound
 - Vaccines
 - Physical exams
+
+Also check our [promotions and health packages](/promociones), designed for self-pay patients.
 
 ## How to Save on Healthcare
 
@@ -136,7 +140,7 @@ One of the most costly mistakes that uninsured families make is going to the eme
 
 | Condition | Emergency Room (average) | Community Clinic (approximate) |
 |-----------|--------------------------|-------------------------------|
-| Urinary tract infection | $1,200 – $2,500 | $60 – $120 |
+| [Urinary tract infection](/servicios/infecciones-urinarias) | $1,200 – $2,500 | $60 – $120 |
 | Severe flu or cold | $900 – $2,000 | $50 – $100 |
 | High blood pressure without crisis | $1,500 – $3,000 | $60 – $130 |
 | Basic blood test | $800 – $1,500 | $30 – $80 |

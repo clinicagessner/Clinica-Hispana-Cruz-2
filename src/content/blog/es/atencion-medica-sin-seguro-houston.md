@@ -61,10 +61,14 @@ Le informamos el costo antes de cualquier servicio. Sin sorpresas.
 ### Servicios Incluidos
 Todos nuestros servicios están disponibles para pacientes sin seguro:
 - Consultas médicas
+- [Ginecología y papanicolaou](/servicios/ginecologia)
+- [Examen de orina e infecciones urinarias](/servicios/infecciones-urinarias)
 - Laboratorio
 - Ultrasonido
 - Vacunas
 - Exámenes físicos
+
+Revise también nuestras [promociones y paquetes de salud](/promociones), pensados para pacientes que pagan de su bolsillo.
 
 ## Cómo Ahorrar en Atención Médica
 
@@ -136,7 +140,7 @@ Uno de los errores más costosos que cometen las familias sin seguro es ir a la 
 
 | Condición | Sala de Emergencia (promedio) | Clínica Comunitaria (aproximado) |
 |-----------|-------------------------------|----------------------------------|
-| Infección urinaria | $1,200 – $2,500 | $60 – $120 |
+| [Infección urinaria](/servicios/infecciones-urinarias) | $1,200 – $2,500 | $60 – $120 |
 | Gripe o resfriado severo | $900 – $2,000 | $50 – $100 |
 | Presión alta sin crisis | $1,500 – $3,000 | $60 – $130 |
 | Análisis de sangre básico | $800 – $1,500 | $30 – $80 |

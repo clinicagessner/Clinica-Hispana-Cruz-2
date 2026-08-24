@@ -202,7 +202,7 @@ Sexual health is an integral part of a woman's overall well-being. Sexually tran
 - Open communication with your partner about recent testing
 - Annual gynecological checkups as part of your health routine
 
-Our [sexually transmitted disease services](/servicios/enfermedades-transmision-sexual) are completely confidential and conducted in an environment of respect and trust. We also offer comprehensive [family planning](/servicios/anticonceptivos) that includes sexual health counseling and contraception. If you have experienced symptoms like unusual discharge or irritation, visit our page on [vaginal infections](/servicios/ginecologia) for more information.
+Our [sexually transmitted disease services](/servicios/enfermedades-transmision-sexual) are completely confidential and conducted in an environment of respect and trust. We also offer comprehensive [family planning](/servicios/anticonceptivos) that includes sexual health counseling and contraception. If you have experienced symptoms like unusual discharge or irritation, visit our page on [vaginal infections](/servicios/ginecologia) for more information. If what you feel is burning when urinating or a constant urge to go, it may be a [urinary tract infection](/servicios/infecciones-urinarias), which we diagnose and treat the same day.
 
 ## Why Choose Clínica Hispana Cruz 2
 
