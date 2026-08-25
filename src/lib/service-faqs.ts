@@ -162,30 +162,54 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "ginecologia": {
     "faqs": [
       {
+        "question": "¿Cuánto cuesta una consulta de ginecología o un papanicolaou sin seguro?",
+        "answer": "No necesitas seguro médico. Manejamos precios de pago directo, transparentes y accesibles; te decimos el costo antes de la consulta. Revisa también nuestra página de promociones, donde solemos incluir paquetes de salud de la mujer."
+      },
+      {
+        "question": "¿El personal de ginecología habla español?",
+        "answer": "Sí. Toda la atención, desde la recepción hasta la consulta, es en español, para que puedas explicar tus síntomas y entender tu tratamiento sin barreras."
+      },
+      {
+        "question": "¿Qué incluye el chequeo de mujer (well-woman exam)?",
+        "answer": "Una consulta ginecológica con revisión de tu historial, papanicolaou, evaluación de síntomas como flujo, comezón o dolor, y cultivos vaginales si se necesitan. Si hace falta un especialista, te damos la referencia."
+      },
+      {
+        "question": "Tengo flujo, comezón o mal olor. ¿Me pueden tratar el mismo día?",
+        "answer": "Sí. Evaluamos tus síntomas, tomamos un cultivo si es necesario y, en la mayoría de los casos, sales con tu tratamiento el mismo día. Si los síntomas son ardor al orinar, también hacemos examen de orina para descartar una infección urinaria."
+      },
+      {
         "question": "¿Necesito cita para el papanicolaou?",
-        "answer": "No es obligatorio, atendemos sin cita; pero puedes llamarnos para reservar un horario cómodo."
+        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. Si prefieres asegurar un horario, llámanos y te lo reservamos."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
-      },
-      {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Hacen pruebas de enfermedades de transmisión sexual?",
+        "answer": "Sí, ofrecemos pruebas y tratamiento de ETS de forma confidencial. Puedes pedirlas en la misma visita de ginecología."
       }
     ],
     "faqsEn": [
       {
+        "question": "How much does a gynecology visit or Pap smear cost without insurance?",
+        "answer": "You don't need health insurance. We offer transparent, affordable self-pay pricing and tell you the cost before your visit. Also check our promotions page, where we often include women's health packages."
+      },
+      {
+        "question": "Does the gynecology staff speak Spanish?",
+        "answer": "Yes. Everything from the front desk to the exam room is in Spanish, so you can explain your symptoms and understand your treatment without barriers."
+      },
+      {
+        "question": "What does the well-woman exam include?",
+        "answer": "A gynecology visit with a review of your history, a Pap smear, evaluation of symptoms such as discharge, itching or pain, and vaginal cultures if needed. If you need a specialist, we provide the referral."
+      },
+      {
+        "question": "I have discharge, itching or odor. Can you treat me the same day?",
+        "answer": "Yes. We evaluate your symptoms, take a culture if needed and, in most cases, you leave with treatment the same day. If your symptom is burning when urinating, we also run a urine test to rule out a UTI."
+      },
+      {
         "question": "Do I need an appointment for a Pap smear?",
-        "answer": "It's not required, we welcome walk-ins; but you can call us to reserve a convenient time."
+        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. If you prefer a guaranteed time, call us and we'll reserve it."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
-      },
-      {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Do you offer STD testing?",
+        "answer": "Yes, we offer confidential STD testing and treatment. You can request it during the same gynecology visit."
       }
     ]
   },
@@ -342,30 +366,54 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "infecciones-urinarias": {
     "faqs": [
       {
+        "question": "¿Cuáles son los síntomas de una infección urinaria?",
+        "answer": "Ardor al orinar, ganas constantes de ir al baño aunque salga poco, orina turbia o con mal olor, y dolor en la parte baja del abdomen. Si además tienes fiebre o dolor en la espalda baja, ven el mismo día: la infección puede estar llegando a los riñones."
+      },
+      {
         "question": "¿Puedo recibir tratamiento el mismo día?",
-        "answer": "Sí, hacemos el examen de orina y, si hay infección, iniciamos el tratamiento el mismo día."
+        "answer": "Sí. Hacemos el examen de orina en la clínica, revisamos tus síntomas y, si hay infección, sales con tu tratamiento en la misma visita."
+      },
+      {
+        "question": "¿Cuánto cuesta el examen de orina y el tratamiento sin seguro?",
+        "answer": "No necesitas seguro médico. Manejamos precios de pago directo, transparentes y accesibles; te informamos el costo antes de atenderte. Aceptamos efectivo y tarjetas."
+      },
+      {
+        "question": "¿Cuánto tarda el resultado del examen de orina?",
+        "answer": "El examen general de orina se procesa en la clínica durante tu visita, así que el médico revisa el resultado contigo en la misma consulta."
       },
       {
         "question": "¿Necesito cita previa?",
         "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Qué hago si las infecciones urinarias me regresan seguido?",
+        "answer": "Las infecciones repetidas merecen evaluación. Revisamos posibles causas, te damos indicaciones para prevenirlas y, si es necesario, hacemos estudios adicionales o te referimos con un especialista."
       }
     ],
     "faqsEn": [
       {
+        "question": "What are the symptoms of a urinary tract infection?",
+        "answer": "Burning when you urinate, a constant urge to go even if little comes out, cloudy or foul-smelling urine, and lower-abdomen pain. If you also have fever or lower-back pain, come in the same day: the infection may be reaching your kidneys."
+      },
+      {
         "question": "Can I get treatment the same day?",
-        "answer": "Yes, we run the urine test and, if there's an infection, we start treatment the same day."
+        "answer": "Yes. We run the urine test in the clinic, review your symptoms and, if there's an infection, you leave with treatment in the same visit."
+      },
+      {
+        "question": "How much do the urine test and treatment cost without insurance?",
+        "answer": "You don't need health insurance. We offer transparent, affordable self-pay pricing and tell you the cost before your visit. We accept cash and cards."
+      },
+      {
+        "question": "How long does the urine test take?",
+        "answer": "The urinalysis is processed in the clinic during your visit, so the doctor reviews the result with you in the same consultation."
       },
       {
         "question": "Do I need an appointment?",
         "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "What if my UTIs keep coming back?",
+        "answer": "Recurrent infections deserve evaluation. We look at possible causes, give you prevention guidance and, if needed, order additional tests or refer you to a specialist."
       }
     ]
   },
