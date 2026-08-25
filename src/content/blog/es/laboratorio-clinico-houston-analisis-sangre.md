@@ -55,6 +55,8 @@ Incluye todo lo anterior más:
 - T3 y T4
 - Evaluación de función tiroidea
 
+Si el resultado sale alterado, el [control de tiroides](/servicios/tiroides) con seguimiento se hace en la misma clínica.
+
 ### Hemograma Completo (CBC)
 - Glóbulos rojos
 - Glóbulos blancos
@@ -67,9 +69,9 @@ Incluye todo lo anterior más:
 - Tolerancia a la glucosa
 
 ### Otras Pruebas
-- Análisis de orina
-- Pruebas de embarazo
-- Pruebas de ETS
+- [Análisis de orina](/servicios/infecciones-urinarias) (detecta infecciones urinarias, con tratamiento el mismo día)
+- [Pruebas de embarazo](/servicios/prueba-embarazo)
+- [Pruebas de ETS](/servicios/enfermedades-transmision-sexual)
 - Vitamina D
 - Hierro y ferritina
 
@@ -191,7 +193,7 @@ Muy solicitado por mujeres en Houston con síntomas de menopausia o irregularida
 - Estradiol
 - Prolactina
 
-Pregunte en recepción por los paquetes disponibles y sus precios actuales.
+Este paquete suele combinarse con la [consulta de ginecología](/servicios/ginecologia) y el papanicolaou. Pregunte en recepción por los paquetes disponibles y sus precios actuales, o revise las [promociones vigentes](/promociones).
 
 ## Análisis de Laboratorio para Condiciones Específicas
 
@@ -216,13 +218,15 @@ El embarazo requiere vigilancia especial desde las primeras semanas:
 - **Pruebas de ETS:** Sífilis, VIH, hepatitis B — exigidas en el control prenatal
 - **Función tiroidea (TSH):** El hipotiroidismo no tratado puede afectar el desarrollo del bebé
 
+Si sospecha que está embarazada, empiece con una [prueba de embarazo](/servicios/prueba-embarazo) en la clínica; nuestro equipo de [ginecología](/servicios/ginecologia) le orienta sobre los siguientes pasos.
+
 ### Salud Cardiovascular
 
 Las enfermedades del corazón son la principal causa de muerte en Houston y en todo Estados Unidos. Los análisis preventivos marcan la diferencia:
 - Perfil de lípidos completo (idealmente cada año)
 - Glucosa en ayunas (la diabetes dobla el riesgo cardíaco)
 - Proteína C reactiva de alta sensibilidad (marcador de inflamación)
-- Electrocardiograma si su médico lo indica — disponible también en nuestra clínica
+- [Electrocardiograma](/servicios/electrocardiograma) si su médico lo indica — disponible también en nuestra clínica
 
 Visite nuestra página de [laboratorio clínico](/servicios/examenes-sangre) para conocer todos los análisis disponibles sin cita previa en Houston TX.
 

@@ -55,6 +55,8 @@ Includes everything above plus:
 - T3 and T4
 - Thyroid function evaluation
 
+If your result comes back abnormal, [thyroid management](/servicios/tiroides) with follow-up is done at the same clinic.
+
 ### Complete Blood Count (CBC)
 - Red blood cells
 - White blood cells
@@ -67,9 +69,9 @@ Includes everything above plus:
 - Glucose tolerance
 
 ### Other Tests
-- Urinalysis
-- Pregnancy tests
-- STI testing
+- [Urinalysis](/servicios/infecciones-urinarias) (detects urinary tract infections, with same-day treatment)
+- [Pregnancy tests](/servicios/prueba-embarazo)
+- [STI testing](/servicios/enfermedades-transmision-sexual)
 - Vitamin D
 - Iron and ferritin
 
@@ -191,7 +193,7 @@ Highly requested by women in Houston with menopause symptoms or menstrual irregu
 - Estradiol
 - Prolactin
 
-Ask at the front desk about available packages and current pricing.
+This package is often combined with a [gynecology visit](/servicios/ginecologia) and Pap smear. Ask at the front desk about available packages and current pricing, or check our [current promotions](/promociones).
 
 ## Lab Tests for Specific Conditions
 
@@ -216,13 +218,15 @@ Pregnancy requires special monitoring from the earliest weeks:
 - **STI testing:** Syphilis, HIV, hepatitis B — required in prenatal care
 - **Thyroid function (TSH):** Untreated hypothyroidism can affect the baby's development
 
+If you think you may be pregnant, start with a [pregnancy test](/servicios/prueba-embarazo) at the clinic; our [gynecology](/servicios/ginecologia) team will guide you on the next steps.
+
 ### Cardiovascular Health
 
 Heart disease is the leading cause of death in Houston and across the United States. Preventive lab tests make a real difference:
 - Complete lipid panel (ideally once a year)
 - Fasting glucose (diabetes doubles cardiac risk)
 - High-sensitivity C-reactive protein (inflammation marker)
-- Electrocardiogram if your doctor recommends it — also available at our clinic
+- [Electrocardiogram](/servicios/electrocardiograma) if your doctor recommends it — also available at our clinic
 
 Visit our [clinical laboratory](/servicios/examenes-sangre) page to see all available tests with no appointment needed in Houston TX.
 
