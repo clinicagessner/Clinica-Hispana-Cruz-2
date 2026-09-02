@@ -1249,6 +1249,30 @@ export const PROMOTIONS: Promotion[] = [
     order: 0,
   },
   {
+    slug: "salud-mamaria",
+    title: "Evaluación Integral de Salud Mamaria",
+    titleEn: "Comprehensive Breast Health Evaluation",
+    price: "$175",
+    blurb:
+      "¿Hace cuánto no revisas tus senos? Evaluación integral de salud mamaria con ultrasonido mamario bilateral, examen general de sangre y consulta médica gratis. Precio regular $350, ahora por solo $175.",
+    blurbEn:
+      "How long since your last breast check? Comprehensive breast health evaluation with bilateral breast ultrasound, general blood test and a free medical consultation. Regular price $350, now only $175.",
+    includes: [
+      "Ultrasonido mamario bilateral",
+      "Examen general de sangre",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Bilateral breast ultrasound",
+      "General blood test",
+      "Free medical consultation",
+    ],
+    image: "/images/promotions/salud-mamaria.webp",
+    alt: "Promoción de evaluación integral de salud mamaria por $175 con ultrasonido mamario bilateral, examen general de sangre y consulta médica gratis en Clínica Hispana Cruz 2 Houston",
+    altEn: "Comprehensive breast health evaluation promotion for $175 with bilateral breast ultrasound, general blood test and free medical consultation at Clínica Hispana Cruz 2 Houston",
+    order: 1,
+  },
+  {
     slug: "chequeo-prostata",
     title: "Chequeo Completo de Próstata",
     titleEn: "Complete Prostate Checkup",
