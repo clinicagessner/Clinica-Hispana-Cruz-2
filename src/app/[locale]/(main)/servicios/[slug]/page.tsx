@@ -238,7 +238,7 @@ export default async function ServicePage({ params }: Props) {
         <section className="py-12 md:py-16">
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto">
-              <ServiceContent content={service.longDescription} />
+              <ServiceContent content={service.longDescription} localePath={localePath} />
             </div>
           </div>
         </section>
@@ -432,7 +432,24 @@ export default async function ServicePage({ params }: Props) {
   );
 }
 
-function ServiceContent({ content }: { content: string }) {
+// Enlaces markdown [texto](/ruta) dentro del contenido; rutas internas se
+// prefijan con el locale para que /en enlace a /en/...
+function renderInline(text: string, localePath: string) {
+  const parts = text.split(/(\[[^\]]+\]\([^)]+\))/g);
+  return parts.map((part, i) => {
+    const m = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+    if (!m) return part;
+    const [, label, href] = m;
+    const url = href.startsWith("/") ? `${localePath}${href}` : href;
+    return (
+      <Link key={i} href={url} className="text-red-primary font-medium hover:underline underline-offset-4">
+        {label}
+      </Link>
+    );
+  });
+}
+
+function ServiceContent({ content, localePath }: { content: string; localePath: string }) {
   const sections = content.split("\n\n");
 
   return (
@@ -459,13 +476,13 @@ function ServiceContent({ content }: { content: string }) {
                   {listItems.map((item, j) => (
                     <li key={j} className="flex items-start gap-2.5 text-slate-600">
                       <CheckCircle className="size-4 text-red-primary shrink-0 mt-1" weight="fill" />
-                      <span className="text-sm md:text-base">{item}</span>
+                      <span className="text-sm md:text-base">{renderInline(item, localePath)}</span>
                     </li>
                   ))}
                 </ul>
               )}
               {paragraphs.map((p, j) => (
-                <p key={j} className="text-slate-600 leading-relaxed mt-2 ml-4 text-sm md:text-base">{p}</p>
+                <p key={j} className="text-slate-600 leading-relaxed mt-2 ml-4 text-sm md:text-base">{renderInline(p, localePath)}</p>
               ))}
             </div>
           );
@@ -475,7 +492,7 @@ function ServiceContent({ content }: { content: string }) {
         if (trimmed) {
           return (
             <p key={i} className="text-slate-600 leading-relaxed text-sm md:text-base">
-              {trimmed}
+              {renderInline(trimmed, localePath)}
             </p>
           );
         }

@@ -7,7 +7,7 @@ import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getBlogPosts, getBlogPost, getRelatedPosts } from "@/lib/blog";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { CalendarDots, Clock, ArrowLeft, Phone } from "@phosphor-icons/react/dist/ssr";
+import { CalendarDots, Clock, ArrowLeft, Phone, ShieldCheck } from "@phosphor-icons/react/dist/ssr";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 
 type Props = {
@@ -142,12 +142,26 @@ export default async function BlogPostPage({ params }: Props) {
               <div className="flex flex-wrap items-center gap-4 text-sm text-white/70">
                 <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                   <CalendarDots className="w-4 h-4" weight="fill" />
-                  {new Date(post.date).toLocaleDateString(locale, {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric",
-                  })}
+                  <time dateTime={post.date}>
+                    {new Date(post.date).toLocaleDateString(locale, {
+                      year: "numeric",
+                      month: "long",
+                      day: "numeric",
+                    })}
+                  </time>
                 </span>
+                {post.dateModified && post.dateModified !== post.date && (
+                  <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
+                    {t("updated")}{" "}
+                    <time dateTime={post.dateModified}>
+                      {new Date(post.dateModified).toLocaleDateString(locale, {
+                        year: "numeric",
+                        month: "long",
+                        day: "numeric",
+                      })}
+                    </time>
+                  </span>
+                )}
                 {post.readTime && (
                   <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                     <Clock className="w-4 h-4" weight="fill" />
@@ -156,6 +170,10 @@ export default async function BlogPostPage({ params }: Props) {
                 )}
                 <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                   {t("by")} <strong className="text-white">{post.author}</strong>
+                </span>
+                <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
+                  <ShieldCheck className="w-4 h-4" weight="fill" />
+                  {t("reviewedBy")}
                 </span>
               </div>
             </div>

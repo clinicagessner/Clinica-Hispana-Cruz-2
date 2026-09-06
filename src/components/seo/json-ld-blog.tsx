@@ -33,6 +33,12 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
       name: post.author,
       url: SITE_CONFIG.baseUrl,
     },
+    // El contenido lo revisa el equipo médico de la clínica (sin autor individual)
+    reviewedBy: {
+      "@type": "MedicalOrganization",
+      name: `${SITE_CONFIG.name} - Equipo médico`,
+      url: SITE_CONFIG.baseUrl,
+    },
     publisher: {
       "@type": "MedicalClinic",
       name: SITE_CONFIG.name,
@@ -76,7 +82,8 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
         "@type": "ListItem",
         position: 2,
         name: "Blog",
-        item: `${SITE_CONFIG.baseUrl}/${locale}/blog`,
+        // es no lleva prefijo: /es/blog es una redirección, no la URL canónica
+        item: locale === "en" ? `${SITE_CONFIG.baseUrl}/en/blog` : `${SITE_CONFIG.baseUrl}/blog`,
       },
       {
         "@type": "ListItem",

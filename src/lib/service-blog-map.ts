@@ -8,7 +8,11 @@ export const SERVICE_BLOG_MAP: Record<string, string[]> = {
     "control-diabetes-houston-guia-pacientes",
     "atencion-medica-sin-seguro-houston",
   ],
-  "ginecologia": ["salud-mujer-houston-servicios-ginecologia"],
+  "ginecologia": [
+    "salud-mujer-houston-servicios-ginecologia",
+    "infeccion-urinaria-sintomas-tratamiento-houston",
+  ],
+  "infecciones-urinarias": ["infeccion-urinaria-sintomas-tratamiento-houston"],
   "anticonceptivos": ["salud-mujer-houston-servicios-ginecologia"],
   "salud-hombre": ["salud-hombre-houston-chequeos-preventivos"],
   "sueros-vitaminados": ["vitamina-b12-houston-beneficios-inyecciones"],

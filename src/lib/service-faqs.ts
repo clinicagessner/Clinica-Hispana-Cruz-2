@@ -163,7 +163,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Cuánto cuesta una consulta de ginecología o un papanicolaou sin seguro?",
-        "answer": "No necesitas seguro médico. Manejamos precios de pago directo, transparentes y accesibles; te decimos el costo antes de la consulta. Revisa también nuestra página de promociones, donde solemos incluir paquetes de salud de la mujer."
+        "answer": "No necesitas seguro médico. Manejamos precios de pago directo, transparentes y accesibles; te decimos el costo antes de la consulta. Solemos tener paquetes de salud de la mujer en la página de promociones, por ejemplo el Chequeo de la Mujer con Ultrasonido por $179 (papanicolaou, ultrasonido pélvico, examen de orina y consulta) o Salud Íntima Femenina por $69 (cultivo, consulta y examen de orina). Los precios de promoción pueden cambiar; llámanos para confirmar."
       },
       {
         "question": "¿El personal de ginecología habla español?",
@@ -189,7 +189,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "How much does a gynecology visit or Pap smear cost without insurance?",
-        "answer": "You don't need health insurance. We offer transparent, affordable self-pay pricing and tell you the cost before your visit. Also check our promotions page, where we often include women's health packages."
+        "answer": "You don't need health insurance. We offer transparent, affordable self-pay pricing and tell you the cost before your visit. We usually have women's health packages on the promotions page, for example the Women's Checkup with Ultrasound for $179 (Pap smear, pelvic ultrasound, urine test and consultation) or Women's Intimate Health for $69 (culture, consultation and urine test). Promotional prices may change; call us to confirm."
       },
       {
         "question": "Does the gynecology staff speak Spanish?",
@@ -375,7 +375,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Cuánto cuesta el examen de orina y el tratamiento sin seguro?",
-        "answer": "No necesitas seguro médico. Manejamos precios de pago directo, transparentes y accesibles; te informamos el costo antes de atenderte. Aceptamos efectivo y tarjetas."
+        "answer": "No necesitas seguro médico. Manejamos precios de pago directo, transparentes y accesibles; te informamos el costo antes de atenderte. En la página de promociones solemos tener paquetes desde $69 que incluyen examen de orina y consulta médica. Aceptamos efectivo y tarjetas."
       },
       {
         "question": "¿Cuánto tarda el resultado del examen de orina?",
@@ -401,7 +401,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "How much do the urine test and treatment cost without insurance?",
-        "answer": "You don't need health insurance. We offer transparent, affordable self-pay pricing and tell you the cost before your visit. We accept cash and cards."
+        "answer": "You don't need health insurance. We offer transparent, affordable self-pay pricing and tell you the cost before your visit. We accept cash and cards. On the promotions page we usually have packages from $69 that include a urine test and medical consultation."
       },
       {
         "question": "How long does the urine test take?",
