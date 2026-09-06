@@ -80,16 +80,28 @@ export async function JsonLdMedicalClinic() {
           })),
         },
         sameAs: [
+          SOCIAL_LINKS.google,
           SOCIAL_LINKS.facebook,
+          SOCIAL_LINKS.instagram,
+          SOCIAL_LINKS.tiktok,
+          SOCIAL_LINKS.yelp,
+          SOCIAL_LINKS.appleMaps,
           SOCIAL_LINKS.x,
           SOCIAL_LINKS.linkedin,
-          SOCIAL_LINKS.google,
         ].filter(Boolean),
-        areaServed: {
-          "@type": "City",
-          name: "Houston",
-          "@id": "https://www.wikidata.org/wiki/Q16555",
-        },
+        // Misma área que declara el Perfil de Negocio de Google (Houston y Spring)
+        areaServed: [
+          {
+            "@type": "City",
+            name: "Houston",
+            "@id": "https://www.wikidata.org/wiki/Q16555",
+          },
+          {
+            "@type": "City",
+            name: "Spring",
+            containedInPlace: { "@type": "State", name: "Texas" },
+          },
+        ],
         medicalSpecialty: [
           "Family Medicine",
           "Urgent Care",

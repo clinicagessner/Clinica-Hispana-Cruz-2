@@ -38,9 +38,16 @@ export const CONTACT_INFO: ContactInfo = {
   },
 };
 
-// TODO(randy): PENDIENTE — URLs reales de redes sociales de Cruz 2 (footer y JSON-LD
-// las omiten automáticamente mientras estén vacías)
-export const SOCIAL_LINKS: SocialLinks = {};
+// Perfiles externos de Cruz 2 (confirmados con el Perfil de Negocio de Google,
+// 2026-09-06). Alimentan el footer y el `sameAs` del schema MedicalClinic.
+export const SOCIAL_LINKS: SocialLinks = {
+  instagram: "https://www.instagram.com/clinicahispanacruz2/",
+  facebook: "https://www.facebook.com/465045156687109",
+  tiktok: "https://www.tiktok.com/@clinica.cruz.2",
+  google: "https://www.google.com/maps/search/?api=1&query=Clinica+Hispana+Cruz+2+13331+Kuykendahl+Rd+Ste+128+Houston+TX+77090&query_place_id=ChIJ6R145DnLQIYRWbvQKXhSJfE",
+  yelp: "https://www.yelp.com/biz/clinica-hispana-cruz-2-houston",
+  appleMaps: "https://maps.apple.com/place?place-id=ICC4239276B3F44ED",
+};
 
 // Google Reviews data - fallback cuando la Places API no responde
 // (valores reales del listado al 2026-07-09; en vivo se actualizan solos)

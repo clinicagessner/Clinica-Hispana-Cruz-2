@@ -104,6 +104,8 @@ export interface SocialLinks {
   youtube?: string;
   tiktok?: string;
   google?: string;
+  yelp?: string;
+  appleMaps?: string;
 }
 
 export interface SiteConfig {
