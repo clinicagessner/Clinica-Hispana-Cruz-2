@@ -50,9 +50,9 @@ export const SOCIAL_LINKS: SocialLinks = {
 };
 
 // Google Reviews data - fallback cuando la Places API no responde
-// (valores reales del listado al 2026-07-09; en vivo se actualizan solos)
+// (valores reales del listado al 2026-09-06; en vivo se actualizan solos)
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 753,
+  totalReviews: 808,
   averageRating: 5.0,
   placeId: "ChIJ6R145DnLQIYRWbvQKXhSJfE",
 };
@@ -1773,7 +1773,7 @@ export const NAV_ITEMS = [
 ];
 
 // Fecha del último cambio de contenido; usada como lastModified en sitemap.ts
-export const CONTENT_LAST_UPDATED = "2026-08-19";
+export const CONTENT_LAST_UPDATED = "2026-09-06";
 
 // Servicios destacados en el footer (los de mayor demanda en búsquedas)
 export const FOOTER_SERVICE_LINKS = [

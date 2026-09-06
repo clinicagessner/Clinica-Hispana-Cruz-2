@@ -62,11 +62,7 @@
     "categoryExamenes": "Exámenes y certificados",
     "categoryLaboratorio": "Laboratorio y pruebas",
     "categoryTratamientos": "Tratamientos",
-    "categoryDefault": "Servicio Médico",
-    "allServicesTitle": "Todos nuestros servicios en Houston",
-    "allServicesSubtitle": "Atención en español, sin cita previa y sin necesidad de seguro médico.",
-    "viewAllServices": "Ver todos los servicios",
-    "viewPromotions": "Ver promociones"
+    "categoryDefault": "Servicio Médico"
   },
   "testimonials": {
     "title": "Reseñas de Pacientes en Houston",
@@ -132,10 +128,6 @@
     "a11": "Clínica Hispana Cruz 2 es una clínica hispana y latina en 13331 Kuykendahl Rd Ste 128, Houston, TX 77090, en el norte de Houston. Abrimos todos los días de 9:00 AM a 9:00 PM, sin cita previa.",
     "q12": "¿Puedo tener aquí a mi médico primario?",
     "a12": "Sí. Muchas familias nos eligen como su médico primario y centro médico cerca de casa: consultas de medicina general, control de condiciones crónicas y laboratorio en un solo lugar."
-  },
-  "about": {
-    "title": "Sobre Clínica Hispana Cruz 2",
-    "paragraph": "Clínica Hispana Cruz 2 es una clínica médica de atención primaria y urgencias menores ubicada en {address}, en el norte de Houston, entre Champions y Spring. Es la sucursal 2 de la red Clínica Hispana Cruz, que también opera las clínicas Cruz, Cruz 3 y Cruz 4 en el área de Houston. Abre los siete días de la semana, de 9:00 AM a 9:00 PM. Atiende sin cita previa y no requiere seguro médico: los precios son de pago directo y se aceptan efectivo, tarjetas de débito y de crédito. La atención es en español, y también en inglés. Los servicios incluyen medicina general, <gyn>ginecología y papanicolaou</gyn>, <uti>tratamiento de infecciones urinarias</uti>, <lab>laboratorio de sangre</lab>, pruebas de embarazo y de ETS, examen DOT para licencia CDL, examen médico de inmigración I-693, vacunas y control de diabetes e hipertensión. Teléfono: {phone}. WhatsApp: {whatsapp}. El local cuenta con estacionamiento gratuito y acceso para silla de ruedas."
   },
   "location": {
     "title": "Nuestra Clínica Hispana Cerca de Ti en Houston",

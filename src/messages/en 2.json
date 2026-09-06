@@ -62,11 +62,7 @@
     "categoryExamenes": "Exams & certificates",
     "categoryLaboratorio": "Lab & testing",
     "categoryTratamientos": "Treatments",
-    "categoryDefault": "Medical Service",
-    "allServicesTitle": "All our services in Houston",
-    "allServicesSubtitle": "Spanish-speaking care, walk-ins welcome, no insurance needed.",
-    "viewAllServices": "View all services",
-    "viewPromotions": "View promotions"
+    "categoryDefault": "Medical Service"
   },
   "testimonials": {
     "title": "Patient Reviews in Houston",
@@ -132,10 +128,6 @@
     "a11": "Clínica Hispana Cruz 2 is a Hispanic and Latino clinic at 13331 Kuykendahl Rd Ste 128, Houston, TX 77090, on the north side of Houston. We are open every day from 9:00 AM to 9:00 PM, no appointment needed.",
     "q12": "Can this clinic be my primary care doctor?",
     "a12": "Yes. Many families choose us as their primary care provider and medical center close to home: general medicine visits, chronic condition management and lab work in one place."
-  },
-  "about": {
-    "title": "About Clínica Hispana Cruz 2",
-    "paragraph": "Clínica Hispana Cruz 2 is a primary care and minor urgent care medical clinic located at {address}, in north Houston between Champions and Spring. It is branch 2 of the Clínica Hispana Cruz network, which also operates the Cruz, Cruz 3 and Cruz 4 clinics in the Houston area. It is open seven days a week from 9:00 AM to 9:00 PM. No appointment is needed and no health insurance is required: pricing is self-pay, and cash, debit and credit cards are accepted. Care is provided in Spanish, with English also available. Services include general medicine, <gyn>gynecology and Pap smears</gyn>, <uti>urinary tract infection treatment</uti>, <lab>blood testing</lab>, pregnancy and STD testing, DOT physicals for CDL drivers, I-693 immigration medical exams, vaccines, and diabetes and hypertension management. Phone: {phone}. WhatsApp: {whatsapp}. The clinic has free parking and wheelchair access."
   },
   "location": {
     "title": "Our Hispanic Clinic Near You in Houston",
