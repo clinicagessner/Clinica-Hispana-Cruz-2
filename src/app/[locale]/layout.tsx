@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Montserrat, Source_Sans_3 } from "next/font/google";
-import { NextIntlClientProvider } from "next-intl";
+import { NextIntlClientProvider, hasLocale } from "next-intl";
+import { notFound } from "next/navigation";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -35,6 +36,7 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
   const [t, googleData] = await Promise.all([
     getTranslations({ locale, namespace: "metadata" }),
     getGooglePlaceData(),
@@ -125,6 +127,11 @@ export function generateStaticParams() {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
+
+  // El proxy de next-intl ignora rutas con punto (p. ej. /llms-full.txt), así
+  // que llegan aquí con un "locale" inválido; sin esta guarda se renderiza la
+  // home en español con 200 (soft 404 y contenido duplicado infinito).
+  if (!hasLocale(routing.locales, locale)) notFound();
 
   // Enable static rendering
   setRequestLocale(locale);
