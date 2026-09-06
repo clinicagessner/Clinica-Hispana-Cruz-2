@@ -41,6 +41,7 @@ import { getServiceFAQs } from "@/lib/service-faqs";
 import { getBlogPost } from "@/lib/blog";
 import { SERVICE_BLOG_MAP } from "@/lib/service-blog-map";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
+import { ServicesDirectory } from "@/components/sections/services-directory";
 
 const iconMap: Record<string, React.ElementType> = {
   Stethoscope,
@@ -139,10 +140,11 @@ export default async function ServicePage({ params }: Props) {
   const service = getLocalizedService(rawService, locale);
   const IconComponent = iconMap[service.icon] || Stethoscope;
 
-  // Get related services (same category, excluding current)
+  // Tarjetas de la misma categoría (hasta 6); el directorio de abajo enlaza
+  // al resto para que Google rastree servicios que hoy no visita
   const relatedServices = SERVICES.filter(
     (s) => s.category === rawService.category && s.id !== rawService.id
-  ).slice(0, 3).map((s) => getLocalizedService(s, locale));
+  ).sort((a, b) => a.order - b.order).slice(0, 6).map((s) => getLocalizedService(s, locale));
 
   const localePath = locale === "en" ? "/en" : "";
 
@@ -412,6 +414,8 @@ export default async function ServicePage({ params }: Props) {
             </div>
           </section>
         )}
+
+        <ServicesDirectory locale={locale} currentSlug={rawService.slug} />
       </main>
 
       <JsonLdBreadcrumb items={breadcrumbs} />

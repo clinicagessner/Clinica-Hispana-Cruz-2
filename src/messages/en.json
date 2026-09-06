@@ -62,7 +62,11 @@
     "categoryExamenes": "Exams & certificates",
     "categoryLaboratorio": "Lab & testing",
     "categoryTratamientos": "Treatments",
-    "categoryDefault": "Medical Service"
+    "categoryDefault": "Medical Service",
+    "allServicesTitle": "All our services in Houston",
+    "allServicesSubtitle": "Spanish-speaking care, walk-ins welcome, no insurance needed.",
+    "viewAllServices": "View all services",
+    "viewPromotions": "View promotions"
   },
   "testimonials": {
     "title": "Patient Reviews in Houston",

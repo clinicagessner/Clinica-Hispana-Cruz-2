@@ -62,7 +62,11 @@
     "categoryExamenes": "Exámenes y certificados",
     "categoryLaboratorio": "Laboratorio y pruebas",
     "categoryTratamientos": "Tratamientos",
-    "categoryDefault": "Servicio Médico"
+    "categoryDefault": "Servicio Médico",
+    "allServicesTitle": "Todos nuestros servicios en Houston",
+    "allServicesSubtitle": "Atención en español, sin cita previa y sin necesidad de seguro médico.",
+    "viewAllServices": "Ver todos los servicios",
+    "viewPromotions": "Ver promociones"
   },
   "testimonials": {
     "title": "Reseñas de Pacientes en Houston",

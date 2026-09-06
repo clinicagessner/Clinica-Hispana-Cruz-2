@@ -4,6 +4,7 @@ import { ArrowLeft, Star } from "@phosphor-icons/react/dist/ssr";
 import { Link } from "@/i18n/routing";
 import { ContactForm } from "@/components/forms/contact-form";
 import { PromotionsGrid } from "@/components/promotions/promotions-grid";
+import { ServicesDirectory } from "@/components/sections/services-directory";
 import {
   JsonLdBreadcrumb,
   JsonLdCollectionPage,
@@ -176,6 +177,8 @@ export default async function PromotionsPage({ params }: Props) {
             </div>
           </section>
         </div>
+
+        <ServicesDirectory locale={locale} showPromotions={false} />
 
         {/* Lead form */}
         <section id="formulario" className="py-16 md:py-24 bg-red-warm">
