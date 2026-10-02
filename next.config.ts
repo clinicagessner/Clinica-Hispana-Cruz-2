@@ -35,6 +35,8 @@ const nextConfig: NextConfig = {
       { source: "/en/services/:path*", destination: "/en/servicios/:path*", permanent: true },
       { source: "/privacy", destination: "/privacidad", permanent: true },
       { source: "/en/privacy", destination: "/en/privacidad", permanent: true },
+      // URL final de un anuncio de Google Ads que nunca existió en el sitio (2026-10-02)
+      { source: "/examen-de-inmigracion", destination: "/servicios/examenes-inmigracion", permanent: true },
     ];
   },
   async headers() {
