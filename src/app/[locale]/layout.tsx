@@ -8,12 +8,12 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { ScrollToTop } from "@/components/layout/scroll-to-top";
 import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { ScrollAnimations } from "@/components/animations/scroll-animations";
-// TODO(randy): reactivar GoogleAnalytics cuando exista la propiedad GA4 de Cruz 2
-// import { GoogleAnalytics } from "@next/third-parties/google";
 import Script from "next/script";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import "../globals.css";
+import { ConversionEvents } from "@/components/tracking/conversion-events";
+import { GoogleTags } from "@/components/tracking/google-tags";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -142,7 +142,6 @@ export default async function LocaleLayout({ children, params }: Props) {
   // IDs de analítica desde env (NEXT_PUBLIC_* se inyectan en build).
   // Si faltan, el bloque correspondiente no se renderiza (útil en dev/preview).
   const metaPixelId = process.env.NEXT_PUBLIC_META_PIXEL_ID;
-  const googleAdsId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
 
   return (
     <html lang={locale} data-scroll-behavior="smooth" className={`${montserrat.variable} ${sourceSans.variable}`} suppressHydrationWarning>
@@ -184,9 +183,8 @@ export default async function LocaleLayout({ children, params }: Props) {
             <ScrollAnimations />
           </TooltipProvider>
         </NextIntlClientProvider>
+        <ConversionEvents />
       </body>
-      {/* TODO(randy): PENDIENTE — crear propiedad GA4 de Cruz 2 y activar:
-          <GoogleAnalytics gaId="G-XXXXXXXXXX" /> */}
       {metaPixelId && (
         <Script id="meta-pixel" strategy="afterInteractive">
           {`
@@ -203,21 +201,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           `}
         </Script>
       )}
-      {googleAdsId && (
-        <>
-          <Script
-            src={`https://www.googletagmanager.com/gtag/js?id=${googleAdsId}`}
-            strategy="afterInteractive"
-          />
-          <Script id="google-ads-tag" strategy="afterInteractive">
-            {`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('config', '${googleAdsId}');
-            `}
-          </Script>
-        </>
-      )}
+      <GoogleTags />
     </html>
   );
 }
