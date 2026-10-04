@@ -1,189 +1,86 @@
 ---
 slug: "examen-dot-cdl-camioneros-houston"
-title: "DOT Physical Exam for Truck Drivers in Houston: Everything You Need to Know"
-description: "Complete guide to DOT physical exams for CDL license in Houston TX. Requirements, what to expect, cost, and where to get it done in Spanish. No appointment needed."
+title: "DOT Physical in Houston: A Practical Guide for CDL Drivers"
+description: "What the DOT physical checks, what to bring and how to prepare if you have high blood pressure or diabetes. Walk-in, Spanish or English, north Houston."
 date: "2026-04-11"
-dateModified: "2026-04-11"
+dateModified: "2026-10-04"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/examen-dot.webp"
 featured: true
 category: "Occupational Health"
-readTime: 7
+readTime: 6
 keywords:
   - "DOT physical Houston"
-  - "DOT exam Houston TX"
-  - "CDL medical exam Houston"
+  - "CDL medical exam north Houston"
+  - "DOT medical card renewal"
+  - "walk-in DOT physical Spanish"
   - "truck driver physical Houston"
-  - "DOT medical exam Spanish Houston"
-  - "CDL medical card Houston"
 ---
 
-# DOT Physical Exam for Truck Drivers in Houston: Everything You Need to Know
+A DOT physical is the health screening federal rules require before you can drive a commercial vehicle. It covers your eyesight, hearing, blood pressure, a urine sample and your medical history. If you meet the standards, you walk out with your DOT medical certificate at that same visit. Clínica Hispana Cruz 2 offers it walk-in, in Spanish or English.
 
-If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid [DOT physical exam](/servicios/examen-dot) to obtain or renew your CDL license. At Clínica Hispana Cruz 2, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
+## What is the "medical card" everyone talks about?
 
-## What Is a DOT Physical Exam?
+Drivers rarely call it a "medical examiner's certificate." On the yard it's "the card," "the DOT" or "my physical." It is one document, and it says that on the day you were evaluated you met the health standards to operate a truck, bus or other commercial vehicle safely.
 
-The DOT (Department of Transportation) physical is a **mandatory medical examination** required by the federal government for all commercial motor vehicle (CMV) drivers. Its purpose is to verify that you are in adequate health to safely operate a large vehicle.
+The card expires. Let it lapse and your commercial license can be affected, and your carrier can't dispatch you. Put the expiration date in your phone and come in a few weeks early instead of the day before.
 
-This exam is different from a regular checkup. It's specifically designed to evaluate the physical capabilities needed to drive a truck, bus, or commercial vehicle for extended periods.
+## Who has to get one?
 
-## Who Needs a DOT Physical?
+The Federal Motor Carrier Safety Administration ([FMCSA](https://www.fmcsa.dot.gov/medical/driver-medical-requirements/driver-medical-fitness-duty)) sets the rules on who must be medically certified. The most common situations include:
 
-You need a DOT physical if you:
+- driving a vehicle rated over 10,001 pounds gross weight;
+- driving a van or bus that carries a larger number of passengers;
+- hauling hazardous materials that require placards;
+- applying for a CDL for the first time.
 
-- **Drive a truck** weighing more than 10,001 pounds
-- **Operate a bus** with a capacity of 16 or more passengers
-- **Transport hazardous materials** (HAZMAT)
-- **Need to obtain** a Commercial Driver's License (CDL) for the first time
-- **Need to renew** your CDL medical card (every 2 years or as directed by your doctor)
+Not sure whether your job falls under the rule? Your employer or driving school can tell you which license and certificate they expect before you come in.
 
-## What Does the DOT Physical Include?
+## What does the medical team check?
 
-During the exam, our physician will evaluate the following areas:
+The clinic doesn't make up the checklist; the FMCSA does. The clinic's medical team works through those federal standards one by one:
 
-### Vision
-- Visual acuity of at least 20/40 in each eye (with or without glasses)
-- Peripheral vision of at least 70 degrees in each eye
-- Ability to distinguish traffic signal colors
+- **Vision:** each eye is tested on its own and both together, with or without corrective lenses. Your side vision and your ability to tell traffic-light colors apart are checked too.
+- **Hearing:** you need to hear a whispered voice at a set distance, or pass a test with an audiometer. If you drive with hearing aids, you're tested wearing them.
+- **Blood pressure and pulse:** this is where drivers get surprised most often. A high reading doesn't always rule you out, but it can shorten how long your card is valid.
+- **Urinalysis:** the sample is screened for sugar, protein and blood, which can point to kidney trouble or diabetes.
+- **Physical exam and history:** heart, lungs, abdomen, spine, reflexes and range of motion, plus the health questionnaire you fill out at check-in.
 
-### Hearing
-- Must perceive a forced whisper at 5 feet
-- Hearing aids are permitted if needed
+## What should you bring?
 
-### Blood Pressure
-- Measured during the exam
-- Elevated blood pressure may result in a shorter certification period (1 year instead of 2)
-- Very high blood pressure may require treatment before certification
+A little preparation keeps things moving and saves you a second trip for a missing paper. Bring:
 
-### Urinalysis
-- Tests for glucose and protein levels
-- **This is not a drug test** (drug testing is conducted separately by your employer)
+- your current driver's license;
+- a list of every medication you take, with name and dose (a photo of the labels works);
+- the glasses or contacts you drive with, and hearing aids if you use them;
+- if you have insulin-treated diabetes, a heart condition, sleep apnea or another condition being followed, a recent note from your treating provider about your treatment and how well it's controlled.
 
-### General Physical Examination
-- Cardiovascular evaluation (heart and lungs)
-- Neurological evaluation (reflexes, coordination)
-- Musculoskeletal evaluation (strength, mobility)
-- Abdominal examination
-- Hernia evaluation
+For insulin-treated diabetes, the FMCSA has a specific form that the clinician managing your diabetes fills out. Ask your doctor for it ahead of time.
 
-### Medical History
-- Current and past conditions
-- Medications you take
-- Previous surgeries
-- History of seizures, diabetes, heart problems
+## High blood pressure or diabetes? How to get ready
 
-## Conditions That May Affect Your Certification
+Take your medications exactly as usual. It sounds obvious, yet some drivers skip a dose hoping to "look better" on paper, and it usually backfires. A few more tips:
 
-Some medical conditions may affect the duration of your certificate or require additional documentation:
+- Take your blood pressure pill the morning of your visit.
+- Go easy on coffee and energy drinks beforehand.
+- If it's been months since your last checkup, get your [blood pressure, sugar and cholesterol checked](/servicios/condiciones-cronicas) first so you know where your numbers stand.
 
-### Diabetes
-- If you [manage your diabetes](/servicios/condiciones-cronicas) **without insulin** (diet, exercise, or oral medication only), you can generally receive a 2-year certificate
-- If you use **insulin**, you need a special exemption from FMCSA (Federal Motor Carrier Safety Administration)
+[MedlinePlus](https://medlineplus.gov/highbloodpressure.html) explains high blood pressure and how it's managed in plain language.
 
-### High Blood Pressure
-| Blood Pressure Level | Certification |
-|---|---|
-| Under 140/90 | 2 years |
-| 140-159/90-99 | 1 year |
-| 160-179/100-109 | Temporary certification, treatment required |
-| 180/110 or higher | Not certified until controlled |
+## Why do some drivers get a card for less than two years?
 
-### Sleep Apnea
-- If diagnosed with sleep apnea, you must bring documentation showing you're using your CPAP machine
-- Your doctor may require results from a recent sleep study
+A medical certificate can be valid for up to 24 months. When a condition needs monitoring, such as blood pressure that is elevated but still within the allowed range, the standards call for a shorter certificate, sometimes one year or less. That isn't a failed exam. You'll simply be asked to return earlier so the medical team can confirm things are still on track.
 
-### Vision Problems
-- If you need glasses or contact lenses, your license will have a restriction requiring you to wear them while driving
-- If you cannot achieve 20/40 even with correction in one eye, you may apply for a vision exemption
+## Is a drug test part of the DOT physical?
 
-## What Documents Should You Bring?
+No. The urine sample in the physical looks for sugar, protein and blood, not drugs. DOT drug and alcohol testing is a separate process, usually ordered by your employer. If you need that too, see the clinic's [drug and alcohol testing](/servicios/examen-alcohol-drogas) service.
 
-To make your exam quick and hassle-free, bring the following:
+## How much does a DOT physical cost?
 
-1. **Photo ID** (driver's license, passport, or state ID)
-2. **List of medications** you currently take (name, dose, frequency)
-3. **Glasses or hearing aids** if you use them
-4. **Recent test results** if you have conditions like diabetes, sleep apnea, or heart problems
-5. **Name and contact of your primary care doctor** (if you have one)
+The DOT physical isn't on the current promotional flyers, so ask for the price by phone or at the front desk before you start. The clinic uses self-pay pricing and takes cash, debit and credit cards. Other current deals are on the [promotions](/promociones) page, and those prices can change.
 
-## How Much Does the DOT Physical Cost?
+## Getting your DOT physical in north Houston
 
-At Clínica Hispana Cruz 2, we offer the DOT physical at **affordable and competitive prices**. The cost includes:
+You'll find Clínica Hispana Cruz 2 at 13331 Kuykendahl Rd Ste 128, Houston, TX 77090, close to Champions, Willowbrook, Klein and Greenspoint. The clinic is open every day from 9 AM to 9 PM, weekends included, so you can come before or after a shift. Walk in, or call ahead to reserve a time. There's no charge to park, and the door accommodates wheelchairs.
 
-- Complete physical examination
-- Urinalysis
-- DOT medical certificate (form MCSA-5876)
-- Driver's medical card
-
-**We accept cash and all major credit and debit cards.** Many trucking companies cover the cost of the exam for their drivers — check with your employer.
-
-## How Often Do You Need to Renew?
-
-- **Standard certificate:** every **2 years**
-- **With medical conditions** (controlled high blood pressure, non-insulin diabetes): may be every **1 year**
-- **If your certificate has expired:** you need a complete new exam before you can drive
-
-**Tip:** Don't wait until your medical card expires. Schedule your renewal **at least 2 weeks before** the expiration date to avoid being unable to work.
-
-## What If I Don't Pass the Exam?
-
-If the doctor determines you don't meet the requirements at the time of the exam, you have options:
-
-- **High blood pressure:** You may receive a temporary certificate while starting treatment. Return when your pressure is controlled.
-- **Vision problems:** Get prescription glasses and return for re-evaluation.
-- **Insulin-dependent diabetes:** Apply for the special FMCSA exemption with help from your endocrinologist.
-- **Other conditions:** The doctor will explain exactly what you need to get certified.
-
-At Clínica Hispana Cruz 2, **we never turn you away without explaining what to do next**. We give you a clear plan to resolve any situation and obtain your certificate.
-
-## Why Choose Clínica Hispana Cruz 2 for Your DOT Physical?
-
-### 100% in Spanish
-The entire process — from check-in to receiving your certificate — is in Spanish. No translator needed.
-
-### No Appointment Needed
-Come when it's convenient. We're open **Monday through Sunday, 9 AM to 9 PM**. This is especially helpful for truck drivers with irregular schedules.
-
-### Same-Day Results
-Leave our clinic with your **DOT medical certificate and medical card** in hand. No waiting days or coming back for another visit.
-
-### Affordable Prices
-We offer competitive prices without sacrificing exam quality. We accept cash and cards.
-
-### Convenient Location
-We're located at **13331 Kuykendahl Rd Ste 128, Houston, TX 77090**, near Highway 59/69, with ample free parking for trucks and large vehicles.
-
-### Experience with Hispanic Truck Drivers
-We understand the specific needs of Houston's Hispanic trucking community. Many of our patients are drivers who trust us for their renewals year after year.
-
-## Frequently Asked Questions About the DOT Physical
-
-### Does the DOT physical include drug testing?
-**No.** The DOT physical exam and drug testing are two separate things. We perform the physical exam. Drug and alcohol testing is your employer's responsibility or done through a testing consortium. If your employer requires it, we also perform the [drug and alcohol test](/servicios/examen-alcohol-drogas) at our clinic.
-
-### Can I get a DOT physical if I have diabetes?
-**Yes**, if your diabetes is controlled with diet, exercise, or oral medications (no insulin). If you use insulin, you need a special FMCSA exemption.
-
-### What if my blood pressure is high on exam day?
-If slightly elevated, the doctor may issue a 1-year certificate instead of 2. If very high, we'll recommend treatment and you can return when it's controlled.
-
-### Do I need an appointment?
-**No.** We accept walk-ins Monday through Sunday, 9 AM to 9 PM.
-
-### How long does the exam take?
-Approximately **30-45 minutes**. You leave with your certificate the same day.
-
-### Do you accept walk-ins for renewals?
-**Yes.** Both new exams and renewals are accepted without an appointment.
-
-## Contact Us
-
-Ready for your DOT physical? Learn all the service details on our [DOT exam for CDL](/servicios/examen-dot) page or visit Clínica Hispana Cruz 2 today:
-
-- **Phone:** (281) 789-0484
-- **Address:** 13331 Kuykendahl Rd Ste 128, Houston, TX 77090
-- **Hours:** Monday through Sunday, 9:00 AM - 9:00 PM
-- **No appointment needed** — Walk-ins welcome
-
-*Your health and your license are in good hands at Clínica Hispana Cruz 2.*
+For more details, see the [DOT exam](/servicios/examen-dot) page or browse all [services](/servicios).
