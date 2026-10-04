@@ -5,12 +5,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
-**Estado de GSC (API, datos hasta 2026-10-01):** 48 de 88 indexadas · 30 descubiertas sin indexar · 1 rastreadas sin indexar · 9 desconocidas.
+<!-- tandas:auto -->
+**Estado (actualizado 2026-10-04; URL Inspection API, datos de hoy 2026-10-04):** 47 de 86 URLs del sitemap indexadas · 39 sin indexar (21 descubierta sin indexar · 17 desconocida · 1 rastreada sin indexar).
 
-Orden: primero las 40 no indexadas (español antes que inglés), después las indexadas por impresiones.
-Antes de la tanda 1, reenviar el sitemap en GSC (Sitemaps → `sitemap.xml`).
-
-**Reordenado el 2026-10-04:** la tanda 1 son las páginas que cambiaron hoy (home, las 3 landings de Ads y el post de urinarias); el sitemap ya se reenvió hoy por API. Después, una tanda al día.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 75 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+<!-- /tandas:auto -->
 
 ## Tanda 1 — cambios del 2026-10-04 (home y landings de Ads con título/meta nuevos, urinarias): pedir HOY
 
@@ -27,100 +27,99 @@ Antes de la tanda 1, reenviar el sitemap en GSC (Sitemaps → `sitemap.xml`).
 
 ## Tanda 2
 
-- [ ] https://www.hispanac2.com/blog/bienvenidos-clinica-hispana-cruz-2  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/examen-fisico-escolar  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/prueba-tuberculosis  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/sueros-vitaminados  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/unas-encarnadas  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/alergias  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/cirugias-menores  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/curacion-heridas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/drenaje-abscesos  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/electrocardiograma  — descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-10-04 · rastreada 2026-08-20 · indexada · 451 impr.
+- [ ] https://www.hispanac2.com/servicios/prueba-embarazo  — cambiada 2026-10-04 · rastreada 2026-08-25 · indexada · 194 impr.
+- [ ] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-09-05 · indexada · 152 impr.
+- [ ] https://www.hispanac2.com/servicios  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 149 impr.
+- [ ] https://www.hispanac2.com/servicios/condiciones-cronicas  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 112 impr.
+- [ ] https://www.hispanac2.com/servicios/enfermedades-transmision-sexual  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 97 impr.
+- [ ] https://www.hispanac2.com/servicios/vacunas  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 90 impr.
+- [ ] https://www.hispanac2.com/promociones  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 78 impr.
+- [ ] https://www.hispanac2.com/servicios/anticonceptivos  — cambiada 2026-10-04 · rastreada 2026-08-25 · indexada · 74 impr.
+- [ ] https://www.hispanac2.com/servicios/salud-hombre  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 67 impr.
 
 ## Tanda 3
 
-- [ ] https://www.hispanac2.com/servicios/examen-alcohol-drogas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/examen-heces  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/extraccion-implantes  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/prueba-strep  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/suturas-heridas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/tiroides  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/ultrasonido  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/condiciones-cronicas  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/electrocardiograma  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-07-12 · indexada · 63 impr.
+- [ ] https://www.hispanac2.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 58 impr.
+- [ ] https://www.hispanac2.com/servicios/enfermedades-respiratorias  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 56 impr.
+- [ ] https://www.hispanac2.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 29 impr.
+- [ ] https://www.hispanac2.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 25 impr.
+- [ ] https://www.hispanac2.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-07-12 · indexada · 23 impr.
+- [ ] https://www.hispanac2.com/blog  — cambiada 2026-10-04 · rastreada 2026-09-15 · indexada · 18 impr.
+- [ ] https://www.hispanac2.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-04 · rastreada 2026-07-12 · indexada · 9 impr.
+- [ ] https://www.hispanac2.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 4 impr.
+- [ ] https://www.hispanac2.com/blog/bienvenidos-clinica-hispana-cruz-2  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 
 ## Tanda 4
 
-- [ ] https://www.hispanac2.com/en/servicios/prueba-strep  — desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/blog/bienvenidos-clinica-hispana-cruz-2  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/alergias  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/cirugias-menores  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/drenaje-abscesos  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examen-alcohol-drogas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examenes-sangre  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/farmacia  — descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/alergias  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/cirugias-menores  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/drenaje-abscesos  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/electrocardiograma  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/examen-alcohol-drogas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/examen-heces  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/extraccion-implantes  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-04 · rastreada 2026-09-17 · indexada · 0 impr.
 
 ## Tanda 5
 
-- [ ] https://www.hispanac2.com/en/servicios/prueba-embarazo  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/prueba-tuberculosis  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/salud-hombre  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/tiroides  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/unas-encarnadas  — descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/examenes-sangre  — indexada · 307 impr.
-- [ ] https://www.hispanac2.com/en/servicios  — indexada · 182 impr.
+- [ ] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/prueba-tuberculosis  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/suturas-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/tiroides  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/ultrasonido  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/servicios/unas-encarnadas  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 182 impr.
+- [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-08-19 · indexada · 160 impr.
+- [ ] https://www.hispanac2.com/en/promociones  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 131 impr.
 
 ## Tanda 6
 
-- [ ] https://www.hispanac2.com/servicios/prueba-embarazo  — indexada · 138 impr.
-- [ ] https://www.hispanac2.com/servicios  — indexada · 135 impr.
-- [ ] https://www.hispanac2.com/en/promociones  — indexada · 131 impr.
-- [ ] https://www.hispanac2.com/servicios/examen-dot  — indexada · 96 impr.
-- [ ] https://www.hispanac2.com/promociones  — indexada · 78 impr.
-- [ ] https://www.hispanac2.com/servicios/enfermedades-transmision-sexual  — indexada · 74 impr.
-- [ ] https://www.hispanac2.com/servicios/vacunas  — indexada · 63 impr.
-- [ ] https://www.hispanac2.com/servicios/anticonceptivos  — indexada · 62 impr.
-- [ ] https://www.hispanac2.com/servicios/salud-hombre  — indexada · 60 impr.
-- [ ] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — indexada · 56 impr.
+- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 74 impr.
+- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 59 impr.
+- [ ] https://www.hispanac2.com/en/servicios/enfermedades-transmision-sexual  — cambiada 2026-10-04 · rastreada 2026-08-25 · indexada · 49 impr.
+- [ ] https://www.hispanac2.com/en/servicios/vacunas  — cambiada 2026-10-04 · rastreada 2026-09-30 · indexada · 39 impr.
+- [ ] https://www.hispanac2.com/en/servicios/extraccion-implantes  — cambiada 2026-10-04 · rastreada 2026-07-16 · indexada · 25 impr.
+- [ ] https://www.hispanac2.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 23 impr.
+- [ ] https://www.hispanac2.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-24 · indexada · 21 impr.
+- [ ] https://www.hispanac2.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 14 impr.
+- [ ] https://www.hispanac2.com/en/servicios/examen-dot  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 14 impr.
+- [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-11 · indexada · 10 impr.
 
 ## Tanda 7
 
-- [ ] https://www.hispanac2.com/en/servicios/enfermedades-transmision-sexual  — indexada · 31 impr.
-- [ ] https://www.hispanac2.com/blog/laboratorio-clinico-houston-analisis-sangre  — indexada · 11 impr.
-- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — indexada · 11 impr.
-- [ ] https://www.hispanac2.com/blog  — indexada · 10 impr.
-- [ ] https://www.hispanac2.com/en/servicios/vacunas  — indexada · 8 impr.
-- [ ] https://www.hispanac2.com/blog/salud-hombre-houston-chequeos-preventivos  — indexada · 6 impr.
-- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — indexada · 6 impr.
-- [ ] https://www.hispanac2.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — indexada · 6 impr.
-- [ ] https://www.hispanac2.com/en/servicios/extraccion-implantes  — indexada · 6 impr.
-- [ ] https://www.hispanac2.com/blog/atencion-medica-sin-seguro-houston  — indexada · 5 impr.
+- [ ] https://www.hispanac2.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 6 impr.
+- [ ] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-10-04 · rastreada 2026-09-18 · indexada · 4 impr.
+- [ ] https://www.hispanac2.com/en/blog  — cambiada 2026-10-04 · rastreada 2026-08-30 · indexada · 3 impr.
+- [ ] https://www.hispanac2.com/en/servicios/enfermedades-respiratorias  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 1 impr.
+- [ ] https://www.hispanac2.com/en/blog/bienvenidos-clinica-hispana-cruz-2  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/alergias  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/cirugias-menores  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/condiciones-cronicas  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
 
 ## Tanda 8
 
-- [ ] https://www.hispanac2.com/servicios/condiciones-cronicas  — indexada · 5 impr.
-- [ ] https://www.hispanac2.com/blog/examen-dot-cdl-camioneros-houston  — indexada · 4 impr.
-- [ ] https://www.hispanac2.com/en/blog/salud-hombre-houston-chequeos-preventivos  — indexada · 4 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examen-heces  — indexada · 4 impr.
-- [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — indexada · 3 impr.
-- [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — indexada · 3 impr.
-- [ ] https://www.hispanac2.com/blog/control-diabetes-houston-guia-pacientes  — indexada · 2 impr.
-- [ ] https://www.hispanac2.com/en/blog  — indexada · 2 impr.
-- [ ] https://www.hispanac2.com/en/blog/salud-mujer-houston-servicios-ginecologia  — indexada · 2 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examen-dot  — indexada · 2 impr.
+- [ ] https://www.hispanac2.com/en/servicios/drenaje-abscesos  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/electrocardiograma  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/examen-alcohol-drogas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/examenes-sangre  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/farmacia  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/prueba-embarazo  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/prueba-tuberculosis  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/salud-hombre  — cambiada 2026-10-04 · desconocida · 0 impr.
 
 ## Tanda 9
 
-- [ ] https://www.hispanac2.com/blog/guia-examen-medico-inmigracion-i693-houston  — indexada · 1 impr.
-- [ ] https://www.hispanac2.com/blog/salud-mujer-houston-servicios-ginecologia  — indexada · 1 impr.
-- [ ] https://www.hispanac2.com/servicios/enfermedades-respiratorias  — indexada · 1 impr.
-- [ ] https://www.hispanac2.com/en/blog/control-diabetes-houston-guia-pacientes  — indexada · 1 impr.
-- [ ] https://www.hispanac2.com/servicios/farmacia  — indexada · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/enfermedades-respiratorias  — indexada · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/tiroides  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/unas-encarnadas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
