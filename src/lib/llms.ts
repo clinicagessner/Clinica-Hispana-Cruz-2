@@ -17,6 +17,10 @@ import type { Service } from "@/types";
 
 const BASE = SITE_CONFIG.baseUrl;
 
+// Toda URL como enlace Markdown: sin enlaces, los agentes (y Lighthouse
+// Agentic Browsing) no reconocen el archivo como índice navegable.
+const link = (label: string, url: string) => `[${label}](${url})`;
+
 const CATEGORY_ORDER: Service["category"][] = [
   "medicina-general",
   "salud-mujer",
@@ -50,24 +54,24 @@ function header() {
 
 > Spanish-speaking walk-in medical clinic in north Houston (Kuykendahl Rd, between Champions and Spring). Primary care, women's health, lab testing, urgent minor care, DOT and I-693 immigration exams. Open every day 9 AM - 9 PM. No appointment and no insurance needed.
 
-Clínica Hispana Cruz 2 is branch 2 of the Clínica Hispana Cruz network, which also operates the Cruz, Cruz 3 and Cruz 4 clinics in the Houston area. Care is provided 100% in Spanish, with English also available. The clinic is Latino-owned.
+Clínica Hispana Cruz 2 is branch 2 of the Clínica Hispana Cruz network, which also operates the Cruz, Cruz 3 and Cruz 4 clinics in the Houston area. Care is provided 100% in Spanish, with English also available.
 
 ## Key facts
-- Official website: ${BASE}
+- Official website: ${link("hispanac2.com", BASE)}
 - Address: ${address}
-- Area served: North Houston (Champions, Willowbrook, Klein, Cypress Station, Greenspoint) and Spring, TX
+- Area served: Houston, TX and Spring, TX 77373 (north Houston: Champions, Willowbrook, Klein, Cypress Station, Greenspoint)
 - Phone (calls): ${CONTACT_INFO.phoneFormatted}
-- WhatsApp (chat only): ${CONTACT_INFO.whatsappDisplay} - https://wa.me/${CONTACT_INFO.whatsapp}
+- WhatsApp (chat only): ${link(CONTACT_INFO.whatsappDisplay, `https://wa.me/${CONTACT_INFO.whatsapp}`)}
 - Email: ${CONTACT_INFO.email}
 - Hours: Monday to Sunday, 9:00 AM - 9:00 PM (open 7 days a week)
 - Appointments: not required, walk-ins welcome; you can also call to reserve a time
 - Insurance: not required; transparent self-pay pricing
 - Payment: cash, debit and credit cards
 - Languages: Spanish (primary), English
-- Accessibility: wheelchair-accessible entrance, parking and restroom
-- Parking: free parking lot and street parking
+- Accessibility: wheelchair-accessible entrance
+- Parking: free parking
 - Google rating: ${GOOGLE_REVIEWS_DATA.averageRating.toFixed(1)} stars from ${GOOGLE_REVIEWS_DATA.totalReviews}+ reviews (Google Business Profile)
-- Google Maps: ${SOCIAL_LINKS.google ?? ""}
+- Google Maps: ${link("Clinica Hispana Cruz 2 on Google Maps", SOCIAL_LINKS.google ?? BASE)}
 - Content last updated: ${CONTENT_LAST_UPDATED}
 
 ## Profiles
@@ -79,7 +83,7 @@ ${[
   ["Apple Maps", SOCIAL_LINKS.appleMaps],
 ]
   .filter(([, url]) => Boolean(url))
-  .map(([name, url]) => `- ${name}: ${url}`)
+  .map(([name, url]) => `- ${link(name as string, url as string)}`)
   .join("\n")}
 `;
 }
@@ -94,13 +98,13 @@ ${groups
 ${g.services
   .map(
     (s) =>
-      `- ${compactTitle(s.title)} / ${compactTitle(s.titleEn ?? s.title)}: ${BASE}/servicios/${s.slug} | ${BASE}/en/servicios/${s.slug}`
+      `- ${link(compactTitle(s.title), `${BASE}/servicios/${s.slug}`)} / ${link(compactTitle(s.titleEn ?? s.title), `${BASE}/en/servicios/${s.slug}`)}`
   )
   .join("\n")}`
   )
   .join("\n")}
 
-- All services: ${BASE}/servicios | ${BASE}/en/servicios
+- ${link("Todos los servicios", `${BASE}/servicios`)} / ${link("All services", `${BASE}/en/servicios`)}
 `;
 }
 
@@ -117,7 +121,7 @@ ${promos
   })
   .join("\n")}
 
-- Promotions page: ${BASE}/promociones | ${BASE}/en/promociones
+- ${link("Promociones", `${BASE}/promociones`)} / ${link("Promotions", `${BASE}/en/promociones`)}
 `;
 }
 
@@ -130,18 +134,18 @@ ${posts
   .map((p) => {
     const en = postsEn.find((e) => e.slug === p.slug);
     const modified = p.dateModified ? `, updated ${p.dateModified}` : "";
-    return `- ${p.title} (${p.date}${modified}): ${BASE}/blog/${p.slug}${en ? ` | ${BASE}/en/blog/${p.slug}` : ""}`;
+    return `- ${link(p.title, `${BASE}/blog/${p.slug}`)} (${p.date}${modified})${en ? ` / ${link(en.title, `${BASE}/en/blog/${p.slug}`)}` : ""}`;
   })
   .join("\n")}
 
-- Blog index: ${BASE}/blog | ${BASE}/en/blog
+- ${link("Blog", `${BASE}/blog`)} / ${link("Blog (English)", `${BASE}/en/blog`)}
 `;
 }
 
 function footer() {
   return `## Machine-readable resources
-- Sitemap: ${BASE}/sitemap.xml
-- Full version of this file: ${BASE}/llms-full.txt
+- ${link("Sitemap", `${BASE}/sitemap.xml`)}
+- ${link("Full version of this file", `${BASE}/llms-full.txt`)}
 - Structured data: MedicalClinic, FAQPage, BreadcrumbList, MedicalProcedure and BlogPosting JSON-LD are embedded in each page.
 `;
 }
@@ -166,8 +170,8 @@ ${g.services
         : "";
     return `
 #### ${compactTitle(s.title)} / ${compactTitle(s.titleEn ?? s.title)}
-- Spanish page: ${BASE}/servicios/${s.slug}
-- English page: ${BASE}/en/servicios/${s.slug}
+- Spanish page: ${link(compactTitle(s.title), `${BASE}/servicios/${s.slug}`)}
+- English page: ${link(compactTitle(s.titleEn ?? s.title), `${BASE}/en/servicios/${s.slug}`)}
 - Summary (EN): ${s.descriptionEn ?? s.description}
 - Resumen (ES): ${s.description}
 - Includes: ${(s.featuresEn ?? s.features).join("; ")}
@@ -197,7 +201,7 @@ Includes: ${p.includes.join(", ")}`;
   })
   .join("\n")}
 
-Promotions page: ${BASE}/promociones | ${BASE}/en/promociones
+${link("Promociones", `${BASE}/promociones`)} / ${link("Promotions", `${BASE}/en/promociones`)}
 `;
 }
 
@@ -213,7 +217,7 @@ ${posts
 ### ${p.title}${en ? ` / ${en.title}` : ""}
 - Published: ${p.date}${p.dateModified ? ` · Updated: ${p.dateModified}` : ""}
 - Author: ${p.author}
-- Spanish: ${BASE}/blog/${p.slug}${en ? `\n- English: ${BASE}/en/blog/${p.slug}` : ""}
+- Spanish: ${link(p.title, `${BASE}/blog/${p.slug}`)}${en ? `\n- English: ${link(en.title, `${BASE}/en/blog/${p.slug}`)}` : ""}
 - ${p.description}${en ? `\n- ${en.description}` : ""}`;
   })
   .join("\n")}
