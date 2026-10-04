@@ -195,11 +195,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Hero CSS animations (NO Framer Motion - for LCP) */
 @keyframes hero-fade-in-up {
   from {
-    opacity: 0;
     transform: translateY(20px);
   }
   to {
-    opacity: 1;
     transform: translateY(0);
   }
 }
@@ -260,11 +258,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Fade in from bottom */
 @keyframes fade-in-up {
   from {
-    opacity: 0;
     transform: translateY(30px);
   }
   to {
-    opacity: 1;
     transform: translateY(0);
   }
 }
@@ -272,11 +268,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Fade in from left */
 @keyframes fade-in-left {
   from {
-    opacity: 0;
     transform: translateX(-30px);
   }
   to {
-    opacity: 1;
     transform: translateX(0);
   }
 }
@@ -284,11 +278,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Fade in from right */
 @keyframes fade-in-right {
   from {
-    opacity: 0;
     transform: translateX(30px);
   }
   to {
-    opacity: 1;
     transform: translateX(0);
   }
 }
@@ -296,11 +288,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Scale in */
 @keyframes scale-in {
   from {
-    opacity: 0;
     transform: scale(0.95);
   }
   to {
-    opacity: 1;
     transform: scale(1);
   }
 }
@@ -308,18 +298,16 @@ h1, h2, h3, h4, h5, h6 {
 /* Blur in - using transform + opacity for GPU compositing */
 @keyframes blur-in {
   from {
-    opacity: 0;
     transform: scale(0.98);
   }
   to {
-    opacity: 1;
     transform: scale(1);
   }
 }
 
 /* Base state for animated elements - hidden until in view */
 .animate-on-scroll {
-  opacity: 0;
+  /* Visible sin JS (§7 B0.13): la animación solo mueve transform */
 }
 
 /* Triggered state */
