@@ -1,6 +1,6 @@
 import { getTranslations } from "next-intl/server";
 import { Phone, Envelope, MapPin, Clock } from "@phosphor-icons/react/dist/ssr";
-import { ContactForm } from "@/components/forms/contact-form";
+import { LazyContactForm } from "@/components/forms/lazy-contact-form";
 import { CONTACT_INFO } from "@/lib/constants";
 
 export async function Contact() {
@@ -22,7 +22,7 @@ export async function Contact() {
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 max-w-6xl mx-auto">
           {/* Contact Form */}
           <div className="animate-on-scroll fade-left stagger-1 bg-white rounded-2xl shadow-lg border border-slate-100 p-6 md:p-8 order-2 lg:order-1">
-            <ContactForm />
+            <LazyContactForm />
           </div>
 
           {/* Contact Information */}
