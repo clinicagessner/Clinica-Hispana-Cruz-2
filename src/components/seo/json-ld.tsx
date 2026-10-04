@@ -1,10 +1,26 @@
 import { SITE_CONFIG, CONTACT_INFO, SERVICES, SOCIAL_LINKS, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
+import { getLocale } from "next-intl/server";
+import { getLocalizedService } from "@/lib/utils";
 
 export async function JsonLdMedicalClinic() {
-  const googleData = await getGooglePlaceData();
-  const ratingValue = googleData?.rating ?? GOOGLE_REVIEWS_DATA.averageRating;
-  const reviewCount = googleData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews;
+  const [placeData, locale] = await Promise.all([getGooglePlaceData(), getLocale()]);
+
+  // Rating y reseñas solo si vienen de Google (Places). Si la API falla se usa
+  // el respaldo comprobado solo para el conteo; nunca reseñas de relleno.
+  const ratingValue = placeData?.rating ?? GOOGLE_REVIEWS_DATA.averageRating;
+  const reviewCount = placeData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews;
+
+  const reviewItems = placeData?.reviews.length
+    ? placeData.reviews.slice(0, 5).map((r) => ({
+        "@type": "Review" as const,
+        author: { "@type": "Person" as const, name: r.author_name },
+        datePublished: new Date(r.time * 1000).toISOString().slice(0, 10),
+        reviewBody: r.text,
+        reviewRating: { "@type": "Rating" as const, ratingValue: r.rating, bestRating: 5 },
+        itemReviewed: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+      }))
+    : undefined;
 
   const schema = {
     "@context": "https://schema.org",
@@ -13,7 +29,13 @@ export async function JsonLdMedicalClinic() {
         "@type": "MedicalClinic",
         "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
         name: SITE_CONFIG.name,
+        // Nombre tal como aparece en la ficha de Google (sin tilde).
+        alternateName: "Clinica Hispana Cruz 2",
         description: SITE_CONFIG.description,
+        disambiguatingDescription:
+          locale === "en"
+            ? "Clínica Hispana Cruz 2 is the north Houston location of the Clínica Hispana Cruz clinics, at 13331 Kuykendahl Rd Suite 128 (ZIP 77090), near Champions and Spring. It is not the same clinic as Cruz, Cruz 3 or Cruz 4."
+            : "Clínica Hispana Cruz 2 es la sede del norte de Houston de las clínicas Clínica Hispana Cruz, en 13331 Kuykendahl Rd Suite 128 (ZIP 77090), cerca de Champions y Spring. No es la misma clínica que Cruz, Cruz 3 ni Cruz 4.",
         url: SITE_CONFIG.baseUrl,
         telephone: CONTACT_INFO.phone,
         email: CONTACT_INFO.email,
@@ -35,8 +57,7 @@ export async function JsonLdMedicalClinic() {
           latitude: CONTACT_INFO.coordinates.lat,
           longitude: CONTACT_INFO.coordinates.lng,
         },
-        // aggregateRating solo cuando hay reseñas reales (reviewCount 0 genera
-        // errores de rich results mientras no tengamos los datos de Cruz 2)
+        hasMap: CONTACT_INFO.googleMapsUrl,
         ...(reviewCount > 0 && {
           aggregateRating: {
             "@type": "AggregateRating",
@@ -46,6 +67,7 @@ export async function JsonLdMedicalClinic() {
             worstRating: 1,
           },
         }),
+        review: reviewItems,
         openingHoursSpecification: [
           {
             "@type": "OpeningHoursSpecification",
@@ -55,30 +77,19 @@ export async function JsonLdMedicalClinic() {
           },
         ],
         availableLanguage: [
-          {
-            "@type": "Language",
-            name: "Spanish",
-            alternateName: "es",
-          },
-          {
-            "@type": "Language",
-            name: "English",
-            alternateName: "en",
-          },
+          { "@type": "Language", name: "Spanish", alternateName: "es" },
+          { "@type": "Language", name: "English", alternateName: "en" },
         ],
-        hasOfferCatalog: {
-          "@type": "OfferCatalog",
-          name: "Servicios Médicos",
-          itemListElement: SERVICES.slice(0, 10).map((service, index) => ({
-            "@type": "Offer",
-            itemOffered: {
-              "@type": "MedicalProcedure",
-              name: service.title,
-              description: service.description,
-            },
-            position: index + 1,
-          })),
-        },
+        availableService: SERVICES.map((service) => {
+          const localized = getLocalizedService(service, locale);
+          return {
+            "@type": "MedicalProcedure",
+            "@id": `${SITE_CONFIG.baseUrl}/servicios/${service.slug}#procedure`,
+            name: localized.title,
+            description: localized.description,
+            url: `${SITE_CONFIG.baseUrl}${locale === "en" ? "/en" : ""}/servicios/${service.slug}`,
+          };
+        }),
         sameAs: [
           SOCIAL_LINKS.google,
           SOCIAL_LINKS.facebook,
@@ -86,28 +97,30 @@ export async function JsonLdMedicalClinic() {
           SOCIAL_LINKS.tiktok,
           SOCIAL_LINKS.yelp,
           SOCIAL_LINKS.appleMaps,
-          SOCIAL_LINKS.x,
-          SOCIAL_LINKS.linkedin,
         ].filter(Boolean),
-        // Misma área que declara el Perfil de Negocio de Google (Houston y Spring)
+        // Áreas de la ficha de Google (Houston y Spring 77373) y los barrios del
+        // norte de Houston que nombra el sitio.
         areaServed: [
-          {
-            "@type": "City",
-            name: "Houston",
-            "@id": "https://www.wikidata.org/wiki/Q16555",
-          },
-          {
-            "@type": "City",
-            name: "Spring",
-            containedInPlace: { "@type": "State", name: "Texas" },
-          },
+          { "@type": "City", name: "Houston", "@id": "https://www.wikidata.org/wiki/Q16555" },
+          { "@type": "Place", name: "Spring, TX 77373" },
+          { "@type": "Place", name: "Champions, Houston, TX" },
+          { "@type": "Place", name: "Willowbrook, Houston, TX" },
+          { "@type": "Place", name: "Klein, TX" },
+          { "@type": "Place", name: "Cypress Station, Houston, TX" },
+          { "@type": "Place", name: "Greenspoint, Houston, TX" },
         ],
+        // Atributo declarado en la ficha (visto en Bing Places, importado de Google).
+        amenityFeature: [
+          { "@type": "LocationFeatureSpecification", name: "Entrada accesible para silla de ruedas", value: true },
+        ],
+        publicAccess: true,
+        // Solo lo que ejerce el equipo médico general: sin urgencias ni
+        // ginecología como especialidad (no hay titulados, §9 del playbook).
         medicalSpecialty: [
-          "Family Medicine",
-          "Urgent Care",
-          "Preventive Medicine",
-          "Gynecology",
-          "Immigration Medical Exam",
+          "https://schema.org/FamilyPractice",
+          "https://schema.org/PrimaryCare",
+          "https://schema.org/PreventiveMedicine",
+          "https://schema.org/LaboratoryScience",
         ],
       },
       {
@@ -116,26 +129,38 @@ export async function JsonLdMedicalClinic() {
         url: SITE_CONFIG.baseUrl,
         name: SITE_CONFIG.name,
         description: SITE_CONFIG.description,
-        publisher: {
-          "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-        },
+        publisher: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
         inLanguage: ["es-MX", "en-US"],
       },
-      {
-        "@type": "WebPage",
-        "@id": `${SITE_CONFIG.baseUrl}/#webpage`,
-        url: SITE_CONFIG.baseUrl,
-        name: SITE_CONFIG.name,
-        isPartOf: {
-          "@id": `${SITE_CONFIG.baseUrl}/#website`,
-        },
-        about: {
-          "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-        },
-        description: SITE_CONFIG.description,
-        inLanguage: "es-MX",
-      },
     ],
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+// Nodo ligero con el mismo @id que el completo de la home. Va en cada página
+// que no es la home; nunca en el layout (§7 B0.14).
+export function JsonLdMedicalClinicRef() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "MedicalClinic",
+    "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+    name: SITE_CONFIG.name,
+    url: SITE_CONFIG.baseUrl,
+    telephone: CONTACT_INFO.phone,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: CONTACT_INFO.address,
+      addressLocality: CONTACT_INFO.city,
+      addressRegion: CONTACT_INFO.state,
+      postalCode: CONTACT_INFO.zip,
+      addressCountry: "US",
+    },
   };
 
   return (
@@ -222,6 +247,7 @@ export function JsonLdMedicalProcedure({
   const schema = {
     "@context": "https://schema.org",
     "@type": "MedicalProcedure",
+    "@id": `${SITE_CONFIG.baseUrl}/servicios/${url.split("/servicios/")[1]}#procedure`,
     name,
     description,
     image: `${SITE_CONFIG.baseUrl}${image}`,
@@ -229,20 +255,6 @@ export function JsonLdMedicalProcedure({
     procedureType: `https://schema.org/${procedureType}`,
     ...(bodyLocation && { bodyLocation }),
     howPerformed: description,
-    provider: {
-      "@type": "MedicalClinic",
-      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-      name: SITE_CONFIG.name,
-      telephone: CONTACT_INFO.phone,
-      address: {
-        "@type": "PostalAddress",
-        streetAddress: CONTACT_INFO.address,
-        addressLocality: CONTACT_INFO.city,
-        addressRegion: CONTACT_INFO.state,
-        postalCode: CONTACT_INFO.zip,
-        addressCountry: "US",
-      },
-    },
   };
 
   return (
@@ -267,7 +279,6 @@ export function JsonLdCollectionPage({ name, description, url }: { name: string;
       "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
     },
     provider: {
-      "@type": "MedicalClinic",
       "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
     },
   };

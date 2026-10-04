@@ -42,6 +42,7 @@ import { getBlogPost } from "@/lib/blog";
 import { SERVICE_BLOG_MAP } from "@/lib/service-blog-map";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
 import { ServicesDirectory } from "@/components/sections/services-directory";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
   Stethoscope,
@@ -161,6 +162,7 @@ export default async function ServicePage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <main className="min-h-screen bg-background">
         {/* Hero Section */}
         <section className="relative pt-28 pb-12 md:pt-32 md:pb-16 overflow-hidden">

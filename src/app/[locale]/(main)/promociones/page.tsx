@@ -13,6 +13,7 @@ import {
 import { getLocalizedPromotions } from "@/lib/promotions";
 import { CONTACT_INFO, GOOGLE_REVIEWS_DATA, SITE_CONFIG } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 type MetadataProps = {
   params: Promise<{ locale: string }>;
@@ -95,6 +96,7 @@ export default async function PromotionsPage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdCollectionPage
         name={t("pageTitle")}
         description={t("pageSubtitle")}

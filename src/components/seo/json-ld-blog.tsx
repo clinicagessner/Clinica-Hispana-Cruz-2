@@ -34,13 +34,10 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
       url: SITE_CONFIG.baseUrl,
     },
     // El contenido lo revisa el equipo médico de la clínica (sin autor individual)
-    reviewedBy: {
-      "@type": "MedicalOrganization",
-      name: `${SITE_CONFIG.name} - Equipo médico`,
-      url: SITE_CONFIG.baseUrl,
-    },
+    reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
     publisher: {
       "@type": "MedicalClinic",
+      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
       name: SITE_CONFIG.name,
       logo: {
         "@type": "ImageObject",

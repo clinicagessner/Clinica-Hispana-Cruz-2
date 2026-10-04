@@ -31,6 +31,7 @@ import {
 } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { getLocalizedService } from "@/lib/utils";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -244,6 +245,7 @@ export default async function LandingComparacionClinicasHouston({ params }: Prop
 
   return (
     <main>
+      <JsonLdMedicalClinicRef />
       {/* Hero */}
       <section className="relative min-h-[80vh] flex items-center overflow-hidden">
         <Image
