@@ -175,7 +175,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Tengo flujo, comezón o mal olor. ¿Me pueden tratar el mismo día?",
-        "answer": "Sí. Evaluamos tus síntomas, tomamos un cultivo si es necesario y, en la mayoría de los casos, sales con tu tratamiento el mismo día. Si los síntomas son ardor al orinar, también hacemos examen de orina para descartar una infección urinaria."
+        "answer": "Sí. Evaluamos tus síntomas, tomamos un cultivo si es necesario y, en la mayoría de los casos, sales con tu tratamiento en la misma visita. Si los síntomas son ardor al orinar, también hacemos examen de orina para descartar una infección urinaria."
       },
       {
         "question": "¿Necesito cita para el papanicolaou?",
@@ -201,7 +201,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "I have discharge, itching or odor. Can you treat me the same day?",
-        "answer": "Yes. We evaluate your symptoms, take a culture if needed and, in most cases, you leave with treatment the same day. If your symptom is burning when urinating, we also run a urine test to rule out a UTI."
+        "answer": "Yes. We evaluate your symptoms, take a culture if needed and, in most cases, you leave with treatment from the same visit. If your symptom is burning when urinating, we also run a urine test to rule out a UTI."
       },
       {
         "question": "Do I need an appointment for a Pap smear?",
