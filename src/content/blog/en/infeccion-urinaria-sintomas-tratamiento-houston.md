@@ -1,9 +1,10 @@
 ---
 slug: "infeccion-urinaria-sintomas-tratamiento-houston"
-title: "Urinary Tract Infection: Symptoms, Urine Test and Same-Day Treatment in Houston"
-description: "How to recognize a urinary tract infection, when to get a urine test, when to go to the ER, and how to get same-day treatment at a Spanish-speaking clinic in Houston with no appointment or insurance."
+title: "Urinary Tract Infection: Symptoms, Urine Test and Treatment in One Visit in Houston"
+metaTitle: "UTI in Houston: Symptoms, Urine Test and Treatment"
+description: "How to spot a UTI, when to get a urine test, when to go to the ER, and how to get treated in the same visit in Houston, no appointment or insurance needed."
 date: "2026-09-06"
-dateModified: "2026-09-06"
+dateModified: "2026-10-04"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -17,7 +18,7 @@ keywords:
   - "burning when urinating"
 ---
 
-Burning when you urinate is one of the most common reasons people visit our clinic. The good news is that a urinary tract infection (UTI) is diagnosed with a urine test processed in the clinic during your visit and, in most cases, you leave with treatment the same day. This guide explains how to recognize it, when it is urgent, and what to expect at the visit.
+Burning when you urinate is one of the most common reasons people visit our clinic. The good news is that a urinary tract infection (UTI) is diagnosed with a urine test processed in the clinic during your visit and, in most cases, you leave with treatment in the same visit. This guide explains how to recognize it, when it is urgent, and what to expect at the visit.
 
 ## What is a urinary tract infection?
 
@@ -44,21 +45,21 @@ Go straight to an emergency room if you have one or more of these signs, because
 - Nausea or vomiting that keeps you from drinking fluids
 - Urinary symptoms during pregnancy
 
-If you only have burning, urgency and lower-belly discomfort, you can walk into the clinic with no appointment and we'll see you the same day.
+If you only have burning, urgency and lower-belly discomfort, you can walk into the clinic with no appointment and we'll see you.
 
 ## How is it diagnosed?
 
-With a **general urinalysis**. You provide a sample at the clinic, it is processed on the spot, and the doctor reviews the result with you in the same visit. The test detects signs of infection such as white blood cells, nitrites and blood.
+With a **general urinalysis**. You provide a sample at the clinic, it is processed at the clinic, and the medical team reviews the result with you in the same visit. The test detects signs of infection such as white blood cells, nitrites and blood.
 
-When infections keep coming back or don't improve with treatment, a **urine culture** is sent out. The culture identifies which bacteria is causing the infection and which antibiotic it responds to; that result takes a few days.
+When infections keep coming back or don't improve with treatment, a **urine culture** is sent out. The culture identifies which bacteria is causing the infection and which antibiotic it responds to.
 
 Tip for the sample: wash your hands, clean the genital area, let the first stream go into the toilet, and collect the mid-stream urine in the cup. That makes the sample more reliable.
 
 ## What does treatment look like?
 
-If the test confirms the infection, the doctor prescribes an antibiotic in the same visit and explains how to take it. Symptoms usually improve within two or three days, but it is important to **finish the full course**; stopping early makes the infection more likely to return and the bacteria more likely to become resistant.
+If the test confirms the infection, the medical team prescribes an antibiotic in the same visit and explains how to take it. Symptoms usually improve within two or three days, but it is important to **finish the full course**; stopping early makes the infection more likely to return and the bacteria more likely to become resistant.
 
-In the meantime, drink plenty of water, avoid coffee, alcohol and carbonated drinks, and use a pain reliever if the doctor recommends it. If you are not better after three days, come back for a reassessment.
+In the meantime, drink plenty of water, avoid coffee, alcohol and carbonated drinks, and use a pain reliever if the medical team recommends it. If you are not better after three days, come back for a reassessment.
 
 ## How much does it cost without insurance?
 
