@@ -9,6 +9,7 @@ import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { CalendarDots, Clock, ArrowRight } from "@phosphor-icons/react/dist/ssr";
 import { JsonLdCollectionPage } from "@/components/seo/json-ld";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { DEFAULT_OG_IMAGE } from "@/lib/seo";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -21,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: t("metaTitle"),
+    title: { absolute: t("metaTitle") },
     description: t("metaDescription"),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
@@ -36,6 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: t("metaDescription"),
       type: "website",
       url: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
+      images: [DEFAULT_OG_IMAGE],
     },
   };
 }

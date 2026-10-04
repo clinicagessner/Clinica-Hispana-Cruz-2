@@ -43,6 +43,7 @@ import { SERVICE_BLOG_MAP } from "@/lib/service-blog-map";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
 import { ServicesDirectory } from "@/components/sections/services-directory";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { ADS_LANDING_SLUGS, seoTitle } from "@/lib/seo";
 
 const iconMap: Record<string, React.ElementType> = {
   Stethoscope,
@@ -97,8 +98,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const service = getLocalizedService(rawService, locale);
   const localePath = locale === "en" ? "/en" : "";
 
+  // Landings de Ads: título y meta sin cambios (regla 5). El resto, título
+  // completo ≤60 sin la plantilla del layout.
+  const isAds = ADS_LANDING_SLUGS.has(slug);
+  const pageTitle = isAds ? `${service.title} | ${SITE_CONFIG.name}` : seoTitle(service.title);
+
   return {
-    title: service.title,
+    title: isAds ? service.title : { absolute: pageTitle },
     description: service.description,
     keywords: service.keywords,
     alternates: {
@@ -110,7 +116,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
     },
     openGraph: {
-      title: `${service.title} | ${SITE_CONFIG.name}`,
+      title: pageTitle,
       description: service.description,
       url: `${SITE_CONFIG.baseUrl}${localePath}/servicios/${slug}`,
       images: [
@@ -121,6 +127,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           alt: service.title,
         },
       ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: pageTitle,
+      description: service.description,
+      images: [`${SITE_CONFIG.baseUrl}${service.image}`],
     },
   };
 }

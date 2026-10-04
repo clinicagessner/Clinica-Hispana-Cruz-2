@@ -4,6 +4,7 @@ import { setRequestLocale } from "next-intl/server";
 import { Phone, MapPin, Envelope, ArrowLeft } from "@phosphor-icons/react/dist/ssr";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { DEFAULT_OG_IMAGE } from "@/lib/seo";
 
 type MetadataProps = {
   params: Promise<{ locale: string }>;
@@ -14,7 +15,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: "Política de Privacidad HIPAA",
+    title: { absolute: `Política de Privacidad HIPAA | ${SITE_CONFIG.name}` },
     description: `Política de privacidad y aviso de prácticas de privacidad HIPAA de ${SITE_CONFIG.name}. Conozca cómo protegemos su información de salud.`,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/privacidad`,
@@ -29,6 +30,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       description: `Política de privacidad y aviso de prácticas de privacidad HIPAA. Conozca cómo protegemos su información de salud en ${SITE_CONFIG.name}.`,
       url: `${SITE_CONFIG.baseUrl}${localePath}/privacidad`,
       type: "website",
+      images: [DEFAULT_OG_IMAGE],
     },
     robots: {
       index: true,

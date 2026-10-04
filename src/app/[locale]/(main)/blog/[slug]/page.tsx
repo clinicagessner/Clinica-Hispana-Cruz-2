@@ -10,6 +10,7 @@ import { Button } from "@/components/ui/button";
 import { CalendarDots, Clock, ArrowLeft, Phone, ShieldCheck } from "@phosphor-icons/react/dist/ssr";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { seoTitle } from "@/lib/seo";
 
 type Props = {
   params: Promise<{ locale: string; slug: string }>;
@@ -38,8 +39,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const localePath = locale === "en" ? "/en" : "";
 
+  const pageTitle = seoTitle(post.metaTitle ?? post.title);
+  const image = `${SITE_CONFIG.baseUrl}${post.image ?? "/images/og-image.jpg"}`;
+
   return {
-    title: post.title,
+    title: { absolute: pageTitle },
     description: post.description,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/blog/${slug}`,
@@ -50,28 +54,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
     },
     openGraph: {
-      title: post.title,
+      title: pageTitle,
       description: post.description,
       type: "article",
       publishedTime: post.date,
       authors: [post.author],
       url: `${SITE_CONFIG.baseUrl}${localePath}/blog/${slug}`,
-      images: post.image
-        ? [
-            {
-              url: post.image,
-              width: 1200,
-              height: 630,
-              alt: post.title,
-            },
-          ]
-        : undefined,
+      modifiedTime: post.dateModified ?? post.date,
+      images: [{ url: image, width: 1200, height: 630, alt: post.title }],
     },
     twitter: {
       card: "summary_large_image",
-      title: post.title,
+      title: pageTitle,
       description: post.description,
-      images: post.image ? [post.image] : undefined,
+      images: [image],
     },
   };
 }

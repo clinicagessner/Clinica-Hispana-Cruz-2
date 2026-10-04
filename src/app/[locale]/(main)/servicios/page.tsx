@@ -26,10 +26,14 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: t("title"),
+    title: {
+      absolute: locale === "en"
+        ? "Medical Services in Houston | Clínica Hispana Cruz 2"
+        : "Servicios médicos en Houston | Clínica Hispana Cruz 2",
+    },
     description: locale === "en"
-      ? "Medical services in Houston TX: family medicine, I-693 immigration exams, lab tests, gynecology, ultrasound, DOT physicals and more. Walk-ins welcome, Spanish-speaking staff."
-      : "Servicios médicos en Houston TX: medicina familiar, exámenes I-693, laboratorio, ginecología, ultrasonido, examen DOT y más. Sin cita previa, atención en español.",
+      ? "Medical services in north Houston: family medicine, I-693 exams, lab tests, gynecology, ultrasound and DOT physicals. Walk-ins, Spanish-speaking staff."
+      : "Servicios médicos en el norte de Houston: medicina familiar, examen I-693, laboratorio, ginecología, ultrasonido y examen DOT. Sin cita y en español.",
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/servicios`,
       languages: {

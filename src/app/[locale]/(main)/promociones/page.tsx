@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: t("metaTitle"),
+    title: { absolute: t("metaTitle") },
     description: t("metaDescription"),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/promociones`,

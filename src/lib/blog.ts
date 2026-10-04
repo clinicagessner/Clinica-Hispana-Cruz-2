@@ -19,6 +19,7 @@ function readBlogFile(slug: string, locale: string): BlogPost | null {
     description: data.description || "",
     date: data.date || "",
     dateModified: data.dateModified,
+    metaTitle: data.metaTitle,
     author: data.author || "Clínica Hispana Cruz 2",
     image: data.image,
     featured: data.featured || false,

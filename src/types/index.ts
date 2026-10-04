@@ -77,6 +77,8 @@ export interface BlogPost {
   descriptionEn?: string;
   date: string;
   dateModified?: string;
+  /** Título SEO (<title>) si el H1 pasa de 60 caracteres. */
+  metaTitle?: string;
   author: string;
   image?: string;
   featured?: boolean;
