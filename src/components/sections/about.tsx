@@ -36,6 +36,8 @@ export async function About() {
               gyn: link("ginecologia"),
               uti: link("infecciones-urinarias"),
               lab: link("examenes-sangre"),
+              dot: link("examen-dot"),
+              imm: link("examenes-inmigracion"),
             })}
           </p>
         </div>
