@@ -3,7 +3,7 @@
 export const SERVICE_BLOG_MAP: Record<string, string[]> = {
   "examenes-inmigracion": ["guia-examen-medico-inmigracion-i693-houston"],
   "examen-dot": ["examen-dot-cdl-camioneros-houston"],
-  "examenes-sangre": ["laboratorio-clinico-houston-analisis-sangre"],
+  "examenes-sangre": ["laboratorio-clinico-houston-analisis-sangre", "control-diabetes-houston-guia-pacientes"],
   "condiciones-cronicas": [
     "control-diabetes-houston-guia-pacientes",
     "atencion-medica-sin-seguro-houston",
@@ -18,6 +18,11 @@ export const SERVICE_BLOG_MAP: Record<string, string[]> = {
   "sueros-vitaminados": ["vitamina-b12-houston-beneficios-inyecciones"],
   "tiroides": ["laboratorio-clinico-houston-analisis-sangre"],
   "enfermedades-transmision-sexual": ["salud-mujer-houston-servicios-ginecologia"],
-  "electrocardiograma": ["salud-hombre-houston-chequeos-preventivos"],
+  "electrocardiograma": ["salud-hombre-houston-chequeos-preventivos", "examen-dot-cdl-camioneros-houston", "control-diabetes-houston-guia-pacientes"],
   "examen-fisico-escolar": ["atencion-medica-sin-seguro-houston"],
+  "examen-alcohol-drogas": ["examen-dot-cdl-camioneros-houston"],
+  "vacunas": ["guia-examen-medico-inmigracion-i693-houston", "bienvenidos-clinica-hispana-cruz-2"],
+  "prueba-tuberculosis": ["guia-examen-medico-inmigracion-i693-houston"],
+  "farmacia": ["bienvenidos-clinica-hispana-cruz-2"],
+  "alergias": ["bienvenidos-clinica-hispana-cruz-2"],
 };
