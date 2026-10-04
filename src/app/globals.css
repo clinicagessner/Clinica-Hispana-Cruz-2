@@ -15,8 +15,8 @@
   --red-warm: #FFF5F5;
 
   /* WhatsApp (color oficial de la marca) */
-  --whatsapp: #25d366;
-  --whatsapp-dark: #1da851;
+  --whatsapp: #15803d; /* verde WhatsApp oscurecido: texto blanco 5,0:1 (B4, WCAG AA) */
+  --whatsapp-dark: #166534;
 
   /* SLATE - Color Secundario */
   --slate-dark: #1E293B;

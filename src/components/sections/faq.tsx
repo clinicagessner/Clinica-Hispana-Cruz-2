@@ -41,7 +41,7 @@ export async function FAQ() {
               >
                 <AccordionTrigger className="text-left font-semibold text-slate-dark hover:text-red-primary hover:no-underline py-5 data-[state=open]:text-red-primary">
                   <span className="flex items-center gap-4">
-                    <span className="flex items-center justify-center size-8 rounded-lg bg-red-bg text-red-primary text-sm font-bold group-data-[state=open]:bg-red-primary group-data-[state=open]:text-white transition-colors">
+                    <span className="flex items-center justify-center size-8 rounded-lg bg-red-bg text-red-dark text-sm font-bold group-data-[state=open]:bg-red-primary group-data-[state=open]:text-white transition-colors">
                       {String(index + 1).padStart(2, "0")}
                     </span>
                     <span className="flex-1">{t(item.question)}</span>

@@ -107,7 +107,6 @@ export async function Hero() {
               >
                 <a
                   href={`tel:${CONTACT_INFO.phone}`}
-                  aria-label={`${t("ctaCall")} ${CONTACT_INFO.phoneFormatted}`}
                   suppressHydrationWarning
                 >
                   <Phone className="size-5" weight="fill" />
@@ -198,7 +197,6 @@ export async function Hero() {
               </div>
               <a
                 href={`tel:${CONTACT_INFO.phone}`}
-                aria-label={`${t("ctaCall")} ${CONTACT_INFO.phoneFormatted}`}
                 className="flex items-center gap-2.5 font-semibold text-white hover:text-yellow-300 transition-colors"
                 suppressHydrationWarning
               >

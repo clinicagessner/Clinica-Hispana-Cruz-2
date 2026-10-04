@@ -123,7 +123,7 @@ export default async function PromotionsPage({ params }: Props) {
 
           {/* Compact header */}
           <div className="mx-auto mb-12 max-w-2xl text-center md:mb-16">
-            <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-red-primary">
+            <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-red-dark">
               {t("pageEyebrow")}
             </p>
             <h1 className="mb-4 font-heading text-3xl font-bold text-slate-dark md:text-4xl lg:text-5xl">
