@@ -16,23 +16,25 @@ export interface GooglePlaceData {
   reviews: GoogleReview[];
 }
 
-// Places API (New) — https://places.googleapis.com/v1/places/{placeId}
-// (la legacy maps/api/place/details ya no se puede habilitar en proyectos nuevos)
-interface PlacesNewResponse {
+// Places API (New) response shape — places.googleapis.com/v1/places/{id}
+interface NewPlaceReview {
+  rating?: number;
+  relativePublishTimeDescription?: string;
+  publishTime?: string;
+  text?: { text?: string; languageCode?: string };
+  originalText?: { text?: string; languageCode?: string };
+  authorAttribution?: {
+    displayName?: string;
+    uri?: string;
+    photoUri?: string;
+  };
+}
+
+interface NewPlaceResponse {
   rating?: number;
   userRatingCount?: number;
-  reviews?: Array<{
-    rating: number;
-    text?: { text?: string };
-    relativePublishTimeDescription?: string;
-    publishTime?: string;
-    authorAttribution?: {
-      displayName?: string;
-      uri?: string;
-      photoUri?: string;
-    };
-  }>;
-  error?: { code: number; message: string; status: string };
+  reviews?: NewPlaceReview[];
+  error?: { status?: string; message?: string };
 }
 
 async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
@@ -44,59 +46,87 @@ async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
     return null;
   }
 
-  try {
-    const url = `https://places.googleapis.com/v1/places/${placeId}?languageCode=es`;
-
-    const response = await fetch(url, {
+  // Sin try/catch aquí: si falla, la promesa se rechaza y unstable_cache no
+  // guarda el fallo (se reintenta en la próxima petición).
+  // Places API (New): GET /v1/places/{placeId} con FieldMask por headers.
+  const response = await fetch(
+    `https://places.googleapis.com/v1/places/${placeId}?languageCode=es`,
+    {
       headers: {
         "X-Goog-Api-Key": apiKey,
         "X-Goog-FieldMask": "rating,userRatingCount,reviews",
       },
-      next: { revalidate: 604800 }, // Cache for 1 week (las reseñas cambian poco)
+      next: { revalidate: 604800 }, // Cache 1 semana
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(`HTTP error: ${response.status}`);
+  }
+
+  const data: NewPlaceResponse = await response.json();
+
+  if (data.error) {
+    throw new Error(`Google Places API error: ${data.error.status} ${data.error.message}`);
+  }
+
+  // Places omite `reviews` en silencio si el proyecto de la clave pierde la
+  // facturación: se trata como fallo para no cachear una respuesta vacía.
+  if (!data.reviews?.length) {
+    throw new Error("Google Places API: respuesta sin reseñas");
+  }
+
+  // Solo reseñas de 5★ con texto, más recientes primero.
+  const filteredReviews = (data.reviews ?? [])
+    .filter((review) => {
+      const text = review.text?.text ?? review.originalText?.text ?? "";
+      return review.rating === 5 && text.trim().length > 0;
+    })
+    .map((review) => {
+      const text = review.text?.text ?? review.originalText?.text ?? "";
+      const publishMs = review.publishTime ? Date.parse(review.publishTime) : 0;
+      return {
+        author_name: review.authorAttribution?.displayName ?? "Cliente de Google",
+        rating: review.rating ?? 5,
+        text,
+        time: Number.isNaN(publishMs) ? 0 : Math.floor(publishMs / 1000),
+        relative_time_description: review.relativePublishTimeDescription ?? "",
+        profile_photo_url:
+          review.authorAttribution?.photoUri || "/images/avatars/default.webp",
+        author_url: review.authorAttribution?.uri,
+      };
+    })
+    // Orden: primero las que tienen FOTO REAL del autor (ruta "/a-/" en
+    // googleusercontent = foto subida; "/a/ACg8oc" = avatar genérico de
+    // Google), y dentro de cada grupo, las más recientes primero.
+    .sort((a, b) => {
+      const aReal = a.profile_photo_url.includes("/a-/") ? 1 : 0;
+      const bReal = b.profile_photo_url.includes("/a-/") ? 1 : 0;
+      return bReal - aReal || b.time - a.time;
     });
 
-    const data: PlacesNewResponse = await response.json();
-
-    if (!response.ok || data.error) {
-      console.error(
-        "Google Places API (New) error:",
-        response.status,
-        data.error?.status,
-        data.error?.message
-      );
-      return null;
-    }
-
-    // Filter: only 5-star reviews with text
-    const filteredReviews = (data.reviews ?? [])
-      .filter((review) => review.rating === 5 && (review.text?.text ?? "").trim().length > 0)
-      .map((review) => ({
-        author_name: review.authorAttribution?.displayName ?? "Paciente",
-        rating: review.rating,
-        text: review.text?.text ?? "",
-        time: review.publishTime ? Math.floor(Date.parse(review.publishTime) / 1000) : 0,
-        relative_time_description: review.relativePublishTimeDescription ?? "",
-        profile_photo_url: review.authorAttribution?.photoUri || "/images/avatars/default.webp",
-        author_url: review.authorAttribution?.uri,
-      }));
-
-    return {
-      rating: data.rating ?? 5.0,
-      totalReviews: data.userRatingCount ?? 0,
-      reviews: filteredReviews,
-    };
-  } catch (error) {
-    console.error("Error fetching Google Place details:", error);
-    return null;
-  }
+  return {
+    rating: data.rating ?? 5.0,
+    totalReviews: data.userRatingCount ?? 0,
+    reviews: filteredReviews,
+  };
 }
 
-// Cached version - revalidates weekly
-export const getGooglePlaceData = unstable_cache(
+// Cached version - revalidates every week. Solo se cachean respuestas buenas.
+const getCachedGooglePlaceData = unstable_cache(
   fetchGooglePlaceDetails,
-  ["google-place-data"],
+  ["google-place-data-v2"],
   {
     revalidate: 604800, // 1 week
     tags: ["google-reviews"],
   }
 );
+
+export async function getGooglePlaceData(): Promise<GooglePlaceData | null> {
+  try {
+    return await getCachedGooglePlaceData();
+  } catch (error) {
+    console.error("Error fetching Google Place details:", error);
+    return null;
+  }
+}

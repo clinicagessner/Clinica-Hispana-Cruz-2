@@ -50,9 +50,9 @@ export const SOCIAL_LINKS: SocialLinks = {
 };
 
 // Google Reviews data - fallback cuando la Places API no responde
-// (valores reales del listado al 2026-09-06; en vivo se actualizan solos)
+// (valores reales de Places comprobados el 2026-10-04; en vivo se actualizan solos)
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 808,
+  totalReviews: 824,
   averageRating: 5.0,
   placeId: "ChIJ6R145DnLQIYRWbvQKXhSJfE",
 };
