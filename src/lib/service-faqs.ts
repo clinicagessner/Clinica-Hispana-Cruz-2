@@ -337,7 +337,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿En cuánto tiempo entregan los resultados?",
-        "answer": "En la mayoría de los casos los resultados están listos el mismo día o muy pronto, y te los explicamos en español."
+        "answer": "Los resultados salen rápido y te los explicamos en español."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -351,7 +351,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "How soon are results ready?",
-        "answer": "In most cases results are ready the same day or very soon, and we explain them to you in Spanish."
+        "answer": "Results come back fast and we explain them to you in Spanish."
       },
       {
         "question": "Do I need an appointment?",
@@ -379,7 +379,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Cuánto tarda el resultado del examen de orina?",
-        "answer": "El examen general de orina se procesa en la clínica durante tu visita, así que el médico revisa el resultado contigo en la misma consulta."
+        "answer": "El examen general de orina se procesa en la clínica durante tu visita, así que el equipo médico revisa el resultado contigo en la misma consulta."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -405,7 +405,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "How long does the urine test take?",
-        "answer": "The urinalysis is processed in the clinic during your visit, so the doctor reviews the result with you in the same consultation."
+        "answer": "The urinalysis is processed in the clinic during your visit, so the medical team reviews the result with you in the same consultation."
       },
       {
         "question": "Do I need an appointment?",
@@ -660,7 +660,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examenes-inmigracion": {
     "faqs": [
       {
-        "question": "¿El médico está autorizado por USCIS?",
+        "question": "¿El examen lo hace un Civil Surgeon autorizado por USCIS?",
         "answer": "Sí, el examen lo realiza un médico autorizado (civil surgeon) y te entregamos el Formulario I-693 sellado."
       },
       {
@@ -674,7 +674,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     ],
     "faqsEn": [
       {
-        "question": "Is the doctor authorized by USCIS?",
+        "question": "Is the exam done by a USCIS-designated civil surgeon?",
         "answer": "Yes, the exam is performed by an authorized civil surgeon and we give you the sealed Form I-693."
       },
       {
@@ -900,8 +900,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "farmacia": {
     "faqs": [
       {
-        "question": "¿Puedo surtir mi receta en la clínica?",
-        "answer": "Sí, al terminar tu consulta surtimos tu receta en nuestra farmacia, sin tener que ir a otro lugar."
+        "question": "¿Puedo recoger mis medicamentos en la clínica?",
+        "answer": "Sí. Al terminar la consulta te entregamos los medicamentos que te indicó el equipo médico de la clínica. No surtimos recetas de otros consultorios."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -914,8 +914,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     ],
     "faqsEn": [
       {
-        "question": "Can I fill my prescription at the clinic?",
-        "answer": "Yes, after your visit we fill your prescription at our pharmacy, with no need to go elsewhere."
+        "question": "Can I pick up my medications at the clinic?",
+        "answer": "Yes. When your visit ends we hand you the medications prescribed by the clinic's medical team. We do not fill prescriptions from other offices."
       },
       {
         "question": "Do I need an appointment?",

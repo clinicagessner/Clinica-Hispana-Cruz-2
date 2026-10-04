@@ -125,7 +125,7 @@
     "q8": "Do you perform I-693 immigration medical exams?",
     "a8": "Yes, we have USCIS-certified Civil Surgeon physicians to perform the I-693 immigration medical exam required for the Green Card. We offer fast results, on-site vaccines, and 100% Spanish-language service.",
     "q9": "How long is the wait without an appointment?",
-    "a9": "Wait times vary depending on daily demand, but we generally see patients within 15-30 minutes. We recommend arriving early to ensure faster service.",
+    "a9": "Wait times vary depending on daily demand, and patients are seen in order of arrival. To wait less, call ahead to reserve a time.",
     "q10": "Is parking available?",
     "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms.",
     "q11": "Where can I find a Hispanic clinic near me in Houston?",
@@ -220,7 +220,7 @@
   "chronicCare": {
     "badge": "Ongoing Care",
     "title": "Diabetes & Hypertension Management in Houston",
-    "subtitle": "Comprehensive monitoring and treatment program for diabetes, hypertension, high cholesterol, and thyroid conditions. Same-day lab results, medication adjustments, and patient education in Spanish.",
+    "subtitle": "Comprehensive monitoring and treatment program for diabetes, hypertension, high cholesterol, and thyroid conditions. Fast lab results, medication adjustments, and patient education in Spanish.",
     "conditionsTitle": "Conditions we manage",
     "conditions": {
       "diabetes": "Diabetes",
