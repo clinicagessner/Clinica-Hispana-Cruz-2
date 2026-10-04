@@ -1,225 +1,94 @@
 ---
 slug: "salud-mujer-houston-servicios-ginecologia"
-title: "Women's Health in Houston: Gynecology Services in Spanish"
-description: "Gynecology services in Houston TX with Spanish-speaking staff. Pap smears, pelvic exams, family planning, and more at Clínica Hispana Cruz 2."
+title: "Women's Health in North Houston: Which Checkup Fits Each Stage of Life and How to Choose"
+metaTitle: "Women's Health Checkups in North Houston"
+description: "Pap tests, pelvic ultrasound, intimate cultures, STD testing, and birth control in Spanish or English: which checkup fits your life stage and its cost."
 date: "2026-03-20"
-dateModified: "2026-03-21"
+dateModified: "2026-10-04"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/ginecologia.webp"
 featured: false
 category: "Women's Health"
 readTime: 6
 keywords:
-  - "gynecology Houston"
-  - "Pap smear Houston"
-  - "women's health Houston TX"
-  - "Spanish speaking gynecologist Houston"
-  - "pelvic exam Houston"
+  - "women's checkup Houston"
+  - "Pap test without insurance Houston"
+  - "pelvic ultrasound north Houston"
+  - "women's intimate health clinic"
+  - "basic gynecology Kuykendahl"
 ---
 
-# Women's Health in Houston: Gynecology Services in Spanish
+The checkup a woman needs depends on her age and on what's going on in her body. A routine visit at 25 looks very different from a visit for unusual discharge or for menopause changes. Clínica Hispana Cruz 2 offers basic gynecology in Spanish and English, walk-in, with direct-pay prices, so you can pick the checkup that fits.
 
-Women's health requires specialized attention, and at Clínica Hispana Cruz 2, we understand how important it is for every woman to feel comfortable and understood during her medical visits.
+The clinic's medical team put this guide together to help you get oriented before your visit: what's worth checking at each stage, which symptoms deserve attention, and what each package includes.
 
-## Why Regular Gynecological Care Matters
+## What women's health services are available here?
 
-Many women's health conditions can be prevented or treated effectively when caught early. Regular exams help:
+Our [gynecology](/servicios/ginecologia) service covers the most common reasons women come in:
 
-- Detect cervical cancer early
-- Identify infections before complications
-- Monitor reproductive health
-- Prevent sexually transmitted infections
-- Manage menopause symptoms
+- Pap tests and women's wellness checkups.
+- Cultures and vaginal infections.
+- Guidance on [birth control](/servicios/anticonceptivos).
+- [Pregnancy testing](/servicios/prueba-embarazo).
+- Testing for [sexually transmitted diseases](/servicios/enfermedades-transmision-sexual).
+- Pelvic [ultrasound](/servicios/ultrasonido) as part of the checkup with ultrasound.
 
-## Our Gynecology Services
+If a result calls for a specialist, we help arrange a referral to the right specialist and walk you through what comes next.
 
-### Pap Smear
-The Pap smear detects abnormal cells in the cervix that could develop into cancer.
+## What should you check at each stage of life?
 
-**How often should you get one?**
-- Women 21-29: every 3 years
-- Women 30-65: every 3-5 years with HPV test
-- After 65: consult your doctor
+### Ages 21 to 29
 
-### Pelvic Exam
-Includes examination of:
-- Uterus and ovaries
-- Vagina and cervix
-- Detection of masses or abnormalities
+This is when Pap testing starts. The [U.S. Preventive Services Task Force (USPSTF)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening) recommends cervical cytology every three years for most women in this age group. It's also a good time to settle on a birth control method that works for you, and to get STD testing when there's a new partner.
 
-### Breast Exam
-- Detection of lumps or changes
-- Self-exam education
-- Mammography referral if needed
+### Ages 30 to 65
 
-### Family Planning
-We offer counseling on:
-- Birth control pills
-- Injections (Depo-Provera)
-- Implants (Nexplanon)
-- Other methods
+You have more options here. The same task force lists cytology every three years, HPV testing every five years, or both together every five years. Which one suits you depends on your previous results. Questions about irregular periods, pelvic pain, or plans to get pregnant also tend to come up at this stage, and a pelvic ultrasound can add useful information.
 
-### Basic Prenatal Care
-- Pregnancy confirmation
-- First prenatal visits
-- Prenatal vitamins
-- Referral to obstetrician
+### Around menopause and after
 
-## Conditions We Treat
+Hot flashes, broken sleep, vaginal dryness, and periods that grow farther apart are expected changes, but you don't have to put up with them without asking. A **hormone panel** can help explain what's happening, and breast checks become more important. If you're due for a mammogram, we'll point you to where you can get one.
 
-### Vaginal Infections
-- Yeast infections (candidiasis)
-- Bacterial vaginosis
-- Trichomoniasis
-- Other yeast infections
+## Which symptoms shouldn't you ignore?
 
-### Menstrual Problems
-- Irregular periods
-- Heavy bleeding
-- Severe menstrual pain
-- Premenstrual syndrome
+Some problems become "normal" just because nobody ever checks them. Come in if you notice:
 
-### Menopause Symptoms
-- Hot flashes
-- Vaginal dryness
-- Mood changes
-- Sleep problems
+- **Discharge that changes** in smell, color, or amount, or itching that keeps coming back.
+- **Bleeding between periods** or after sex.
+- **Pelvic pain** that won't go away or keeps getting worse.
+- **A lump or change** in your breast or armpit.
+- **A late period** and questions about a possible pregnancy.
+- **A possible exposure** to a sexually transmitted infection, even with no symptoms.
 
-### Urinary Tract Infections
-- Rapid diagnosis
-- Same-day treatment
-- Recurrence prevention
+If you have heavy bleeding with dizziness, severe abdominal pain, or a high fever, go to an emergency room.
 
-## The Importance of Spanish-Language Care
+## Which package should you choose, and what does it cost?
 
-We understand that discussing intimate health can be difficult, especially with language barriers. At Clínica Hispana Cruz 2:
+These are the packages on our current flyers and what each one includes:
 
-- All our staff speaks Spanish
-- We explain procedures clearly
-- We answer all your questions
-- We create a trusting environment
-- We respect your privacy
+| Package | Price | Includes |
+|---|---|---|
+| Women's Checkup with Ultrasound | $179 | Pelvic ultrasound, Pap test, urine test, and a free medical consultation |
+| Women's Intimate Health | $69 | Intimate culture and medical consultation, with a free urine test |
+| Women's Hormone Panel | $250 | Ask for details when you call or at the front desk |
+| Comprehensive Breast Health Evaluation | $175 | Ask for details when you call or at the front desk |
+| Complete STD Diagnosis | $249 | RPR (syphilis), HIV, herpes, chlamydia, and gonorrhea |
 
-## When Should You Visit?
+A simple way to decide:
 
-Schedule a visit if you experience:
-- Abnormal bleeding
-- Persistent pelvic pain
-- Unusual vaginal discharge
-- Pain during intercourse
-- Breast lumps
-- Very painful periods
-- Infection symptoms
+- **Yearly check with no symptoms:** the Women's Checkup with Ultrasound.
+- **Discharge, itching, or odor:** Women's Intimate Health.
+- **Period changes, hot flashes, or hormone questions:** the Hormone Panel.
+- **New partner or possible exposure:** the Complete STD Diagnosis.
 
-## Recommended Exams by Age
+Promotional prices can change, so check the current ones on our [promotions](/promociones) page. For anything else, we tell you the cost before your visit.
 
-| Age | Recommended Exams |
-|-----|------------------|
-| 21+ | Pap smear every 3 years |
-| 30+ | Pap smear + HPV every 5 years |
-| 40+ | Consider annual mammogram |
-| 50+ | Bone density exams |
+## Why does care in your own language matter?
 
-## How to Perform a Breast Self-Exam
+Talking about intimate health is hard enough already. Doing it in a language you're not comfortable in makes it harder. Here you can describe symptoms in your own words, ask about anything that isn't clear, and leave knowing what was done and what happens next. What you share during the visit stays between you and the team.
 
-Monthly breast self-exams are a simple tool that can save lives. Performing one regularly allows you to learn how your breasts normally feel and detect changes early.
+If you'd like to read up before you come, [MedlinePlus](https://medlineplus.gov/womenshealth.html) collects women's health topics in one place, and the [CDC](https://www.cdc.gov/sti/) explains how STIs are prevented and detected.
 
-**Best time to do it:** Between 3 and 5 days after your period starts, when breasts are less tender. If you have gone through menopause, choose a fixed day each month.
+## Coming in for your checkup
 
-**Steps in front of a mirror:**
-1. Stand with your arms at your sides and look at both breasts for changes in size, shape, or skin color
-2. Raise both arms above your head and repeat the visual check
-3. Place your hands on your hips, tighten your muscles, and check for any dimpling or irregularities
-
-**Steps lying down:**
-1. Lie down and place a pillow under your right shoulder; put your right arm behind your head
-2. Using the three middle fingers of your left hand, make firm but gentle circular movements from the nipple outward, covering the entire breast
-3. Repeat on the left breast
-4. Also check your armpits, where swollen lymph nodes may appear
-
-**See a doctor right away if you notice:**
-- A new lump or thickening in the breast or armpit
-- Changes in the size or shape of the breast
-- Dimpling, puckering, or bulging of the skin
-- Redness, flaking, or crusting around the nipple
-- Nipple discharge (especially if bloody)
-- Persistent pain in a specific area
-
-Our [gynecology services in Houston](/servicios/ginecologia) include personalized self-exam instruction during every visit.
-
-## Menopause: Symptoms and Treatment Options
-
-Menopause is a natural stage in every woman's life, but its symptoms can significantly affect quality of life. At Clínica Hispana Cruz 2, we care for many Hispanic women in Houston who are looking for clear, Spanish-language guidance on how to manage this transition.
-
-### Most common menopause symptoms
-- **Hot flashes and night sweats:** Sudden waves of heat that can last 1 to 5 minutes
-- **Vaginal dryness and irritation:** Caused by declining estrogen, can affect intimate life
-- **Mood changes and irritability:** Hormonal fluctuations that impact emotional well-being
-- **Sleep problems:** Difficulty falling or staying asleep
-- **Bone density loss:** Greater risk of osteoporosis after menopause
-- **Changes in weight and fat distribution**
-
-### Available treatment options
-
-**Hormone Therapy (HT):** Estrogen alone or combined with progesterone. It is the most effective treatment for hot flashes and vaginal dryness. Your doctor will evaluate whether it is appropriate for you based on your health history.
-
-**Non-hormonal treatments:**
-- Low-dose antidepressants (for intense hot flashes)
-- Vaginal lubricants and creams without hormones
-- Calcium and vitamin D supplements to protect bones
-- Dietary changes and regular exercise
-
-**Natural remedies with limited evidence:**
-- Phytoestrogens (soy, red clover) — discuss with your doctor before using
-- Stress management techniques and meditation
-
-Don't suffer in silence. Talk to our Houston medical team to find the plan that best fits your situation.
-
-## Sexual Health and STI Prevention
-
-Sexual health is an integral part of a woman's overall well-being. Sexually transmitted infections (STIs) are more common than many people realize, and often produce no symptoms, which is why regular testing is essential.
-
-### Why get tested for STIs?
-
-- Many STIs like chlamydia and gonorrhea cause no symptoms until they have already damaged reproductive organs
-- Untreated HIV can progress without visible signs for years
-- Early diagnosis allows for effective treatment and prevents complications such as infertility
-- It protects your health and your partner's
-
-### STIs we evaluate and treat
-
-- **Chlamydia and gonorrhea:** The most common bacterial STIs; treatable with antibiotics
-- **Syphilis:** Detectable with a blood test; very treatable in early stages
-- **HIV:** Rapid testing available; with modern treatment it is a manageable condition
-- **Genital herpes:** Management of outbreaks and reduction of transmission risk
-- **HPV (Human Papillomavirus):** Related to cervical changes detected on Pap smears
-- **Trichomoniasis:** Parasitic infection treatable with oral medication
-
-### Prevention
-
-- Consistent use of male or female condoms
-- HPV vaccine (available up to age 45 in many cases)
-- Open communication with your partner about recent testing
-- Annual gynecological checkups as part of your health routine
-
-Our [sexually transmitted disease services](/servicios/enfermedades-transmision-sexual) are completely confidential and conducted in an environment of respect and trust. We also offer comprehensive [family planning](/servicios/anticonceptivos) that includes sexual health counseling and contraception. If you have experienced symptoms like unusual discharge or irritation, visit our page on [vaginal infections](/servicios/ginecologia) for more information. If what you feel is burning when urinating or a constant urge to go, it may be a [urinary tract infection](/servicios/infecciones-urinarias), which we diagnose and treat the same day.
-
-## Why Choose Clínica Hispana Cruz 2
-
-- **Confidential care** in a comfortable environment
-- **Female provider** available
-- **Walk-ins welcome**
-- **Affordable prices** for all
-- **Uninsured patients accepted**
-- **Convenient Houston location**
-
-## Schedule Your Visit
-
-Your health is important. Don't postpone your gynecological exams. We are the trusted clinic for thousands of Hispanic women in Houston TX, including the Champions, Willowbrook, Klein, Spring, and north Houston areas.
-
-**Clínica Hispana Cruz 2**
-- Phone: (281) 789-0484
-- Address: 13331 Kuykendahl Rd Ste 128, Houston, TX 77090
-- Hours: Monday-Friday 9AM-9PM
-
-*Caring for the health of Hispanic women in Houston.*
+We're at **13331 Kuykendahl Rd Ste 128, Houston, TX 77090**, in north Houston near Klein, Spring, and Willowbrook. We're open every day from 9 AM to 9 PM, so you can stop by before or after work without an appointment, or call to reserve a time. Insurance isn't required; we accept cash, debit, and credit, and we see patients in Spanish or English.
