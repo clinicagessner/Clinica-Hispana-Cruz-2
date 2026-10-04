@@ -112,6 +112,7 @@ export async function JsonLdMedicalClinic() {
         // Atributo declarado en la ficha (visto en Bing Places, importado de Google).
         amenityFeature: [
           { "@type": "LocationFeatureSpecification", name: "Entrada accesible para silla de ruedas", value: true },
+          { "@type": "LocationFeatureSpecification", name: locale === "en" ? "Free parking" : "Estacionamiento gratuito", value: true },
         ],
         publicAccess: true,
         // Solo lo que ejerce el equipo médico general: sin urgencias ni
