@@ -325,13 +325,12 @@ function parseMarkdown(markdown: string, locale: string = "es"): string {
   // Wrap content in paragraph tags
   html = `<p>${html}</p>`;
 
-  // Fix list structure
+  // Listas que siguen a un párrafo con un solo salto de línea quedaban como
+  // <li> sueltos (sin <ul>): se agrupa cada racha de <li> en su propia lista.
   html = html
-    .replace(/<p><li>/g, '<ul><li>')
-    .replace(/<\/li><\/p>/g, '</li></ul>')
-    .replace(/<\/li><br><li>/g, '</li><li>')
-    .replace(/<br><ul>/g, '</p><ul>')
-    .replace(/<\/ul><br>/g, '</ul><p>');
+    .replace(/(?:<br>)?((?:<li>(?:(?!<\/li>)[\s\S])*<\/li>(?:<br>)?)+)/g, (_m, run: string) => `</p><ul>${run.replace(/<br>/g, "")}</ul><p>`)
+    .replace(/<p>(?:<br>)?<\/p>/g, "")
+    .replace(/<p><br>/g, "<p>");
 
   // Fix table structure (sacar <table> de los <p> generados por el paso de párrafos)
   html = html
