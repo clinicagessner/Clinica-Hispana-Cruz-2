@@ -147,18 +147,6 @@ export default async function LocaleLayout({ children, params }: Props) {
       <head>
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#DC2626" />
-        {/* Preconnect to external domains for faster loading */}
-        <link rel="preconnect" href="https://connect.facebook.net" />
-        <link rel="preconnect" href="https://maps.googleapis.com" />
-        <link rel="preconnect" href="https://lh3.googleusercontent.com" />
-        <link rel="preconnect" href="https://cdn.callrail.com" />
-        <link rel="dns-prefetch" href="https://cdn.callrail.com" />
-        {/* CallRail - Call Tracking (number swap) */}
-        <script
-          type="text/javascript"
-          src="//cdn.callrail.com/companies/627710951/9d62e7f39addbae4c199/12/swap.js"
-          async
-        />
         {/* Meta Pixel noscript fallback (píxel 1x1 de tracking; next/image no aplica dentro de noscript) */}
         {metaPixelId && (
           <noscript>
@@ -184,7 +172,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <ConversionEvents />
       </body>
       {metaPixelId && (
-        <Script id="meta-pixel" strategy="afterInteractive">
+        <Script id="meta-pixel" strategy="lazyOnload">
           {`
             !function(f,b,e,v,n,t,s)
             {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -200,6 +188,12 @@ export default async function LocaleLayout({ children, params }: Props) {
         </Script>
       )}
       <GoogleTags />
+      {/* CallRail (cambio de número) tras la carga: no compite con el LCP (§7 B0.12) */}
+      <Script
+        id="callrail-swap"
+        src="https://cdn.callrail.com/companies/627710951/9d62e7f39addbae4c199/12/swap.js"
+        strategy="lazyOnload"
+      />
     </html>
   );
 }
