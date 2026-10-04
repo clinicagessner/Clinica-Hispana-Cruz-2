@@ -431,11 +431,11 @@ export const SERVICES: Service[] = [
   {
     "id": "salud-hombre",
     "slug": "salud-hombre",
-    "title": "Examen de Próstata (PSA) y Testosterona en Houston en Español",
-    "titleEn": "Prostate Exam (PSA) & Testosterone Test in Houston, in Spanish",
+    "title": "Salud del Hombre: Examen de Próstata (PSA) en Houston",
+    "titleEn": "Men's Health: Prostate Exam (PSA) in Houston",
     "shortTitle": "Salud del Hombre",
-    "description": "Examen de próstata (PSA en sangre) y testosterona en Houston, TX, con atención en español. Sin cita previa, sin seguro y con paquetes desde $79 en el norte de Houston.",
-    "descriptionEn": "Prostate exam (blood PSA) and testosterone test in Houston, TX, with Spanish-speaking care. Walk-ins welcome, no insurance needed, packages from $79 in north Houston.",
+    "description": "Examen de próstata (PSA en sangre) y chequeo hormonal del hombre en el norte de Houston, en español. Sin cita, sin seguro y con paquetes desde $79.",
+    "descriptionEn": "Prostate exam (blood PSA) and men's hormone checkup in north Houston, in Spanish. Walk-ins welcome, no insurance needed, packages from $79.",
     "longDescription": "La salud del hombre muchas veces se posterga. En Clínica Hispana Cruz 2 facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.\n\n**¿Qué incluye?**\n- Examen de antígeno prostático (PSA)\n- Medición del nivel de testosterona\n- Chequeo general y de signos vitales\n- Evaluación de síntomas urinarios o de energía\n- Referencia a especialista si se requiere\n\n**Por qué es importante**\nEl PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.\n\n**Atención médica en tu idioma**\nNuestro equipo de medicina general te atiende 100% en español, sin cita previa y con precios de pago directo accesibles (no necesitas seguro médico). Aceptamos efectivo y tarjetas.\n\n**Visítanos en el norte de Houston**\n13331 Kuykendahl Rd Ste 128, Houston, TX 77090 — abiertos todos los días de 9 AM a 9 PM. Atendemos a pacientes de Champions, Willowbrook, Klein, Spring, Cypress Station y Greenspoint.",
     "longDescriptionEn": "Men's health is often postponed. At Clínica Hispana Cruz 2 we make it easy to get the exams that help catch important changes early, with results explained in Spanish.\n\n**What's included?**\n- Prostate antigen (PSA) test\n- Testosterone level measurement\n- General checkup and vital signs\n- Evaluation of urinary or energy symptoms\n- Referral to a specialist if needed\n\n**Why it matters**\nPSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.\n\n**Medical care in your language**\nOur primary care team sees you 100% in Spanish, with no appointment needed and affordable self-pay pricing (no health insurance required). We accept cash and cards.\n\n**Visit us in north Houston**\n13331 Kuykendahl Rd Ste 128, Houston, TX 77090 — open every day from 9 AM to 9 PM. We serve patients from Champions, Willowbrook, Klein, Spring, Cypress Station and Greenspoint.",
     "icon": "Activity",
@@ -445,13 +445,13 @@ export const SERVICES: Service[] = [
       "examen del hombre houston",
       "prueba psa houston",
       "examen de prostata houston",
-      "examen de testosterona houston"
+      "chequeo hormonal del hombre houston"
     ],
     "keywordsEn": [
       "mens health houston",
       "psa test houston",
       "prostate exam houston",
-      "testosterone test houston"
+      "mens hormone checkup houston"
     ],
     "features": [
       "Antígeno prostático (PSA)",
