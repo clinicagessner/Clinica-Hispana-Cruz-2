@@ -370,8 +370,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Ardor al orinar, ganas constantes de ir al baño aunque salga poco, orina turbia o con mal olor, y dolor en la parte baja del abdomen. Si además tienes fiebre o dolor en la espalda baja, ven el mismo día: la infección puede estar llegando a los riñones."
       },
       {
-        "question": "¿Salgo de la consulta con el tratamiento?",
-        "answer": "Sí. Hacemos el examen de orina en la clínica, revisamos tus síntomas y, si hay infección, sales con tu tratamiento en la misma visita."
+        "question": "¿Salgo con el tratamiento el mismo día?",
+        "answer": "Sí. Hacemos el examen de orina en la clínica, revisamos tus síntomas y, si hay infección, sales con tu tratamiento el mismo día."
       },
       {
         "question": "¿Cuánto cuesta el examen de orina y el tratamiento sin seguro?",
@@ -396,8 +396,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Burning when you urinate, a constant urge to go even if little comes out, cloudy or foul-smelling urine, and lower-abdomen pain. If you also have fever or lower-back pain, come in the same day: the infection may be reaching your kidneys."
       },
       {
-        "question": "Will I leave the visit with my treatment?",
-        "answer": "Yes. We run the urine test in the clinic, review your symptoms and, if there's an infection, you leave with treatment in the same visit."
+        "question": "Will I leave with my treatment the same day?",
+        "answer": "Yes. We run the urine test in the clinic, review your symptoms and, if there's an infection, you leave with your treatment the same day."
       },
       {
         "question": "How much do the urine test and treatment cost without insurance?",

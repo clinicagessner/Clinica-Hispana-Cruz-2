@@ -2,7 +2,7 @@
 slug: "infeccion-urinaria-sintomas-tratamiento-houston"
 title: "Infección Urinaria: Síntomas, Examen de Orina y Tratamiento en la Misma Visita en Houston"
 metaTitle: "Infección Urinaria en Houston: Síntomas y Tratamiento"
-description: "Cómo reconocer una infección urinaria, cuándo hacerte el examen de orina, cuándo ir a urgencias y cómo tratarla en la misma visita en Houston, sin cita."
+description: "Cómo reconocer una infección urinaria, cuándo hacerte el examen de orina, cuándo ir a urgencias y cómo tratarla el mismo día en Houston, sin cita."
 date: "2026-09-06"
 dateModified: "2026-10-04"
 author: "Clínica Hispana Cruz 2"
@@ -18,7 +18,7 @@ keywords:
   - "ardor al orinar"
 ---
 
-El ardor al orinar es uno de los motivos de consulta más comunes en nuestra clínica. La buena noticia es que una infección urinaria se diagnostica con un examen de orina que se procesa en la clínica durante tu visita y, en la mayoría de los casos, sales con tu tratamiento en la misma visita. En esta guía te explicamos cómo reconocerla, cuándo es urgente y qué esperar en la consulta.
+El ardor al orinar es uno de los motivos de consulta más comunes en nuestra clínica. La buena noticia es que una infección urinaria se diagnostica con un examen de orina que se procesa en la clínica durante tu visita y, si hay infección, sales con tu tratamiento el mismo día. En esta guía te explicamos cómo reconocerla, cuándo es urgente y qué esperar en la consulta.
 
 ## ¿Qué es una infección urinaria?
 
@@ -57,7 +57,7 @@ Consejo para la muestra: lávate las manos, limpia la zona genital, deja salir e
 
 ## ¿Cómo es el tratamiento?
 
-Si el examen confirma la infección, el equipo médico indica un antibiótico en la misma visita y te explica cómo tomarlo. Los síntomas suelen mejorar en dos o tres días, pero es importante **completar todo el tratamiento**; suspenderlo antes favorece que la infección regrese y que la bacteria se vuelva resistente.
+Si el examen confirma la infección, el equipo médico indica un antibiótico ese mismo día y te explica cómo tomarlo. Los síntomas suelen mejorar en dos o tres días, pero es importante **completar todo el tratamiento**; suspenderlo antes favorece que la infección regrese y que la bacteria se vuelva resistente.
 
 Mientras tanto, toma suficiente agua, evita el café, el alcohol y las bebidas con gas, y usa un analgésico si el equipo médico lo indica. Si a los tres días no mejoras, regresa para revalorar.
 

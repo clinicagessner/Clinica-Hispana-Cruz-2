@@ -2,7 +2,7 @@
 slug: "infeccion-urinaria-sintomas-tratamiento-houston"
 title: "Urinary Tract Infection: Symptoms, Urine Test and Treatment in One Visit in Houston"
 metaTitle: "UTI in Houston: Symptoms, Urine Test and Treatment"
-description: "How to spot a UTI, when to get a urine test, when to go to the ER, and how to get treated in the same visit in Houston, no appointment or insurance needed."
+description: "How to spot a UTI, when to get a urine test, when to go to the ER, and how to get treated the same day in Houston, no appointment or insurance needed."
 date: "2026-09-06"
 dateModified: "2026-10-04"
 author: "Clínica Hispana Cruz 2"
@@ -18,7 +18,7 @@ keywords:
   - "burning when urinating"
 ---
 
-Burning when you urinate is one of the most common reasons people visit our clinic. The good news is that a urinary tract infection (UTI) is diagnosed with a urine test processed in the clinic during your visit and, in most cases, you leave with treatment in the same visit. This guide explains how to recognize it, when it is urgent, and what to expect at the visit.
+Burning when you urinate is one of the most common reasons people visit our clinic. The good news is that a urinary tract infection (UTI) is diagnosed with a urine test processed in the clinic during your visit and, if there is an infection, you leave with your treatment the same day. This guide explains how to recognize it, when it is urgent, and what to expect at the visit.
 
 ## What is a urinary tract infection?
 
@@ -57,7 +57,7 @@ Tip for the sample: wash your hands, clean the genital area, let the first strea
 
 ## What does treatment look like?
 
-If the test confirms the infection, the medical team prescribes an antibiotic in the same visit and explains how to take it. Symptoms usually improve within two or three days, but it is important to **finish the full course**; stopping early makes the infection more likely to return and the bacteria more likely to become resistant.
+If the test confirms the infection, the medical team prescribes an antibiotic that same day and explains how to take it. Symptoms usually improve within two or three days, but it is important to **finish the full course**; stopping early makes the infection more likely to return and the bacteria more likely to become resistant.
 
 In the meantime, drink plenty of water, avoid coffee, alcohol and carbonated drinks, and use a pain reliever if the medical team recommends it. If you are not better after three days, come back for a reassessment.
 
