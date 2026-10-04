@@ -103,7 +103,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Landings de Ads: título y meta sin cambios (regla 5). El resto, título
   // completo ≤60 sin la plantilla del layout.
   const isAds = ADS_LANDING_SLUGS.has(slug);
-  const pageTitle = isAds ? `${service.title} | ${SITE_CONFIG.name}` : seoTitle(service.title);
+  const pageTitle = isAds ? `${service.title} | ${SITE_CONFIG.name}` : seoTitle(service.seoTitle || service.title);
 
   return {
     title: isAds ? service.title : { absolute: pageTitle },

@@ -3,6 +3,9 @@ export interface Service {
   slug: string;
   title: string;
   titleEn?: string;
+  /** <title> de la página si difiere del H1 (≤60). */
+  seoTitle?: string;
+  seoTitleEn?: string;
   shortTitle: string;
   description: string;
   descriptionEn?: string;

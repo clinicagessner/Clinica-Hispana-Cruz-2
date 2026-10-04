@@ -4,12 +4,10 @@ export const TITLE_MAX = 60;
 export const DESCRIPTION_MAX = 155;
 
 // Landings de Google Ads (RED.md): su <title> y su meta no cambian sin la
-// aprobación del usuario (HERMES.md regla 5), así que conservan la plantilla.
-export const ADS_LANDING_SLUGS = new Set([
-  "ginecologia",
-  "infecciones-urinarias",
-  "examenes-inmigracion",
-]);
+// aprobación del usuario (HERMES.md regla 5). Las que estén aquí conservan la
+// plantilla. Ginecología, infecciones urinarias e I-693: aprobadas el 2026-10-04
+// (usan seoTitle).
+export const ADS_LANDING_SLUGS = new Set<string>([]);
 
 /**
  * Título completo (sin la plantilla del layout): con la marca si cabe en 60,
