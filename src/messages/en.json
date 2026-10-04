@@ -286,5 +286,11 @@
     "formSubtitle": "Leave us your details and we'll contact you to schedule your appointment.",
     "metaTitle": "Medical Promotions in Houston | Clínica Hispana Cruz 2",
     "metaDescription": "Fixed-price medical packages at Clínica Hispana Cruz 2 in north Houston: women's and men's checkups, hormone panel and DOT exam. Walk-ins welcome."
+  },
+  "medicalReview": {
+    "heading": "Medical review",
+    "reviewedBy": "Content reviewed by the medical team at {name}.",
+    "published": "Published",
+    "lastReviewed": "Last reviewed:"
   }
 }

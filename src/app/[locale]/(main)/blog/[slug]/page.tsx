@@ -11,6 +11,7 @@ import { CalendarDots, Clock, ArrowLeft, Phone, ShieldCheck } from "@phosphor-ic
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { seoTitle } from "@/lib/seo";
+import { MedicalReview } from "@/components/seo/medical-review";
 
 type Props = {
   params: Promise<{ locale: string; slug: string }>;
@@ -77,7 +78,7 @@ export default async function BlogPostPage({ params }: Props) {
 
   setRequestLocale(locale);
 
-  const t = await getTranslations("blog");
+  const [t, tReview] = await Promise.all([getTranslations("blog"), getTranslations("medicalReview")]);
 
   const getLocalizedHref = (href: string) => {
     if (locale === "es") return href;
@@ -183,6 +184,21 @@ export default async function BlogPostPage({ params }: Props) {
           <div className="max-w-3xl mx-auto">
             <div className="blog-content">
               <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content, locale) }} />
+            </div>
+
+            {/* Revisión médica (§12 B2) */}
+            <div className="mt-10">
+              <MedicalReview
+                published={post.date}
+                reviewed={post.dateModified ?? post.date}
+                locale={locale}
+                labels={{
+                  heading: tReview("heading"),
+                  reviewedBy: tReview("reviewedBy"),
+                  published: tReview("published"),
+                  lastReviewed: tReview("lastReviewed"),
+                }}
+              />
             </div>
 
             {/* CTA Section */}

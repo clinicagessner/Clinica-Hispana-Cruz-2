@@ -286,5 +286,11 @@
     "formSubtitle": "Déjenos sus datos y le contactamos para agendar su cita.",
     "metaTitle": "Promociones médicas en Houston | Clínica Hispana Cruz 2",
     "metaDescription": "Paquetes médicos con precio fijo en Clínica Hispana Cruz 2, norte de Houston: chequeos de mujer y hombre, perfil hormonal y examen DOT. Sin cita."
+  },
+  "medicalReview": {
+    "heading": "Revisión médica",
+    "reviewedBy": "Contenido revisado por el equipo médico de {name}.",
+    "published": "Publicado el",
+    "lastReviewed": "Última revisión:"
   }
 }
