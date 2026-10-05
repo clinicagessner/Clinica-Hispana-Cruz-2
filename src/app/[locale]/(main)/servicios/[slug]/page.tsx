@@ -187,6 +187,7 @@ export default async function ServicePage({ params }: Props) {
               alt={`${service.title} - Servicio médico Clínica Hispana Cruz 2 Houston TX`}
               fill
               priority
+              fetchPriority="high"
               className="object-cover"
               sizes="100vw"
             />
