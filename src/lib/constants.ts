@@ -475,6 +475,8 @@ export const SERVICES: Service[] = [
     "slug": "examenes-sangre",
     "title": "Análisis y Exámenes de Sangre | Laboratorio",
     "titleEn": "Blood Tests | Lab",
+    "seoTitle": "Exámenes de Sangre en Houston",
+    "seoTitleEn": "Blood Tests in Houston",
     "shortTitle": "Análisis de Sangre",
     "description": "Análisis de sangre en el norte de Houston: biometría, glucosa, A1C, colesterol, tiroides, hígado y riñón. Te explicamos cada valor en español.",
     "descriptionEn": "Blood work in north Houston: CBC, glucose, A1C, cholesterol, thyroid, liver and kidney panels. Every value explained in plain Spanish or English.",
