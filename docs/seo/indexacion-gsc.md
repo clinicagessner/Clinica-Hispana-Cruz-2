@@ -12,18 +12,18 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 1 — cambios del 2026-10-04 (home y landings de Ads con título/meta nuevos, urinarias): pedir HOY — 📨 ENVIADA 05/10/2026
+## Tanda 1 — cambios del 2026-10-04 (home y landings de Ads con título/meta nuevos, urinarias): pedir HOY  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.hispanac2.com  — indexada · 0 impr.
-- [ ] https://www.hispanac2.com/en  — indexada · 2515 impr.
-- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — indexada · 90 impr.
-- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — indexada · 95 impr.
-- [ ] https://www.hispanac2.com/servicios/ginecologia  — indexada · 649 impr.
-- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — rastreada sin indexar · 44 impr.
-- [ ] https://www.hispanac2.com/servicios/examenes-inmigracion  — indexada · 287 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examenes-inmigracion  — indexada · 0 impr.
-- [ ] https://www.hispanac2.com/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 75 impr.
-- [ ] https://www.hispanac2.com/en/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 40 impr.
+- [x] https://www.hispanac2.com  — indexada · 0 impr.
+- [x] https://www.hispanac2.com/en  — indexada · 2515 impr.
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — indexada · 90 impr.
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — indexada · 95 impr.
+- [x] https://www.hispanac2.com/servicios/ginecologia  — indexada · 649 impr.
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — rastreada sin indexar · 44 impr.
+- [x] https://www.hispanac2.com/servicios/examenes-inmigracion  — indexada · 287 impr.
+- [x] https://www.hispanac2.com/en/servicios/examenes-inmigracion  — indexada · 0 impr.
+- [x] https://www.hispanac2.com/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 75 impr.
+- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 40 impr.
 
 ## Tanda 2
 
