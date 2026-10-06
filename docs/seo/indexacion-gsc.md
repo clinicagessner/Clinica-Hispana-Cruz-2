@@ -6,26 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 47 de 86 URLs del sitemap indexadas · 39 sin indexar (24 descubierta sin indexar · 14 desconocida · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 47 de 86 URLs del sitemap indexadas · 39 sin indexar (24 descubierta sin indexar · 14 desconocida · 1 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 72 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 1 — cambios del 2026-10-04 (home y landings de Ads con título/meta nuevos, urinarias): pedir HOY  ✅ PEDIDA 05/10/2026
-
-- [x] https://www.hispanac2.com  — indexada · 0 impr.
-- [x] https://www.hispanac2.com/en  — indexada · 2515 impr.
-- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — indexada · 90 impr.
-- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — indexada · 95 impr.
-- [x] https://www.hispanac2.com/servicios/ginecologia  — indexada · 649 impr.
-- [x] https://www.hispanac2.com/en/servicios/ginecologia  — rastreada sin indexar · 44 impr.
-- [x] https://www.hispanac2.com/servicios/examenes-inmigracion  — indexada · 287 impr.
-- [x] https://www.hispanac2.com/en/servicios/examenes-inmigracion  — indexada · 0 impr.
-- [x] https://www.hispanac2.com/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 75 impr.
-- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 40 impr.
-
-## Tanda 2
+## Tanda 2  📨 ENVIADA 06/10/2026
 
 - [ ] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-10-05 · rastreada 2026-08-20 · indexada · 339 impr.
 - [ ] https://www.hispanac2.com/servicios  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 150 impr.
@@ -120,3 +108,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/unas-encarnadas  — cambiada 2026-10-04 · desconocida · 0 impr.
+
+## Historial (tandas pedidas)
+
+## Tanda 1 — cambios del 2026-10-04 (home y landings de Ads con título/meta nuevos, urinarias): pedir HOY  ✅ PEDIDA 05/10/2026
+
+- [x] https://www.hispanac2.com  — indexada · 0 impr.
+- [x] https://www.hispanac2.com/en  — indexada · 2515 impr.
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — indexada · 90 impr.
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — indexada · 95 impr.
+- [x] https://www.hispanac2.com/servicios/ginecologia  — indexada · 649 impr.
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — rastreada sin indexar · 44 impr.
+- [x] https://www.hispanac2.com/servicios/examenes-inmigracion  — indexada · 287 impr.
+- [x] https://www.hispanac2.com/en/servicios/examenes-inmigracion  — indexada · 0 impr.
+- [x] https://www.hispanac2.com/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 75 impr.
+- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-sintomas-tratamiento-houston  — indexada · 40 impr.
