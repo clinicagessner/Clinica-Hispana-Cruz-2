@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 2  📨 ENVIADA 06/10/2026
+## Tanda 2  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-10-05 · rastreada 2026-08-20 · indexada · 339 impr.
-- [ ] https://www.hispanac2.com/servicios  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 150 impr.
-- [ ] https://www.hispanac2.com/promociones  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 84 impr.
-- [ ] https://www.hispanac2.com/servicios/enfermedades-transmision-sexual  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 78 impr.
-- [ ] https://www.hispanac2.com/servicios/vacunas  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 73 impr.
-- [ ] https://www.hispanac2.com/servicios/salud-hombre  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 68 impr.
-- [ ] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-09-05 · indexada · 51 impr.
-- [ ] https://www.hispanac2.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 12 impr.
-- [ ] https://www.hispanac2.com/blog  — cambiada 2026-10-04 · rastreada 2026-09-15 · indexada · 10 impr.
-- [ ] https://www.hispanac2.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 9 impr.
+- [x] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-10-05 · rastreada 2026-08-20 · indexada · 339 impr.
+- [x] https://www.hispanac2.com/servicios  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 150 impr.
+- [x] https://www.hispanac2.com/promociones  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 84 impr.
+- [x] https://www.hispanac2.com/servicios/enfermedades-transmision-sexual  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 78 impr.
+- [x] https://www.hispanac2.com/servicios/vacunas  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 73 impr.
+- [x] https://www.hispanac2.com/servicios/salud-hombre  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 68 impr.
+- [x] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-09-05 · indexada · 51 impr.
+- [x] https://www.hispanac2.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 12 impr.
+- [x] https://www.hispanac2.com/blog  — cambiada 2026-10-04 · rastreada 2026-09-15 · indexada · 10 impr.
+- [x] https://www.hispanac2.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 9 impr.
 
 ## Tanda 3
 
