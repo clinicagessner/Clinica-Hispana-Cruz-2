@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 3  📨 ENVIADA 10/10/2026
+## Tanda 3  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.hispanac2.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-07-12 · indexada · 6 impr.
-- [ ] https://www.hispanac2.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 5 impr.
-- [ ] https://www.hispanac2.com/servicios/condiciones-cronicas  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 4 impr.
-- [ ] https://www.hispanac2.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 2 impr.
-- [ ] https://www.hispanac2.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-04 · rastreada 2026-07-12 · indexada · 1 impr.
-- [ ] https://www.hispanac2.com/servicios/enfermedades-respiratorias  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 1 impr.
-- [ ] https://www.hispanac2.com/blog/bienvenidos-clinica-hispana-cruz-2  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/alergias  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/cirugias-menores  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [x] https://www.hispanac2.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-07-12 · indexada · 6 impr.
+- [x] https://www.hispanac2.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 5 impr.
+- [x] https://www.hispanac2.com/servicios/condiciones-cronicas  — cambiada 2026-10-04 · rastreada 2026-10-04 · indexada · 4 impr.
+- [x] https://www.hispanac2.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 2 impr.
+- [x] https://www.hispanac2.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-04 · rastreada 2026-07-12 · indexada · 1 impr.
+- [x] https://www.hispanac2.com/servicios/enfermedades-respiratorias  — cambiada 2026-10-04 · rastreada 2026-09-20 · indexada · 1 impr.
+- [x] https://www.hispanac2.com/blog/bienvenidos-clinica-hispana-cruz-2  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
+- [x] https://www.hispanac2.com/servicios/alergias  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/cirugias-menores  — cambiada 2026-10-04 · desconocida · 0 impr.
 
 ## Tanda 4
 
