@@ -12,6 +12,11 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)
+
+- [ ] https://www.hispanac2.com/  — cambiada 2026-10-13
+- [ ] https://www.hispanac2.com/en  — cambiada 2026-10-13
+
 ## Tanda 4  ✅ PEDIDA 13/10/2026
 
 - [x] https://www.hispanac2.com/servicios/curacion-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
