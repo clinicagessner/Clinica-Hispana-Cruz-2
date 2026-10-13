@@ -98,6 +98,14 @@ export async function Hero() {
               {t("subtitle")}
             </p>
 
+            {/* Consulta inicial gratis (confirmado por el usuario, 2026-10-13) */}
+            <p className="animate-hero-features -mt-3 mb-8 flex justify-center lg:justify-start">
+              <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-gray-900 shadow-md md:text-base">
+                <CheckCircle className="size-5 shrink-0 text-green-600" weight="fill" />
+                {t("freeConsultation")}
+              </span>
+            </p>
+
             {/* CTAs */}
             <div className="animate-hero-cta flex flex-col sm:flex-row gap-3 justify-center lg:justify-start mb-4">
               <Button
