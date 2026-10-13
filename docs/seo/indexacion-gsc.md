@@ -12,18 +12,18 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 4  📨 ENVIADA 13/10/2026
+## Tanda 4  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.hispanac2.com/servicios/curacion-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/drenaje-abscesos  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/electrocardiograma  — cambiada 2026-10-04 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/examen-alcohol-drogas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/examen-heces  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/extraccion-implantes  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-04 · rastreada 2026-09-17 · indexada · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/prueba-tuberculosis  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [x] https://www.hispanac2.com/servicios/curacion-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/drenaje-abscesos  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/electrocardiograma  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [x] https://www.hispanac2.com/servicios/examen-alcohol-drogas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/examen-heces  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/extraccion-implantes  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-04 · rastreada 2026-09-17 · indexada · 0 impr.
+- [x] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/prueba-tuberculosis  — cambiada 2026-10-04 · desconocida · 0 impr.
 
 ## Tanda 5
 
