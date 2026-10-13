@@ -6,9 +6,9 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-13; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 53 de 88 URLs del sitemap indexadas · 35 sin indexar (21 descubierta sin indexar · 14 desconocida).
+**Estado (actualizado 2026-10-13; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 53 de 90 URLs del sitemap indexadas · 37 sin indexar (21 descubierta sin indexar · 14 desconocida · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 43 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 45 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
@@ -27,6 +27,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 5
 
+- [ ] https://www.hispanac2.com/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
+- [ ] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
 - [ ] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/servicios/suturas-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/servicios/tiroides  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
@@ -35,11 +37,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 191 impr.
 - [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-08-19 · indexada · 162 impr.
 - [ ] https://www.hispanac2.com/en/promociones  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 136 impr.
-- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 85 impr.
-- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 69 impr.
 
 ## Tanda 6
 
+- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 85 impr.
+- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 69 impr.
 - [ ] https://www.hispanac2.com/en/servicios/enfermedades-transmision-sexual  — cambiada 2026-10-04 · rastreada 2026-08-25 · indexada · 49 impr.
 - [ ] https://www.hispanac2.com/en/servicios/vacunas  — cambiada 2026-10-04 · rastreada 2026-09-30 · indexada · 39 impr.
 - [ ] https://www.hispanac2.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-24 · indexada · 25 impr.
@@ -48,11 +50,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 14 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examen-dot  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 14 impr.
 - [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-11 · indexada · 12 impr.
-- [ ] https://www.hispanac2.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 6 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-10-04 · rastreada 2026-09-18 · indexada · 6 impr.
 
 ## Tanda 7
 
+- [ ] https://www.hispanac2.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 6 impr.
+- [ ] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-10-04 · rastreada 2026-09-18 · indexada · 6 impr.
 - [ ] https://www.hispanac2.com/en/blog  — cambiada 2026-10-04 · rastreada 2026-08-30 · indexada · 3 impr.
 - [ ] https://www.hispanac2.com/en/servicios/enfermedades-respiratorias  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 1 impr.
 - [ ] https://www.hispanac2.com/en/blog/bienvenidos-clinica-hispana-cruz-2  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
@@ -61,11 +63,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/cirugias-menores  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/condiciones-cronicas  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/drenaje-abscesos  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/electrocardiograma  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 
 ## Tanda 8
 
+- [ ] https://www.hispanac2.com/en/servicios/drenaje-abscesos  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/electrocardiograma  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examen-alcohol-drogas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examenes-sangre  — cambiada 2026-10-05 · desconocida · 0 impr.
@@ -74,11 +76,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/prueba-tuberculosis  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/salud-hombre  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-10-04 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 
 ## Tanda 9
 
+- [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/tiroides  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/unas-encarnadas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
