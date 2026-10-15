@@ -174,8 +174,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Una consulta ginecológica con revisión de tu historial, papanicolaou, evaluación de síntomas como flujo, comezón o dolor, y cultivos vaginales si se necesitan. Si hace falta un especialista, te damos la referencia."
       },
       {
-        "question": "Tengo flujo, comezón o mal olor. ¿Salgo de la consulta con tratamiento?",
-        "answer": "Sí. Evaluamos tus síntomas, tomamos un cultivo si es necesario y, en la mayoría de los casos, sales con tu tratamiento en la misma visita. Si los síntomas son ardor al orinar, también hacemos examen de orina para descartar una infección urinaria."
+        "question": "Tengo flujo, comezón o mal olor. ¿Me indican el tratamiento en la consulta?",
+        "answer": "Sí. Evaluamos tus síntomas, tomamos un cultivo si es necesario y, en la mayoría de los casos, te indicamos el tratamiento en la misma visita. Si los síntomas son ardor al orinar, también hacemos examen de orina para descartar una infección urinaria."
       },
       {
         "question": "¿Puedo llegar sin cita a hacerme el papanicolaou?",
@@ -200,8 +200,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "A gynecology visit with a review of your history, a Pap smear, evaluation of symptoms such as discharge, itching or pain, and vaginal cultures if needed. If you need a specialist, we provide the referral."
       },
       {
-        "question": "I have discharge, itching or odor. Will I leave the visit with treatment?",
-        "answer": "Yes. We evaluate your symptoms, take a culture if needed and, in most cases, you leave with treatment from the same visit. If your symptom is burning when urinating, we also run a urine test to rule out a UTI."
+        "question": "I have discharge, itching or odor. Will treatment be prescribed at the visit?",
+        "answer": "Yes. We evaluate your symptoms, take a culture if needed and, in most cases, treatment is prescribed at the same visit. If your symptom is burning when urinating, we also run a urine test to rule out a UTI."
       },
       {
         "question": "Can I walk in for a Pap smear?",
@@ -370,8 +370,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Ardor al orinar, ganas constantes de ir al baño aunque salga poco, orina turbia o con mal olor, y dolor en la parte baja del abdomen. Si además tienes fiebre o dolor en la espalda baja, ven el mismo día: la infección puede estar llegando a los riñones."
       },
       {
-        "question": "¿Salgo con el tratamiento el mismo día?",
-        "answer": "Sí. Hacemos el examen de orina en la clínica, revisamos tus síntomas y, si hay infección, sales con tu tratamiento el mismo día."
+        "question": "¿Me indican el tratamiento el mismo día?",
+        "answer": "Sí. Hacemos el examen de orina en la clínica, revisamos tus síntomas y, si hay infección, ese mismo día enviamos la receta a la farmacia que elijas."
       },
       {
         "question": "¿Cuánto cuesta el examen de orina y el tratamiento sin seguro?",
@@ -396,8 +396,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Burning when you urinate, a constant urge to go even if little comes out, cloudy or foul-smelling urine, and lower-abdomen pain. If you also have fever or lower-back pain, come in the same day: the infection may be reaching your kidneys."
       },
       {
-        "question": "Will I leave with my treatment the same day?",
-        "answer": "Yes. We run the urine test in the clinic, review your symptoms and, if there's an infection, you leave with your treatment the same day."
+        "question": "Is treatment prescribed the same day?",
+        "answer": "Yes. We run the urine test in the clinic, review your symptoms and, if there's an infection, we send the prescription to your chosen pharmacy that same day."
       },
       {
         "question": "How much do the urine test and treatment cost without insurance?",
@@ -900,22 +900,22 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "farmacia": {
     "faqs": [
       {
-        "question": "¿Puedo comprar medicamentos sin pasar a consulta?",
-        "answer": "Los productos de venta libre, sí. Los medicamentos que requieren indicación médica se entregan solo después de una consulta en la clínica, cuando el equipo médico decide que los necesitas; así se revisa primero qué tienes y qué te conviene."
+        "question": "¿La clínica tiene farmacia?",
+        "answer": "No. Al terminar tu consulta enviamos la receta de forma electrónica a la farmacia que prefieras, cerca de tu casa o de tu trabajo, y la recoges allí cuando te quede mejor."
       },
       {
-        "question": "¿Y si tengo una reacción a lo que me dieron?",
+        "question": "¿Y si tengo una reacción a lo que me recetaron?",
         "answer": "Si notas ronchas, hinchazón de cara o labios o dificultad para respirar, deja de tomarlo y busca emergencias de inmediato. Para molestias leves, como náuseas o malestar de estómago, llama a la clínica: el equipo médico te dice si se ajusta o se cambia."
       },
       {
         "question": "¿Conviene traer a la consulta los medicamentos que ya tomo?",
-        "answer": "Sí, y mucho. Trae las cajas o frascos de lo que tomas, incluidos suplementos y remedios naturales. Así el equipo médico confirma que lo que te indique no choque con tu tratamiento actual antes de que pases a recogerlo."
+        "answer": "Sí, y mucho. Trae las cajas o frascos de lo que tomas, incluidos suplementos y remedios naturales. Así el equipo médico confirma que lo nuevo no choque con tu tratamiento actual antes de enviar la receta a tu farmacia."
       }
     ],
     "faqsEn": [
       {
-        "question": "Can I buy medication without seeing the medical team?",
-        "answer": "Over-the-counter products, yes. Medications that need a medical order are only handed out after a visit at the clinic, once the medical team decides you need them; that way they check what's going on and what suits you first."
+        "question": "Does the clinic have a pharmacy?",
+        "answer": "No. After your visit, we send your prescription electronically to the pharmacy you prefer, near your home or your job, and you pick it up there whenever it suits you."
       },
       {
         "question": "What should I do if a medication disagrees with me?",
@@ -923,7 +923,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Should I bring the medications I already take to my visit?",
-        "answer": "Yes, it really helps. Bring the boxes or bottles of everything you take, including supplements and herbal remedies. That lets the medical team make sure nothing new clashes with your current treatment before you pick it up."
+        "answer": "Yes, it really helps. Bring the boxes or bottles of everything you take, including supplements and herbal remedies. That lets the medical team make sure nothing new clashes with your current treatment before the prescription goes to your pharmacy."
       }
     ]
   }

@@ -4,7 +4,7 @@ title: "UTIs in Older Adults: Confusion, Falls and Hidden Signs"
 metaTitle: "UTI in Older Adults: Signs That Don't Look Urinary"
 description: "When grandma gets confused, falls or stops eating, a bladder infection may be behind it. Hidden UTI signs in seniors, what to do and when to call 911."
 date: "2026-10-13"
-dateModified: "2026-10-13"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -77,7 +77,7 @@ In an older adult, a urinary infection can reach the bloodstream faster than in 
 
 If your loved one is awake, can walk with help and has none of the warning signs above, you can walk in or call ahead so we're expecting you. The clinic is at 13331 Kuykendahl Rd Ste 128, Houston, TX 77090, with free parking right by the entrance, which makes it easier to help someone with a walker or wheelchair out of the car.
 
-The medical team at the clinic talks with the patient and with whoever comes along, because a son, daughter or caregiver often notices details the patient doesn't remember. Vital signs are taken, the belly and back are examined and a sample is requested; if collecting it in the cup is hard for your relative, just tell us and we'll help without rushing. We run a urine test at the clinic and, if there is an infection, your loved one leaves with their treatment the same day, with the instructions explained to the family in plain Spanish or English so nobody at home mixes up the dosing schedule. So you don't have to make one more stop with a tired grandparent waiting in the car, the medicines prescribed during the visit are handed to you at the clinic, through our [pharmacy](/servicios/farmacia), before you head home.
+The medical team at the clinic talks with the patient and with whoever comes along, because a son, daughter or caregiver often notices details the patient doesn't remember. Vital signs are taken, the belly and back are examined and a sample is requested; if collecting it in the cup is hard for your relative, just tell us and we'll help without rushing. We run a urine test at the clinic and, if there is an infection, your loved one leaves with their treatment the same day, with the instructions explained to the family in plain Spanish or English so nobody at home mixes up the dosing schedule. The [e-prescription](/servicios/farmacia) goes to the pharmacy the family chooses, one that's on the way, so you don't drive around more than needed with a tired grandparent in the car.
 
 When infections keep coming back or the first treatment doesn't work, a urine culture is sent out to identify the bacteria; that result takes a few days and we call you when it's in. If kidneys, blood sugar or signs of dehydration need a closer look, [blood tests](/servicios/examenes-sangre) can be ordered. For older men with a weak stream or a feeling of not emptying fully, the [men's health](/servicios/salud-hombre) visit includes basic urology care, and a referral to a urologist is arranged if a result calls for it.
 

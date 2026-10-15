@@ -4,7 +4,7 @@ title: "Urinary Tract Infection: Symptoms, Urine Test and Treatment in One Visit
 metaTitle: "UTI in Houston: Symptoms, Urine Test and Treatment"
 description: "How to spot a UTI, when to get a urine test, when to go to the ER, and how to get treated the same day in Houston, no appointment or insurance needed."
 date: "2026-09-06"
-dateModified: "2026-10-04"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -18,7 +18,7 @@ keywords:
   - "burning when urinating"
 ---
 
-Burning when you urinate is one of the most common reasons people visit our clinic. The good news is that a urinary tract infection (UTI) is diagnosed with a urine test processed in the clinic during your visit and, if there is an infection, you leave with your treatment the same day. This guide explains how to recognize it, when it is urgent, and what to expect at the visit.
+Burning when you urinate is one of the most common reasons people visit our clinic. The good news is that a urinary tract infection (UTI) is diagnosed with a urine test processed in the clinic during your visit and, if there is an infection, treatment is prescribed the same day and sent to your pharmacy. This guide explains how to recognize it, when it is urgent, and what to expect at the visit.
 
 ## What is a urinary tract infection?
 

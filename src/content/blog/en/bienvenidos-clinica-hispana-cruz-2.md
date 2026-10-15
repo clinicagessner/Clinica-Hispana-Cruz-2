@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-cruz-2"
 title: "Welcome to Clínica Hispana Cruz 2 in North Houston"
 description: "What Clínica Hispana Cruz 2 is, where it is, how a walk-in visit works, what services it offers and how to pay without insurance. Open daily, 9 AM-9 PM."
 date: "2026-03-16"
-dateModified: "2026-10-04"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/blog/welcome.webp"
 featured: false
@@ -30,7 +30,7 @@ It's a short process, explained in the language you're most comfortable with:
 1. **Come in whenever it suits you** between 9 AM and 9 PM, any day of the week. Prefer a set time? A quick phone call reserves one.
 2. **At the front desk**, describe what's going on or what form you need, and you'll be told the price before anything starts.
 3. **The clinic's medical team** sees and examines you and, if needed, orders lab work or tests done right there in the clinic.
-4. **Before you leave**, you get written instructions and, when appropriate, the medications prescribed during the visit.
+4. **Before you leave**, you get written instructions and, when appropriate, your prescription is sent electronically to the pharmacy you choose.
 
 There's no charge to park, and the door is accessible for wheelchair users. If you bring your kids or an older relative, they can be seen during the same trip.
 

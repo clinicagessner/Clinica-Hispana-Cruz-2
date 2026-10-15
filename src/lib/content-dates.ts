@@ -6,9 +6,9 @@
 export const SERVICES_LAST_REVIEWED = "2026-09-06";
 // 2026-10-04: B3 (texto y FAQ propios) y §9 de B1 en las landings de Ads.
 export const SERVICE_DATES: Record<string, string> = {
-  "condiciones-cronicas": "2026-10-04",
+  "condiciones-cronicas": "2026-10-15",
   "tiroides": "2026-10-04",
-  "alergias": "2026-10-04",
+  "alergias": "2026-10-15",
   "enfermedades-respiratorias": "2026-10-04",
   "prueba-embarazo": "2026-10-04",
   "anticonceptivos": "2026-10-04",
@@ -16,8 +16,8 @@ export const SERVICE_DATES: Record<string, string> = {
   "salud-hombre": "2026-10-04",
   "examen-fisico-escolar": "2026-10-04",
   "examenes-sangre": "2026-10-04",
-  "examen-heces": "2026-10-04",
-  "prueba-strep": "2026-10-04",
+  "examen-heces": "2026-10-15",
+  "prueba-strep": "2026-10-15",
   "prueba-tuberculosis": "2026-10-04",
   "enfermedades-transmision-sexual": "2026-10-04",
   "examen-alcohol-drogas": "2026-10-04",
@@ -29,11 +29,11 @@ export const SERVICE_DATES: Record<string, string> = {
   "suturas-heridas": "2026-10-04",
   "curacion-heridas": "2026-10-04",
   "cirugias-menores": "2026-10-04",
-  "drenaje-abscesos": "2026-10-04",
+  "drenaje-abscesos": "2026-10-15",
   "unas-encarnadas": "2026-10-04",
-  "farmacia": "2026-10-04",
-  "ginecologia": "2026-10-04",
-  "infecciones-urinarias": "2026-10-04",
+  "farmacia": "2026-10-15",
+  "ginecologia": "2026-10-15",
+  "infecciones-urinarias": "2026-10-15",
   "examenes-inmigracion": "2026-10-04",
 };
 

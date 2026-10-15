@@ -4,7 +4,7 @@ title: "Infección urinaria en adultos mayores: confusión y caídas"
 metaTitle: "Infección de orina en adultos mayores: señales ocultas"
 description: "Cuando la abuela se confunde, se cae o deja de comer, puede ser la orina. Señales poco obvias en adultos mayores, qué hacer en casa y cuándo llamar al 911."
 date: "2026-10-13"
-dateModified: "2026-10-13"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -77,7 +77,7 @@ En una persona mayor, una infección urinaria puede pasar a la sangre más rápi
 
 Si tu familiar está despierto, puede caminar con ayuda y no tiene ninguna de las señales anteriores, puedes traerlo sin cita o llamar antes para que lo esperemos. La clínica está en 13331 Kuykendahl Rd Ste 128, Houston, TX 77090, con estacionamiento gratuito frente a la entrada, lo que facilita bajar de la camioneta a alguien con andadera o silla de ruedas.
 
-El equipo médico de la clínica conversa con el paciente y con quien lo acompaña, porque muchas veces el hijo o la cuidadora ve detalles que el paciente no recuerda. Se toman signos vitales, se revisa el vientre y la espalda, y se pide una muestra; si a tu familiar le cuesta orinar en el frasco, avísanos y le ayudamos con calma. Después de medir la presión y revisar sus pastillas, se hace el examen de orina en la clínica y, si hay infección, sale con su tratamiento el mismo día, y la hija, el nieto o la cuidadora que lo trae se lleva por escrito, en español, a qué horas tocan las tomas. Para que no tengan que hacer otra parada con el abuelo cansado en el carro, los medicamentos indicados en la consulta se entregan en la clínica, en nuestra [farmacia](/servicios/farmacia), antes de que vuelvan a casa.
+El equipo médico de la clínica conversa con el paciente y con quien lo acompaña, porque muchas veces el hijo o la cuidadora ve detalles que el paciente no recuerda. Se toman signos vitales, se revisa el vientre y la espalda, y se pide una muestra; si a tu familiar le cuesta orinar en el frasco, avísanos y le ayudamos con calma. Después de medir la presión y revisar sus pastillas, se hace el examen de orina en la clínica y, si hay infección, el tratamiento se indica el mismo día, y la hija, el nieto o la cuidadora que lo trae se lleva por escrito, en español, a qué horas tocan las tomas. La [receta electrónica](/servicios/farmacia) se envía a la farmacia que la familia elija, la que le quede de paso, para no dar vueltas de más con el abuelo cansado en el carro.
 
 Cuando las infecciones se repiten o el primer tratamiento no funciona, se envía un urocultivo, que identifica la bacteria; ese resultado tarda unos días y te llamamos cuando esté listo. Si hace falta revisar riñones, azúcar o señales de deshidratación, se pueden pedir [exámenes de sangre](/servicios/examenes-sangre). En hombres mayores con chorro débil o que sienten que no vacían bien, la revisión de [salud del hombre](/servicios/salud-hombre) incluye urología básica, y se orienta la referencia a un urólogo si un resultado lo requiere.
 

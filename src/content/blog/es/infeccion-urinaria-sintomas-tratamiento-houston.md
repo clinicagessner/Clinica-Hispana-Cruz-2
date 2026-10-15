@@ -4,7 +4,7 @@ title: "Infección Urinaria: Síntomas, Examen de Orina y Tratamiento en la Mism
 metaTitle: "Infección Urinaria en Houston: Síntomas y Tratamiento"
 description: "Cómo reconocer una infección urinaria, cuándo hacerte el examen de orina, cuándo ir a urgencias y cómo tratarla el mismo día en Houston, sin cita."
 date: "2026-09-06"
-dateModified: "2026-10-04"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -18,7 +18,7 @@ keywords:
   - "ardor al orinar"
 ---
 
-El ardor al orinar es uno de los motivos de consulta más comunes en nuestra clínica. La buena noticia es que una infección urinaria se diagnostica con un examen de orina que se procesa en la clínica durante tu visita y, si hay infección, sales con tu tratamiento el mismo día. En esta guía te explicamos cómo reconocerla, cuándo es urgente y qué esperar en la consulta.
+El ardor al orinar es uno de los motivos de consulta más comunes en nuestra clínica. La buena noticia es que una infección urinaria se diagnostica con un examen de orina que se procesa en la clínica durante tu visita y, si hay infección, te indicamos el tratamiento el mismo día y enviamos la receta a tu farmacia. En esta guía te explicamos cómo reconocerla, cuándo es urgente y qué esperar en la consulta.
 
 ## ¿Qué es una infección urinaria?
 

@@ -4,7 +4,7 @@ title: "Dolor de garganta: ¿estreptococo o virus? La prueba rápida"
 metaTitle: "Dolor de garganta: ¿estreptococo o virus?"
 description: "Cómo distinguir un dolor de garganta viral de uno por estreptococo, cómo es la prueba rápida, qué pasa si sale positiva y cuándo ir a urgencias."
 date: "2026-10-06"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/prueba-strep.webp"
 featured: false
@@ -60,7 +60,7 @@ Un consejo práctico: evita hacer gárgaras con enjuague bucal justo antes de ve
 
 ## Si sale positiva
 
-Un resultado positivo confirma que el estreptococo del grupo A está detrás del dolor. El equipo médico indica el antibiótico adecuado y lo recibes en nuestra [farmacia](/servicios/farmacia) antes de salir, con la explicación en español de cómo tomarlo. Lo más importante es **terminar todas las dosis**, aunque a los dos o tres días ya no haya fiebre y la garganta se sienta mejor. Dejarlo a medias favorece que la infección regrese.
+Un resultado positivo confirma que el estreptococo del grupo A está detrás del dolor. El equipo médico indica el antibiótico adecuado, te explica en español cómo tomarlo y envía la [receta electrónica](/servicios/farmacia) a la farmacia que elijas. Lo más importante es **terminar todas las dosis**, aunque a los dos o tres días ya no haya fiebre y la garganta se sienta mejor. Dejarlo a medias favorece que la infección regrese.
 
 Mientras tanto, la persona enferma no debería ir a la escuela ni al trabajo hasta que el equipo médico lo indique, y nunca mientras siga con fiebre.
 

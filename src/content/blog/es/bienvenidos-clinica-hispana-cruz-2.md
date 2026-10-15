@@ -4,7 +4,7 @@ title: "Bienvenidos a Clínica Hispana Cruz 2, en el norte de Houston"
 metaTitle: "Bienvenidos a Clínica Hispana Cruz 2 | Norte de Houston"
 description: "Qué es Clínica Hispana Cruz 2, dónde está, cómo es una visita sin cita, qué servicios ofrece y cómo pagar sin seguro. Abierta a diario de 9 AM a 9 PM."
 date: "2026-03-16"
-dateModified: "2026-10-04"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/blog/welcome.webp"
 featured: false
@@ -31,7 +31,7 @@ El proceso es corto y se explica en su idioma:
 1. **Llega cuando le quede bien**, dentro del horario de 9 AM a 9 PM, cualquier día de la semana. Si prefiere asegurar una hora, puede llamar y reservar.
 2. **En recepción** cuenta qué le pasa o qué trámite necesita, y le informan el precio antes de empezar.
 3. **El equipo médico de la clínica** le atiende, le examina y, si hace falta, pide análisis o estudios dentro de la misma clínica.
-4. **Al terminar**, recibe las indicaciones por escrito y, cuando corresponde, los medicamentos indicados en la consulta.
+4. **Al terminar**, recibe las indicaciones por escrito y, cuando corresponde, la receta se envía de forma electrónica a la farmacia que usted elija.
 
 Para estacionar no se paga, y la entrada está adaptada para silla de ruedas. Si viene con niños o con un familiar mayor, también se les puede atender en la misma visita.
 

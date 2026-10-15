@@ -4,7 +4,7 @@ title: "Sore Throat: Strep or a Virus? Why the Rapid Test Matters"
 metaTitle: "Sore Throat: Strep or a Virus? The Rapid Test"
 description: "How to tell a viral sore throat from strep, what the rapid strep test is like, what happens if it's positive, and when to head to the ER instead."
 date: "2026-10-06"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/prueba-strep.webp"
 featured: false
@@ -60,7 +60,7 @@ One practical tip: skip the mouthwash gargle right before you come in, so the sa
 
 ## If it's positive
 
-A positive result confirms that group A strep is behind the pain. The medical team prescribes the right antibiotic and you pick it up at our [pharmacy](/servicios/farmacia) before you leave, with instructions in Spanish or English on how to take it. The key is to **finish every dose**, even if the fever is gone and your throat feels better after two or three days. Stopping halfway makes it more likely the infection comes back.
+A positive result confirms that group A strep is behind the pain. The medical team prescribes the right antibiotic, explains in Spanish or English how to take it and sends the [e-prescription](/servicios/farmacia) to the pharmacy you choose. The key is to **finish every dose**, even if the fever is gone and your throat feels better after two or three days. Stopping halfway makes it more likely the infection comes back.
 
 In the meantime, the sick person should stay home from school or work until the medical team says it's okay, and never while they still have a fever.
 
