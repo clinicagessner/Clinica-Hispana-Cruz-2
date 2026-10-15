@@ -26,6 +26,19 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 191 impr.
 - [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-08-19 · indexada · 162 impr.
 
+## Tanda 15 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
+
+- [ ] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/en/servicios/farmacia  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
+- [ ] https://www.hispanac2.com/en/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
+
 ## Tanda 11
 
 - [ ] https://www.hispanac2.com/en/promociones  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 136 impr.
@@ -61,9 +74,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/examen-alcohol-drogas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examenes-sangre  — cambiada 2026-10-05 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/farmacia  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/prueba-embarazo  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 
 ## Tanda 14
 
