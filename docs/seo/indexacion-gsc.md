@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-16; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 53 de 90 URLs del sitemap indexadas · 37 sin indexar (21 descubierta sin indexar · 14 desconocida · 2 sin datos).
+**Estado (actualizado 2026-10-17; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 53 de 90 URLs del sitemap indexadas · 37 sin indexar (21 descubierta sin indexar · 14 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 42 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
+9 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)
+## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 17/10/2026
 
 - [ ] https://www.hispanac2.com/  — cambiada 2026-10-13
 - [ ] https://www.hispanac2.com/en  — cambiada 2026-10-13
@@ -25,19 +25,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/servicios/unas-encarnadas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 191 impr.
 - [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-08-19 · indexada · 162 impr.
-
-## Tanda 15 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  ✅ PEDIDA 16/10/2026
-
-- [x] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/en/servicios/farmacia  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
-- [x] https://www.hispanac2.com/en/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
 
 ## Tanda 16
 
@@ -149,3 +136,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-04 · rastreada 2026-09-17 · indexada · 0 impr.
 - [x] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [x] https://www.hispanac2.com/servicios/prueba-tuberculosis  — cambiada 2026-10-04 · desconocida · 0 impr.
+
+## Tanda 15 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  ✅ PEDIDA 16/10/2026
+
+- [x] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/farmacia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
