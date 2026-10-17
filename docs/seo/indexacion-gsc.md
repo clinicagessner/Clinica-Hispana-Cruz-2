@@ -26,18 +26,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 191 impr.
 - [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-08-19 · indexada · 162 impr.
 
-## Tanda 15 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 16/10/2026
+## Tanda 15 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  ✅ PEDIDA 16/10/2026
 
-- [ ] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/en/servicios/farmacia  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
-- [ ] https://www.hispanac2.com/en/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/servicios/farmacia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/farmacia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/servicios/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
+- [x] https://www.hispanac2.com/en/blog/dolor-garganta-estreptococo-o-virus-prueba  — cambiada 2026-10-15
 
 ## Tanda 16
 
