@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 9 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 18/10/2026
+## Tanda 10 — cambios del 2026-10-13 (consulta inicial gratis en la home)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.hispanac2.com/  — cambiada 2026-10-13
-- [ ] https://www.hispanac2.com/en  — cambiada 2026-10-13
-- [ ] https://www.hispanac2.com/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/suturas-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/tiroides  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/ultrasonido  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/servicios/unas-encarnadas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 191 impr.
-- [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-08-19 · indexada · 162 impr.
+- [x] https://www.hispanac2.com/  — cambiada 2026-10-13
+- [x] https://www.hispanac2.com/en  — cambiada 2026-10-13
+- [x] https://www.hispanac2.com/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
+- [x] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/suturas-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [x] https://www.hispanac2.com/servicios/tiroides  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/ultrasonido  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/servicios/unas-encarnadas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispanac2.com/en/servicios  — cambiada 2026-10-04 · rastreada 2026-09-06 · indexada · 191 impr.
+- [x] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-10-04 · rastreada 2026-08-19 · indexada · 162 impr.
 
 ## Tanda 16
 
