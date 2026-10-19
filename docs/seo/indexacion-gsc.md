@@ -12,16 +12,16 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 20 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  📨 ENVIADA 19/10/2026
-- [ ] https://www.hispanac2.com/blog/infeccion-urinaria-sintomas-tratamiento-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 81 impr.
-- [ ] https://www.hispanac2.com/blog/bienvenidos-clinica-hispana-cruz-2  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 33 impr.
-- [ ] https://www.hispanac2.com/servicios/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 22 impr.
-- [ ] https://www.hispanac2.com/servicios/alergias  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 2 impr.
-- [ ] https://www.hispanac2.com/en/blog/infeccion-urinaria-sintomas-tratamiento-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 87 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-10-15 · rastreada 2026-09-18 · indexada · 6 impr.
-- [ ] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-15 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/condiciones-cronicas  — cambiada 2026-10-15 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/drenaje-abscesos  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
+## Tanda 20 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 19/10/2026
+- [x] https://www.hispanac2.com/blog/infeccion-urinaria-sintomas-tratamiento-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 81 impr.
+- [x] https://www.hispanac2.com/blog/bienvenidos-clinica-hispana-cruz-2  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 33 impr.
+- [x] https://www.hispanac2.com/servicios/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 22 impr.
+- [x] https://www.hispanac2.com/servicios/alergias  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 2 impr.
+- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-sintomas-tratamiento-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 87 impr.
+- [x] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-10-15 · rastreada 2026-09-18 · indexada · 6 impr.
+- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [x] https://www.hispanac2.com/en/servicios/condiciones-cronicas  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [x] https://www.hispanac2.com/en/servicios/drenaje-abscesos  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
 
 ## Tanda 16
 
