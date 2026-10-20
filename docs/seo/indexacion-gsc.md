@@ -13,10 +13,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-02).
 <!-- /tandas:auto -->
 
-## Tanda 24 — cambios del 2026-10-20 (post del blog semanal)  📨 ENVIADA 20/10/2026
+## Tanda 25 — pendientes de la tanda anterior
 
 - [ ] https://www.hispanac2.com/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20
 - [ ] https://www.hispanac2.com/en/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20
+
+## Tanda 24 — cambios del 2026-10-20 (post del blog semanal)  ✅ PEDIDA 20/10/2026
+
 
 ## Tanda 21
 
