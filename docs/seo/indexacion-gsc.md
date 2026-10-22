@@ -13,9 +13,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-02).
 <!-- /tandas:auto -->
 
-## Tanda 28 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  📨 ENVIADA 21/10/2026
-- [ ] https://www.hispanac2.com/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
-- [ ] https://www.hispanac2.com/en/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+## Tanda 28 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  ✅ PEDIDA 21/10/2026
+- [x] https://www.hispanac2.com/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+- [x] https://www.hispanac2.com/en/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
 
 ## Tanda 25
 
