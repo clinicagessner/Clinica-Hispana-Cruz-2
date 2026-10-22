@@ -33,7 +33,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "unas-encarnadas": "2026-10-04",
   "farmacia": "2026-10-15",
   "ginecologia": "2026-10-15",
-  "infecciones-urinarias": "2026-10-15",
+  "infecciones-urinarias": "2026-10-22",
   "examenes-inmigracion": "2026-10-04",
 };
 
