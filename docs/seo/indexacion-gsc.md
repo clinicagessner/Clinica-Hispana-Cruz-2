@@ -12,16 +12,16 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 29 — cambios del 2026-10-22 (urinarias: receta electrónica, sin farmacia) 📨 ENVIADA 22/10/2026
+## Tanda 29 — cambios del 2026-10-22 (urinarias: receta electrónica, sin farmacia) ✅ PEDIDA 22/10/2026
 
-- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-22
-- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-22
-- [ ] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-22
 
-## Tanda 32 — cambios del 2026-10-22 (ginecología: consulta inicial gratis (procede cruz-2)) 📨 ENVIADA 22/10/2026
+## Tanda 32 — cambios del 2026-10-22 (ginecología: consulta inicial gratis (procede cruz-2)) ✅ PEDIDA 22/10/2026
 
-- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-22
-- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-22
 
 ## Tanda 33
 
