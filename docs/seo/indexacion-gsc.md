@@ -8,23 +8,19 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 <!-- tandas:auto -->
 **Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-22: antiguos (2026-10-22): --sin-fetch):** 85 de 92 URLs del sitemap indexadas · 7 sin indexar (4 desconocida · 3 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 16 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 18 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 29 — cambios del 2026-10-22 (urinarias: receta electrónica, sin farmacia) ✅ PEDIDA 22/10/2026
+## Tanda 35 — cambios del 2026-10-23 (urinarias: meta con receta a tu farmacia, cambiada después de pedirla) 📨 ENVIADA 23/10/2026
 
-- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-22
-- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-22
-- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-22
+- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-23
+- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-23
 
-## Tanda 32 — cambios del 2026-10-22 (ginecología: consulta inicial gratis (procede cruz-2)) ✅ PEDIDA 22/10/2026
+## Tanda 36
 
-- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-22
-- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-22
-
-## Tanda 33
-
+- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-22 · indexada · pedida 2026-10-22 · 1140 impr.
+- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-22 · 59 impr.
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 32 impr.
 - [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 18 impr.
 - [ ] https://www.hispanac2.com/en/servicios/extraccion-implantes  — cambiada 2026-10-04 · rastreada 2026-07-16 · indexada · 8 impr.
@@ -33,11 +29,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-11 · indexada · 3 impr.
 - [ ] https://www.hispanac2.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 2 impr.
 - [ ] https://www.hispanac2.com/en/blog  — cambiada 2026-10-04 · rastreada 2026-08-30 · indexada · 1 impr.
+
+## Tanda 37
+
 - [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
-
-## Tanda 34
-
 - [ ] https://www.hispanac2.com/en/servicios/enfermedades-respiratorias  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-10-04 · desconocida · 0 impr.
@@ -143,3 +139,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.hispanac2.com/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
 - [x] https://www.hispanac2.com/en/blog/dolor-lado-derecho-costillas-vesicula-ultrasonido  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+
+## Tanda 29 — cambios del 2026-10-22 (urinarias: receta electrónica, sin farmacia) ✅ PEDIDA 22/10/2026
+
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-22
+
+## Tanda 32 — cambios del 2026-10-22 (ginecología: consulta inicial gratis (procede cruz-2)) ✅ PEDIDA 22/10/2026
+
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-22
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-22
