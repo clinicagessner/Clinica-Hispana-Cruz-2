@@ -4,7 +4,7 @@ title: "Salud de la mujer en el norte de Houston: qué chequeo le corresponde en
 metaTitle: "Salud de la mujer en el norte de Houston: chequeos"
 description: "Papanicolaou, ultrasonido pélvico, cultivo íntimo, ETS y anticonceptivos en español: qué chequeo hacerse según su etapa y cuánto cuesta sin seguro."
 date: "2026-03-20"
-dateModified: "2026-10-04"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/ginecologia.webp"
 featured: false
@@ -33,7 +33,7 @@ En nuestro servicio de [ginecología](/servicios/ginecologia) atendemos lo más 
 - Pruebas de [enfermedades de transmisión sexual](/servicios/enfermedades-transmision-sexual).
 - [Ultrasonido](/servicios/ultrasonido) pélvico dentro del chequeo con ultrasonido.
 
-Si algún resultado requiere un especialista, se orienta la referencia al especialista adecuado y le explicamos los siguientes pasos.
+Si algún resultado sale alterado, le explicamos los siguientes pasos.
 
 ## ¿Qué conviene revisar según su etapa de vida?
 

@@ -171,7 +171,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Qué incluye el chequeo de mujer (well-woman exam)?",
-        "answer": "Una consulta ginecológica con revisión de tu historial, papanicolaou, evaluación de síntomas como flujo, comezón o dolor, y cultivos vaginales si se necesitan. Si hace falta un especialista, te damos la referencia."
+        "answer": "Una consulta ginecológica con revisión de tu historial, papanicolaou, evaluación de síntomas como flujo, comezón o dolor, y cultivos vaginales si se necesitan."
       },
       {
         "question": "Tengo flujo, comezón o mal olor. ¿Me indican el tratamiento en la consulta?",
@@ -197,7 +197,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "What does the well-woman exam include?",
-        "answer": "A gynecology visit with a review of your history, a Pap smear, evaluation of symptoms such as discharge, itching or pain, and vaginal cultures if needed. If you need a specialist, we provide the referral."
+        "answer": "A gynecology visit with a review of your history, a Pap smear, evaluation of symptoms such as discharge, itching or pain, and vaginal cultures if needed."
       },
       {
         "question": "I have discharge, itching or odor. Will treatment be prescribed at the visit?",

@@ -4,7 +4,7 @@ title: "Women's Health in North Houston: Which Checkup Fits Each Stage of Life a
 metaTitle: "Women's Health Checkups in North Houston"
 description: "Pap tests, pelvic ultrasound, intimate cultures, STD testing, and birth control in Spanish or English: which checkup fits your life stage and its cost."
 date: "2026-03-20"
-dateModified: "2026-10-04"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Cruz 2"
 image: "/images/services/ginecologia.webp"
 featured: false
@@ -33,7 +33,7 @@ Our [gynecology](/servicios/ginecologia) service covers the most common reasons 
 - Testing for [sexually transmitted diseases](/servicios/enfermedades-transmision-sexual).
 - Pelvic [ultrasound](/servicios/ultrasonido) as part of the checkup with ultrasound.
 
-If a result calls for a specialist, we help arrange a referral to the right specialist and walk you through what comes next.
+If a result comes back abnormal, we walk you through what comes next.
 
 ## What should you check at each stage of life?
 
