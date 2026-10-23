@@ -18,7 +18,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-22
 - [ ] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-22
 
-## Tanda 32 — cambios del 2026-10-22 (ginecología: consulta inicial gratis (procede cruz-2))
+## Tanda 32 — cambios del 2026-10-22 (ginecología: consulta inicial gratis (procede cruz-2)) 📨 ENVIADA 22/10/2026
 
 - [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-22
 - [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-22
