@@ -12,10 +12,10 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-10-23 (urinarias: meta con receta a tu farmacia, cambiada después de pedirla) 📨 ENVIADA 23/10/2026
+## Tanda 35 — cambios del 2026-10-23 (urinarias: meta con receta a tu farmacia, cambiada después de pedirla) ✅ PEDIDA 24/10/2026
 
-- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-10-23
 
 ## Tanda 38 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
 
