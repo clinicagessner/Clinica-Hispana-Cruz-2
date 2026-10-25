@@ -12,16 +12,16 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 38 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 38 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
 
-- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/servicios/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/en/servicios/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-23
-- [ ] https://www.hispanac2.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/servicios/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/en/servicios/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-23
+- [x] https://www.hispanac2.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
 
 ## Tanda 39
 
