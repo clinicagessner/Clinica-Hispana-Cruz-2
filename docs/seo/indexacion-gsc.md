@@ -6,13 +6,18 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 85 de 92 URLs del sitemap indexadas · 7 sin indexar (5 desconocida · 2 descubierta sin indexar).
+**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 85 de 94 URLs del sitemap indexadas · 9 sin indexar (5 desconocida · 2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 16 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 39
+## Tanda 41 — cambios del 2026-10-27 (post del blog semanal)  📨 ENVIADA 27/10/2026
+
+- [ ] https://www.hispanac2.com/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
+- [ ] https://www.hispanac2.com/en/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
+
+## Tanda 42
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 48 impr.
 - [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 42 impr.
@@ -25,7 +30,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/enfermedades-respiratorias  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 1 impr.
 - [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · desconocida · 0 impr.
 
-## Tanda 40
+## Tanda 43
 
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · desconocida · 0 impr.
