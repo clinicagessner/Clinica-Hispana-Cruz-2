@@ -6,16 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 85 de 94 URLs del sitemap indexadas · 9 sin indexar (5 desconocida · 2 descubierta sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-28; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 85 de 94 URLs del sitemap indexadas · 9 sin indexar (5 desconocida · 2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 16 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
 <!-- /tandas:auto -->
-
-## Tanda 41 — cambios del 2026-10-27 (post del blog semanal)  ✅ PEDIDA 28/10/2026
-
-- [x] https://www.hispanac2.com/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
-- [x] https://www.hispanac2.com/en/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
 
 ## Tanda 42
 
@@ -164,3 +160,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.hispanac2.com/en/servicios/salud-hombre  — cambiada 2026-10-23
 - [x] https://www.hispanac2.com/en/blog/infeccion-urinaria-adultos-mayores-confusion-senales  — cambiada 2026-10-23
 - [x] https://www.hispanac2.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+
+## Tanda 41 — cambios del 2026-10-27 (post del blog semanal)  ✅ PEDIDA 28/10/2026
+
+- [x] https://www.hispanac2.com/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
+- [x] https://www.hispanac2.com/en/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
