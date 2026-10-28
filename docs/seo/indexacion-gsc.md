@@ -12,10 +12,10 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 41 — cambios del 2026-10-27 (post del blog semanal)  📨 ENVIADA 27/10/2026
+## Tanda 41 — cambios del 2026-10-27 (post del blog semanal)  ✅ PEDIDA 28/10/2026
 
-- [ ] https://www.hispanac2.com/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
-- [ ] https://www.hispanac2.com/en/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
+- [x] https://www.hispanac2.com/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
+- [x] https://www.hispanac2.com/en/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
 
 ## Tanda 42
 
