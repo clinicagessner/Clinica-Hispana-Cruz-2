@@ -519,7 +519,7 @@ export const SERVICES: Service[] = [
     "slug": "infecciones-urinarias",
     "title": "Infección Urinaria en Houston: Examen de Orina y Tratamiento el Mismo Día",
     "titleEn": "UTI Treatment in Houston: Urine Test & Same-Day Treatment",
-    "seoTitle": "Infección Urinaria en Houston: Tratamiento el Mismo Día",
+    "seoTitle": "Urología en Español: Infección Urinaria y Vejiga | Cruz 2",
     "seoTitleEn": "UTI Treatment in Houston: Urine Test & Same-Day Treatment",
     "shortTitle": "Infecciones Urinarias",
     "description": "¿Ardor al orinar? Examen de orina en la clínica y, si hay infección, tratamiento el mismo día con receta a tu farmacia. Norte de Houston, sin cita.",
