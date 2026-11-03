@@ -12,18 +12,18 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 44 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  📨 ENVIADA 03/11/2026
+## Tanda 44 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  ✅ PEDIDA 03/11/2026
 
-- [ ] https://www.hispanac2.com/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
-- [ ] https://www.hispanac2.com/en/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
-- [ ] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
-- [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
-- [ ] https://www.hispanac2.com/  — cambiada 2026-11-02
-- [ ] https://www.hispanac2.com/en  — cambiada 2026-11-02
-- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-02
-- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
+- [x] https://www.hispanac2.com/en/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
+- [x] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-02
 
 ## Tanda 50 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 44 o sin sitio por el post del blog semanal)
 
