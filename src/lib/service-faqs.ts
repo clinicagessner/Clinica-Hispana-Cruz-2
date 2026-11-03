@@ -184,6 +184,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "¿Hacen pruebas de enfermedades de transmisión sexual?",
         "answer": "Sí, ofrecemos pruebas y tratamiento de ETS de forma confidencial. Puedes pedirlas en la misma visita de ginecología."
+      },
+      {
+        "question": "¿La consulta ginecológica es privada?",
+        "answer": "Sí. Es un ambiente íntimo y seguro: trato íntimo y respetuoso en un espacio cómodo, seguro y confidencial, con la consulta, el Papanicolaou y el ultrasonido en un mismo lugar."
       }
     ],
     "faqsEn": [
@@ -210,6 +214,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "Do you offer STD testing?",
         "answer": "Yes, we offer confidential STD testing and treatment. You can request it during the same gynecology visit."
+      },
+      {
+        "question": "Is the gynecology visit private?",
+        "answer": "Yes. It is a private, safe setting: respectful care in a comfortable, safe and confidential space, with the visit, the Pap smear and the ultrasound in one place."
       }
     ]
   },
@@ -387,7 +395,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Qué hago si las infecciones urinarias me regresan seguido?",
-        "answer": "Las infecciones repetidas merecen evaluación. Revisamos posibles causas, te damos indicaciones para prevenirlas y, si es necesario, hacemos estudios adicionales o te referimos con un especialista."
+        "answer": "Las infecciones repetidas merecen evaluación. Revisamos posibles causas, te damos indicaciones para prevenirlas y, si es necesario, hacemos estudios adicionales y te explicamos el siguiente paso."
+      },
+      {
+        "question": "¿Atienden problemas urológicos de mujeres y hombres?",
+        "answer": "Sí. En la atención urológica de la clínica se revisan la infección urinaria, la incontinencia urinaria, los síntomas urogenitales, la salud de próstata y el dolor testicular y pélvico, en español, sin cita o con cita."
       }
     ],
     "faqsEn": [
@@ -413,7 +425,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "What if my UTIs keep coming back?",
-        "answer": "Recurrent infections deserve evaluation. We look at possible causes, give you prevention guidance and, if needed, order additional tests or refer you to a specialist."
+        "answer": "Recurrent infections deserve evaluation. We look at possible causes, give you prevention guidance and, if needed, order additional tests and explain the next step."
+      },
+      {
+        "question": "Do you see urological problems in women and men?",
+        "answer": "Yes. The clinic's urological care covers urinary tract infection, urinary incontinence, urogenital symptoms, prostate health and testicular and pelvic pain, in Spanish, walk-in or by appointment."
       }
     ]
   },

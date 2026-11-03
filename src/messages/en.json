@@ -124,7 +124,7 @@
     "q7": "Where are you located in Houston?",
     "a7": "We are located at 13331 Kuykendahl Rd Ste 128, Houston, TX 77090, in the north Houston area near Highway 59/69. We have ample free parking and easy access by public transportation.",
     "q8": "Do you perform I-693 immigration medical exams?",
-    "a8": "Yes, we have USCIS-certified Civil Surgeon physicians to perform the I-693 immigration medical exam required for the Green Card. We offer fast results, on-site vaccines, and 100% Spanish-language service.",
+    "a8": "Yes, we have USCIS-designated Civil Surgeon physicians to perform the I-693 immigration medical exam required for the Green Card. We offer fast results, on-site vaccines, and 100% Spanish-language service.",
     "q9": "How long is the wait without an appointment?",
     "a9": "Wait times vary depending on daily demand, and patients are seen in order of arrival. To wait less, call ahead to reserve a time.",
     "q10": "Is parking available?",
@@ -136,7 +136,7 @@
   },
   "about": {
     "title": "What is Clínica Hispana Cruz 2?",
-    "paragraph": "Clínica Hispana Cruz 2 is a primary care and minor urgent care medical clinic located at {address}, in north Houston between Champions and Spring. It is branch 2 of the Clínica Hispana Cruz network, which also operates the Cruz, Cruz 3 and Cruz 4 clinics in the Houston area. It is open seven days a week from 9:00 AM to 9:00 PM. No appointment is needed and no health insurance is required: pricing is self-pay, and cash, debit and credit cards are accepted. Care is provided in Spanish, with English also available. Services include general medicine, <gyn>gynecology and Pap smears</gyn>, <uti>urinary tract infection treatment</uti>, <lab>blood testing</lab>, pregnancy and STD testing, <dot>DOT physicals for CDL drivers</dot>, <imm>I-693 immigration medical exams</imm>, vaccines, and diabetes and hypertension management. Phone: {phone}. WhatsApp: {whatsapp}. The clinic has free parking and wheelchair access."
+    "paragraph": "Clínica Hispana Cruz 2 is a primary care and minor urgent care medical clinic located at {address}, in north Houston between Champions and Spring. It is branch 2 of the Clínica Hispana Cruz network, which also operates the Cruz, Cruz 3 and Cruz 4 clinics in the Houston area. It is open seven days a week from 9:00 AM to 9:00 PM. No appointment is needed and no health insurance is required: pricing is self-pay, and cash, debit and credit cards are accepted. Care is provided in Spanish, with English also available. It is a Latino clinic and health center for Hispanic patients, with a Hispanic doctor who speaks Spanish: a primary care physician, quick, effective visits and a free initial medical consultation. Appointments and walk-ins (book yours today), visits without health insurance, general visit + tests and special offers in promotions. Services include general medicine, <gyn>gynecology and Pap smears</gyn>, <uti>urinary tract infection treatment</uti>, <lab>lab work and blood testing</lab>, pregnancy, STD and testosterone testing, <dot>DOT physicals for CDL drivers</dot>, <imm>I-693 immigration medical exams</imm>, vaccines, and diabetes and hypertension management (with a prescription for high blood pressure medication). Phone: {phone}. WhatsApp: {whatsapp}. The clinic has free parking and wheelchair access."
   },
   "location": {
     "title": "Our Hispanic Clinic Near You in Houston",
