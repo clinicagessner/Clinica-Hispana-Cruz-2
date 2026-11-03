@@ -74,7 +74,7 @@ La frecuencia de las dosis se decide caso por caso, según el nivel inicial y la
 
 Conviene ser claros: en una persona con niveles normales, la B12 extra no aporta más energía ni ayuda a bajar de peso, y no sustituye el tratamiento de otras causas de cansancio. Su valor está en corregir una deficiencia real. Si alguien le ofrece inyecciones "para adelgazar" sin revisar sus análisis, desconfíe.
 
-Si le interesan otras opciones de vitaminas, la página de [sueros vitaminados](/servicios/sueros-vitaminados) describe ese servicio; igualmente, el equipo médico valora primero si los necesita.
+Si prefiere recibir la B12 por vena, la página del [suero vitaminado de B12](/servicios/sueros-vitaminados) describe ese servicio; igualmente, el equipo médico valora primero si lo necesita.
 
 ## Precios de B12 sin seguro
 
