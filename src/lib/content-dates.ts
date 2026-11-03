@@ -25,7 +25,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "ultrasonido": "2026-10-04",
   "examen-dot": "2026-10-04",
   "vacunas": "2026-10-04",
-  "sueros-vitaminados": "2026-10-04",
+  "sueros-vitaminados": "2026-11-03",
   "suturas-heridas": "2026-10-04",
   "curacion-heridas": "2026-10-04",
   "cirugias-menores": "2026-10-04",

@@ -741,7 +741,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Puedo preguntar qué me van a aplicar antes de empezar?",
-        "answer": "Claro. Antes de colocar la vía, pregunta todo lo que quieras sobre el suero de vitamina B12 y por qué es adecuado para ti. El equipo médico te lo explica en español, sin prisas, y si no te convence puedes decidir no seguir."
+        "answer": "Claro. Antes de colocar la vía, pregunta todo lo que quieras sobre el suero vitaminado, la vitamina B12 que lleva y por qué es adecuado para ti. El equipo médico te lo explica en español, sin prisas, y si no te convence puedes decidir no seguir."
       },
       {
         "question": "¿Qué hago si me siento mal durante la aplicación?",
@@ -755,7 +755,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Can I ask what's in the bag before we start?",
-        "answer": "Of course. Before the line goes in, ask anything you want about the vitamin B12 drip and why it suits you. The medical team walks you through it in Spanish or English, without rushing, and you're free to decide not to go ahead."
+        "answer": "Of course. Before the line goes in, ask anything you want about the vitamin drip, the vitamin B12 in it and why it suits you. The medical team walks you through it in Spanish or English, without rushing, and you're free to decide not to go ahead."
       },
       {
         "question": "What should I do if I feel unwell during the drip?",
