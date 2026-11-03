@@ -19,7 +19,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
 - [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
 
-## Tanda 45
+## Tanda 47 — cambios del 2026-11-02 (anuncios = referencia)
+
+- [ ] https://www.hispanac2.com/  — cambiada 2026-11-02
+- [ ] https://www.hispanac2.com/en  — cambiada 2026-11-02
+- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-11-02
+- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-11-02
+
+## Tanda 48
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 43 impr.
 - [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 43 impr.
@@ -32,7 +41,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 
-## Tanda 46
+## Tanda 49
 
 - [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
