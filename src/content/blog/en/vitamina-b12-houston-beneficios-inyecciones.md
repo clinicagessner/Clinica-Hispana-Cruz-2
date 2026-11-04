@@ -74,7 +74,7 @@ How often you get doses is decided case by case, based on your starting level an
 
 To be straightforward: if your levels are already normal, extra B12 won't give you more energy or help you lose weight, and it doesn't replace treatment for other causes of fatigue. Its value lies in fixing a real deficiency. Be cautious with anyone selling "weight-loss" B12 shots without looking at your labs.
 
-If you'd rather get B12 through a vein, the [vitamin B12 IV therapy](/servicios/sueros-vitaminados) page describes that option; the medical team will still assess whether you need it.
+If you're curious about other vitamin services, the [IV vitamin therapy](/servicios/sueros-vitaminados) page describes that option; the medical team will still assess whether you need it.
 
 ## B12 pricing without insurance
 
