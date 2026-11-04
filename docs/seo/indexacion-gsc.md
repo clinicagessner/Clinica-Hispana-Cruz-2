@@ -6,38 +6,23 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 94 URLs del sitemap indexadas · 7 sin indexar (6 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-11-04; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 96 URLs del sitemap indexadas · 9 sin indexar (6 descubierta sin indexar · 2 sin datos · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 14 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 44 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  ✅ PEDIDA 03/11/2026
-
-- [x] https://www.hispanac2.com/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
-- [x] https://www.hispanac2.com/en/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
-- [x] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
-- [x] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
-- [x] https://www.hispanac2.com/  — cambiada 2026-11-02
-- [x] https://www.hispanac2.com/en  — cambiada 2026-11-02
-- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-02
-- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-02
-
-## Tanda 50 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 44 o sin sitio por el post del blog semanal)
+## Tanda 50 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 44 o sin sitio por el post del blog semanal)  📨 ENVIADA 04/11/2026
 
 - [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-11-02
 - [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-11-02
-
-## Tanda 51 — cambios del 2026-11-04 (sueros (anuncios), post de B12 y título de urología aprobado)
-
 - [ ] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-11-04
 - [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-11-04
 - [ ] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-04
 - [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-04
 
-## Tanda 48
+## Tanda 52
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 43 impr.
 - [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 43 impr.
@@ -50,7 +35,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 
-## Tanda 49
+## Tanda 53
 
 - [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
@@ -187,3 +172,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.hispanac2.com/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
 - [x] https://www.hispanac2.com/en/blog/tomar-presion-en-casa-brazalete-postura-registro  — cambiada 2026-10-27
+
+## Tanda 44 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  ✅ PEDIDA 03/11/2026
+
+- [x] https://www.hispanac2.com/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
+- [x] https://www.hispanac2.com/en/blog/nino-vomito-diarrea-deshidratacion-que-darle  — cambiada 2026-11-03 · post del blog semanal
+- [x] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-02
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-02
