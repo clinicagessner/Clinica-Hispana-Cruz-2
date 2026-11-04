@@ -30,6 +30,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-11-02
 - [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-11-02
 
+## Tanda 51 — cambios del 2026-11-04 (sueros (anuncios), post de B12 y título de urología aprobado)
+
+- [ ] https://www.hispanac2.com/servicios/sueros-vitaminados  — cambiada 2026-11-04
+- [ ] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-11-04
+- [ ] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-04
+- [ ] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-04
+
 ## Tanda 48
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 43 impr.
