@@ -6,40 +6,31 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-08; URL Inspection API, datos de hoy 2026-11-08):** 90 de 96 URLs del sitemap indexadas · 6 sin indexar (3 descubierta sin indexar · 3 desconocida).
+**Estado (actualizado 2026-11-09; URL Inspection API, datos de hoy 2026-11-09):** 90 de 96 URLs del sitemap indexadas · 6 sin indexar (4 desconocida · 1 rastreada sin indexar · 1 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 15 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 53 — cambios del 2026-11-08 (análisis diario: títulos de /en, exámenes de sangre y de heces) 📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
-
-- [x] https://www.hispanac2.com/en  — cambiada 2026-11-08
-- [x] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-11-08
-- [x] https://www.hispanac2.com/en/servicios/examenes-sangre  — cambiada 2026-11-08
-- [x] https://www.hispanac2.com/servicios/examen-heces  — cambiada 2026-11-08
-- [x] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-11-08
-
 ## Tanda 54
 
-- [ ] https://www.hispanac2.com  — cambiada 2026-11-08 · rastreada 2026-11-07 · indexada · pedida 2026-11-03 · 3022 impr.
-- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 30 impr.
-- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 12 impr.
-- [ ] https://www.hispanac2.com/en/blog  — cambiada 2026-10-04 · rastreada 2026-08-30 · indexada · 5 impr.
-- [ ] https://www.hispanac2.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 4 impr.
-- [ ] https://www.hispanac2.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-24 · indexada · 4 impr.
-- [ ] https://www.hispanac2.com/en/servicios/extraccion-implantes  — cambiada 2026-10-04 · rastreada 2026-07-16 · indexada · 4 impr.
-- [ ] https://www.hispanac2.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 3 impr.
-- [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-11 · indexada · 3 impr.
+- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 53 impr.
+- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 35 impr.
+- [ ] https://www.hispanac2.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 15 impr.
+- [ ] https://www.hispanac2.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-24 · indexada · 14 impr.
+- [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-11 · indexada · 11 impr.
+- [ ] https://www.hispanac2.com/en/servicios/extraccion-implantes  — cambiada 2026-10-04 · rastreada 2026-07-16 · indexada · 11 impr.
+- [ ] https://www.hispanac2.com/en/blog  — cambiada 2026-10-04 · rastreada 2026-08-30 · indexada · 8 impr.
+- [ ] https://www.hispanac2.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 6 impr.
 - [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
 
 ## Tanda 55
 
-- [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/tiroides  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/tiroides  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/examen-fisico-escolar  — cambiada 2026-10-04 · rastreada 2026-11-09 · rastreada sin indexar · 0 impr.
 
 ## Historial (tandas pedidas)
 
@@ -193,3 +184,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.hispanac2.com/en/servicios/sueros-vitaminados  — cambiada 2026-11-04
 - [x] https://www.hispanac2.com/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-04
 - [x] https://www.hispanac2.com/en/blog/vitamina-b12-houston-beneficios-inyecciones  — cambiada 2026-11-04
+
+## Tanda 53 — cambios del 2026-11-08 (análisis diario: títulos de /en, exámenes de sangre y de heces) 📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
+
+- [x] https://www.hispanac2.com/en  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/en/servicios/examenes-sangre  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/servicios/examen-heces  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-11-08
