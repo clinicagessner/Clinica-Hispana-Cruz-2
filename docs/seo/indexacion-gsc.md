@@ -12,13 +12,13 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 53 — cambios del 2026-11-08 (análisis diario: títulos de /en, exámenes de sangre y de heces) 📨 ENVIADA 08/11/2026
+## Tanda 53 — cambios del 2026-11-08 (análisis diario: títulos de /en, exámenes de sangre y de heces) 📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
 
-- [ ] https://www.hispanac2.com/en  — cambiada 2026-11-08
-- [ ] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-11-08
-- [ ] https://www.hispanac2.com/en/servicios/examenes-sangre  — cambiada 2026-11-08
-- [ ] https://www.hispanac2.com/servicios/examen-heces  — cambiada 2026-11-08
-- [ ] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/en  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/servicios/examenes-sangre  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/en/servicios/examenes-sangre  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/servicios/examen-heces  — cambiada 2026-11-08
+- [x] https://www.hispanac2.com/en/servicios/examen-heces  — cambiada 2026-11-08
 
 ## Tanda 54
 
