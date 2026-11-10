@@ -6,13 +6,18 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-09; URL Inspection API, datos de hoy 2026-11-09):** 90 de 96 URLs del sitemap indexadas · 6 sin indexar (4 desconocida · 1 rastreada sin indexar · 1 descubierta sin indexar).
+**Estado (actualizado 2026-11-10; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 90 de 96 URLs del sitemap indexadas · 6 sin indexar (4 desconocida · 1 rastreada sin indexar · 1 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 54
+## Tanda 56 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)
+
+- [ ] https://www.hispanac2.com  — cambiada 2026-11-10
+- [ ] https://www.hispanac2.com/en  — cambiada 2026-11-10
+
+## Tanda 57
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 53 impr.
 - [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 35 impr.
@@ -25,7 +30,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
 
-## Tanda 55
+## Tanda 58
 
 - [ ] https://www.hispanac2.com/en/servicios/suturas-heridas  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/tiroides  — cambiada 2026-10-04 · desconocida · 0 impr.
