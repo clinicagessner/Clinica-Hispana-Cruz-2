@@ -14,6 +14,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 56 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 10/11/2026
 
+- [ ] https://www.hispanac2.com/blog/diabetes-heridas-pies-infecciones-piel  — cambiada 2026-11-10 (post del blog semanal)
+- [ ] https://www.hispanac2.com/en/blog/diabetes-heridas-pies-infecciones-piel  — cambiada 2026-11-10 (post del blog semanal)
 - [ ] https://www.hispanac2.com  — cambiada 2026-11-10
 - [ ] https://www.hispanac2.com/en  — cambiada 2026-11-10
 
