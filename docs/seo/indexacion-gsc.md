@@ -12,12 +12,12 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 11/11/2026
+## Tanda 56 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
 
-- [ ] https://www.hispanac2.com/blog/diabetes-heridas-pies-infecciones-piel  — cambiada 2026-11-10 (post del blog semanal)
-- [ ] https://www.hispanac2.com/en/blog/diabetes-heridas-pies-infecciones-piel  — cambiada 2026-11-10 (post del blog semanal)
-- [ ] https://www.hispanac2.com  — cambiada 2026-11-10
-- [ ] https://www.hispanac2.com/en  — cambiada 2026-11-10
+- [x] https://www.hispanac2.com/blog/diabetes-heridas-pies-infecciones-piel  — cambiada 2026-11-10 (post del blog semanal)
+- [x] https://www.hispanac2.com/en/blog/diabetes-heridas-pies-infecciones-piel  — cambiada 2026-11-10 (post del blog semanal)
+- [x] https://www.hispanac2.com  — cambiada 2026-11-10
+- [x] https://www.hispanac2.com/en  — cambiada 2026-11-10
 
 ## Tanda 57
 
