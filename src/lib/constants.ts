@@ -43,6 +43,7 @@ export const CONTACT_INFO: ContactInfo = {
 export const SOCIAL_LINKS: SocialLinks = {
   instagram: "https://www.instagram.com/clinicahispanacruz2/",
   facebook: "https://www.facebook.com/465045156687109",
+  youtube: "https://www.youtube.com/@ClinicaHispanaCruz2",
   tiktok: "https://www.tiktok.com/@clinica.cruz.2",
   google: "https://www.google.com/maps/search/?api=1&query=Clinica+Hispana+Cruz+2+13331+Kuykendahl+Rd+Ste+128+Houston+TX+77090&query_place_id=ChIJ6R145DnLQIYRWbvQKXhSJfE",
   yelp: "https://www.yelp.com/biz/clinica-hispana-cruz-2-houston",

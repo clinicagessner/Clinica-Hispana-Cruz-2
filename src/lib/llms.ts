@@ -78,6 +78,7 @@ Clínica Hispana Cruz 2 is branch 2 of the Clínica Hispana Cruz network, which 
 ${[
   ["Facebook", SOCIAL_LINKS.facebook],
   ["Instagram", SOCIAL_LINKS.instagram],
+  ["YouTube", SOCIAL_LINKS.youtube],
   ["TikTok", SOCIAL_LINKS.tiktok],
   ["Yelp", SOCIAL_LINKS.yelp],
   ["Apple Maps", SOCIAL_LINKS.appleMaps],
