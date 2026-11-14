@@ -13,6 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
 <!-- /tandas:auto -->
 
+## Tanda 59 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.hispanac2.com/es  — cambiada 2026-11-14
+
 ## Tanda 57
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 53 impr.
