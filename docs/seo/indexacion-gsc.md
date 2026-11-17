@@ -12,6 +12,11 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 62 — cambios del 2026-11-17 (post del blog semanal)  📨 ENVIADA 17/11/2026
+
+- [ ] https://www.hispanac2.com/blog/colicos-menstruales-fuertes-cuando-revisarse  — cambiada 2026-11-17
+- [ ] https://www.hispanac2.com/en/blog/colicos-menstruales-fuertes-cuando-revisarse  — cambiada 2026-11-17
+
 ## Tanda 60
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 55 impr.
