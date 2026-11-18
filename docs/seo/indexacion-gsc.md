@@ -6,18 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-17; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 95 de 98 URLs del sitemap indexadas · 3 sin indexar (3 desconocida).
+**Estado (actualizado 2026-11-18; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 95 de 100 URLs del sitemap indexadas · 5 sin indexar (3 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 11 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
 <!-- /tandas:auto -->
 
-## Tanda 62 — cambios del 2026-11-17 (post del blog semanal)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
-
-- [x] https://www.hispanac2.com/blog/colicos-menstruales-fuertes-cuando-revisarse  — cambiada 2026-11-17
-- [x] https://www.hispanac2.com/en/blog/colicos-menstruales-fuertes-cuando-revisarse  — cambiada 2026-11-17
-
-## Tanda 60
+## Tanda 63
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 55 impr.
 - [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 39 impr.
@@ -30,7 +26,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · desconocida · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
 
-## Tanda 61
+## Tanda 64
 
 - [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — cambiada 2026-10-04 · desconocida · 0 impr.
 
@@ -206,3 +202,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.hispanac2.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
 - [x] https://www.hispanac2.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+
+## Tanda 62 — cambios del 2026-11-17 (post del blog semanal)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
+
+- [x] https://www.hispanac2.com/blog/colicos-menstruales-fuertes-cuando-revisarse  — cambiada 2026-11-17
+- [x] https://www.hispanac2.com/en/blog/colicos-menstruales-fuertes-cuando-revisarse  — cambiada 2026-11-17
