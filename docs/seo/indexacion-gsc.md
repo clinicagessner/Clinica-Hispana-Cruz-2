@@ -6,28 +6,23 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-22; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 95 de 100 URLs del sitemap indexadas · 5 sin indexar (3 desconocida · 2 sin datos).
+**Estado (actualizado 2026-11-23; URL Inspection API, datos de hoy 2026-11-23):** 95 de 100 URLs del sitemap indexadas · 5 sin indexar (2 rastreada sin indexar · 2 desconocida · 1 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 11 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
 <!-- /tandas:auto -->
 
 ## Tanda 63
 
-- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 55 impr.
-- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 39 impr.
-- [ ] https://www.hispanac2.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · indexada · 14 impr.
+- [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 67 impr.
+- [ ] https://www.hispanac2.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 43 impr.
+- [ ] https://www.hispanac2.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-04 · rastreada 2026-07-11 · rastreada sin indexar · 13 impr.
 - [ ] https://www.hispanac2.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-24 · indexada · 13 impr.
-- [ ] https://www.hispanac2.com/en/servicios/extraccion-implantes  — cambiada 2026-10-04 · rastreada 2026-07-16 · indexada · 11 impr.
-- [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-11 · indexada · 9 impr.
-- [ ] https://www.hispanac2.com/en/blog  — cambiada 2026-10-04 · rastreada 2026-08-30 · indexada · 8 impr.
+- [ ] https://www.hispanac2.com/en/servicios/extraccion-implantes  — cambiada 2026-10-04 · rastreada 2026-07-16 · rastreada sin indexar · 11 impr.
+- [ ] https://www.hispanac2.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-04 · rastreada 2026-09-11 · indexada · 8 impr.
 - [ ] https://www.hispanac2.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-04 · rastreada 2026-09-25 · indexada · 6 impr.
-- [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [ ] https://www.hispanac2.com/en/servicios/anticonceptivos  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispanac2.com/en/servicios/curacion-heridas  — cambiada 2026-10-04 · desconocida · 0 impr.
-
-## Tanda 64
-
 - [ ] https://www.hispanac2.com/en/servicios/ultrasonido  — cambiada 2026-10-04 · desconocida · 0 impr.
 
 ## Historial (tandas pedidas)
