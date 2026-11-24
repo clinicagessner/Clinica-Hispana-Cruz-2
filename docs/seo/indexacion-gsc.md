@@ -12,6 +12,10 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 64 — cambios del 2026-11-24 (post del blog semanal)  📨 ENVIADA 24/11/2026
+- [ ] https://www.hispanac2.com/blog/orinar-a-cada-rato-hombre-causas-revision  — cambiada 2026-11-24
+- [ ] https://www.hispanac2.com/en/blog/orinar-a-cada-rato-hombre-causas-revision  — cambiada 2026-11-24
+
 ## Tanda 63
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 67 impr.
