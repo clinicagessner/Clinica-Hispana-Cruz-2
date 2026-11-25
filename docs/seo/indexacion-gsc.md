@@ -12,6 +12,17 @@ Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 65 — cambios del 2026-11-25 (análisis diario: inmigración cerca de mí y frases de los anuncios en home, ginecología y urología)  📨 ENVIADA 25/11/2026
+
+- [ ] https://www.hispanac2.com/  — cambiada 2026-11-25
+- [ ] https://www.hispanac2.com/en  — cambiada 2026-11-25
+- [ ] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-25
+- [ ] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-25
+- [ ] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-11-25
+- [ ] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-11-25
+- [ ] https://www.hispanac2.com/servicios/examenes-inmigracion  — cambiada 2026-11-25
+- [ ] https://www.hispanac2.com/en/servicios/examenes-inmigracion  — cambiada 2026-11-25
+
 ## Tanda 64 — cambios del 2026-11-24 (post del blog semanal)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
 - [x] https://www.hispanac2.com/blog/orinar-a-cada-rato-hombre-causas-revision  — cambiada 2026-11-24
 - [x] https://www.hispanac2.com/en/blog/orinar-a-cada-rato-hombre-causas-revision  — cambiada 2026-11-24
