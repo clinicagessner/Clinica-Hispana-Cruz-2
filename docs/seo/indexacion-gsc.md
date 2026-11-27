@@ -6,22 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispanac2.com/`, cuenta **clinicahcruz2@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-26; URL Inspection API, datos ANTIGUOS del 2026-11-25: antiguos (2026-11-25): --sin-fetch):** 97 de 102 URLs del sitemap indexadas · 5 sin indexar (3 descubierta sin indexar · 2 rastreada sin indexar).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-25: antiguos (2026-11-25): --sin-fetch):** 97 de 102 URLs del sitemap indexadas · 5 sin indexar (3 descubierta sin indexar · 2 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
-
-## Tanda 65 — cambios del 2026-11-25 (análisis diario: inmigración cerca de mí y frases de los anuncios en home, ginecología y urología)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
-
-- [x] https://www.hispanac2.com/  — cambiada 2026-11-25
-- [x] https://www.hispanac2.com/en  — cambiada 2026-11-25
-- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-25
-- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-25
-- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-11-25
-- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-11-25
-- [x] https://www.hispanac2.com/servicios/examenes-inmigracion  — cambiada 2026-11-25
-- [x] https://www.hispanac2.com/en/servicios/examenes-inmigracion  — cambiada 2026-11-25
 
 ## Tanda 66
 
@@ -218,3 +207,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.hispanac2.com/blog/orinar-a-cada-rato-hombre-causas-revision  — cambiada 2026-11-24
 - [x] https://www.hispanac2.com/en/blog/orinar-a-cada-rato-hombre-causas-revision  — cambiada 2026-11-24
+
+## Tanda 65 — cambios del 2026-11-25 (análisis diario: inmigración cerca de mí y frases de los anuncios en home, ginecología y urología)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
+
+- [x] https://www.hispanac2.com/  — cambiada 2026-11-25
+- [x] https://www.hispanac2.com/en  — cambiada 2026-11-25
+- [x] https://www.hispanac2.com/servicios/ginecologia  — cambiada 2026-11-25
+- [x] https://www.hispanac2.com/en/servicios/ginecologia  — cambiada 2026-11-25
+- [x] https://www.hispanac2.com/servicios/infecciones-urinarias  — cambiada 2026-11-25
+- [x] https://www.hispanac2.com/en/servicios/infecciones-urinarias  — cambiada 2026-11-25
+- [x] https://www.hispanac2.com/servicios/examenes-inmigracion  — cambiada 2026-11-25
+- [x] https://www.hispanac2.com/en/servicios/examenes-inmigracion  — cambiada 2026-11-25
