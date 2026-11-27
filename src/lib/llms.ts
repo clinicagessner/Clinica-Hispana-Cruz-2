@@ -52,7 +52,7 @@ function header() {
   const address = `${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}`;
   return `# Clínica Hispana Cruz 2 - Houston, TX
 
-> Spanish-speaking walk-in medical clinic in north Houston (Kuykendahl Rd, between Champions and Spring). Primary care, women's health, lab testing, urgent minor care, DOT and I-693 immigration exams. Open every day 9 AM - 9 PM. No appointment and no insurance needed.
+> Spanish-speaking walk-in medical clinic in north Houston (Kuykendahl Rd, between Champions and Spring). Primary care, women's health, lab testing, urgent minor care, DOT and I-693 immigration exams (the I-693 is temporarily paused until further notice). Open every day 9 AM - 9 PM. No appointment and no insurance needed.
 
 Clínica Hispana Cruz 2 is branch 2 of the Clínica Hispana Cruz network, which also operates the Cruz, Cruz 3 and Cruz 4 clinics in the Houston area. Care is provided 100% in Spanish, with English also available.
 
