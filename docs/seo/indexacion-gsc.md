@@ -20,9 +20,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispanac2.com/  — cambiada 2026-11-27
 - [ ] https://www.hispanac2.com/en  — cambiada 2026-11-27
 
-## Tanda 69 — cambios del 2026-11-28 (X y Yelp en el pie (redes))
-
-
 ## Tanda 68
 
 - [ ] https://www.hispanac2.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-04 · rastreada 2026-09-23 · indexada · 28 impr.
