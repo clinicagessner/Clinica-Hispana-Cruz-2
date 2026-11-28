@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { getTranslations, getLocale } from "next-intl/server";
-import { Phone, MapPin, Clock, InstagramLogo, YoutubeLogo, FacebookLogo, XLogo, LinkedinLogo, GoogleLogo, TiktokLogo, PinterestLogo } from "@phosphor-icons/react/dist/ssr";
+import { Phone, MapPin, Clock, InstagramLogo, YoutubeLogo, FacebookLogo, XLogo, LinkedinLogo, GoogleLogo, TiktokLogo, PinterestLogo, House } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
 import { SITE_CONFIG, CONTACT_INFO, SOCIAL_LINKS, NAV_ITEMS, GOOGLE_REVIEWS_DATA, FOOTER_SERVICE_LINKS } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -253,6 +253,17 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
                   aria-label="Pinterest"
                 >
                   <PinterestLogo className="size-5" weight="fill" />
+                </a>
+              )}
+              {SOCIAL_LINKS.nextdoor && (
+                <a
+                  href={SOCIAL_LINKS.nextdoor}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="size-11 rounded-full bg-white/10 flex items-center justify-center hover:bg-red-primary transition-colors"
+                  aria-label="Nextdoor"
+                >
+                  <House className="size-5" weight="fill" />
                 </a>
               )}
               {SOCIAL_LINKS.yelp && (

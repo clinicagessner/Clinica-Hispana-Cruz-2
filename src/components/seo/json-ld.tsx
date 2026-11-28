@@ -98,6 +98,7 @@ export async function JsonLdMedicalClinic() {
           SOCIAL_LINKS.tiktok,
           SOCIAL_LINKS.x,
           SOCIAL_LINKS.pinterest,
+          SOCIAL_LINKS.nextdoor,
           SOCIAL_LINKS.yelp,
           SOCIAL_LINKS.appleMaps,
         ].filter(Boolean),

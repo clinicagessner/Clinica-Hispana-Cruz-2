@@ -82,6 +82,7 @@ ${[
   ["TikTok", SOCIAL_LINKS.tiktok],
   ["X", SOCIAL_LINKS.x],
   ["Pinterest", SOCIAL_LINKS.pinterest],
+  ["Nextdoor", SOCIAL_LINKS.nextdoor],
   ["Yelp", SOCIAL_LINKS.yelp],
   ["Apple Maps", SOCIAL_LINKS.appleMaps],
 ]
