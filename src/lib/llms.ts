@@ -80,6 +80,7 @@ ${[
   ["Instagram", SOCIAL_LINKS.instagram],
   ["YouTube", SOCIAL_LINKS.youtube],
   ["TikTok", SOCIAL_LINKS.tiktok],
+  ["X", SOCIAL_LINKS.x],
   ["Yelp", SOCIAL_LINKS.yelp],
   ["Apple Maps", SOCIAL_LINKS.appleMaps],
 ]
