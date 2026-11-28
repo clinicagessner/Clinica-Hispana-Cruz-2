@@ -81,6 +81,7 @@ ${[
   ["YouTube", SOCIAL_LINKS.youtube],
   ["TikTok", SOCIAL_LINKS.tiktok],
   ["X", SOCIAL_LINKS.x],
+  ["Pinterest", SOCIAL_LINKS.pinterest],
   ["Yelp", SOCIAL_LINKS.yelp],
   ["Apple Maps", SOCIAL_LINKS.appleMaps],
 ]

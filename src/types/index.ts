@@ -108,6 +108,7 @@ export interface SocialLinks {
   linkedin?: string;
   youtube?: string;
   tiktok?: string;
+  pinterest?: string;
   google?: string;
   yelp?: string;
   appleMaps?: string;

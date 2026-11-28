@@ -118,6 +118,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     // verification: {
     //   google: ["<TOKEN_1>", "<TOKEN_2>"],
     // },
+    // Reclamación del sitio en Pinterest (no quitar).
+    verification: {
+      other: { "p:domain_verify": "fa74ddeffce1c2a3d998985b576ed743" },
+    },
   };
 }
 
